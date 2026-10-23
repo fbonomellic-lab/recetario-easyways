@@ -58,7 +58,9 @@ def canonical(base, href, country):
         return None
     if country == "CL" and not re.fullmatch(r"/blogs/recetas/[a-z0-9][a-z0-9-]*", parsed.path):
         return None
-    if country == "AR" and parsed.path.rstrip("/").split("/")[-1] in {"iniciar-sesion", "registro", "login", "register", "mi-cuenta"}:\n        return None\n    if country == "AR" and not re.fullmatch(r"/kitchen-pro/[a-z0-9][a-z0-9-]*", parsed.path):
+    if country == "AR" and parsed.path.rstrip("/").split("/")[-1] in {"iniciar-sesion", "registro", "login", "register", "mi-cuenta"}:
+        return None
+    if country == "AR" and not re.fullmatch(r"/kitchen-pro/(?:kitchen-pro/)?[a-z0-9][a-z0-9-]*", parsed.path):
         return None
     return url
 
@@ -82,7 +84,10 @@ def discover(country, url):
 
 def main():
     old = json.loads(DEST.read_text(encoding="utf-8")) if DEST.exists() else []
-    indexed = {x["source_url"]: x for x in old\n               if not (x.get("country") == "AR" and urlparse(x["source_url"]).path.rstrip("/").split("/")[-1] in {"iniciar-sesion", "registro", "login", "register", "mi-cuenta"})}\n    for item in indexed.values():\n        item["machine"] = None  # Existing records have not been individually verified
+    indexed = {x["source_url"]: x for x in old
+               if not (x.get("country") == "AR" and urlparse(x["source_url"]).path.rstrip("/").split("/")[-1] in {"iniciar-sesion", "registro", "login", "register", "mi-cuenta"})}
+    for item in indexed.values():
+        item["machine"] = None  # Existing records have not been individually verified
     successes = 0
     for country, pattern, max_pages in SOURCES:
         for page in range(1, max_pages + 1):
@@ -108,7 +113,8 @@ def main():
         return 1
     DEST.parent.mkdir(parents=True, exist_ok=True)
     result = sorted(indexed.values(), key=lambda x: (x["country"], x["source_url"]))
-    rendered = json.dumps(result, ensure_ascii=False, indent=2) + "\n"
+    rendered = json.dumps(result, ensure_ascii=False, indent=2) + "
+"
     if not DEST.exists() or DEST.read_text(encoding="utf-8") != rendered:
         DEST.write_text(rendered, encoding="utf-8")
     print(f"Total discovered: {len(result)}")
