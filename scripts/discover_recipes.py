@@ -58,7 +58,7 @@ def canonical(base, href, country):
         return None
     if country == "CL" and not re.fullmatch(r"/blogs/recetas/[a-z0-9][a-z0-9-]*", parsed.path):
         return None
-    if country == "AR" and not re.fullmatch(r"/kitchen-pro/[a-z0-9][a-z0-9-]*", parsed.path):
+    if country == "AR" and parsed.path.rstrip("/").split("/")[-1] in {"iniciar-sesion", "registro", "login", "register", "mi-cuenta"}:\n        return None\n    if country == "AR" and not re.fullmatch(r"/kitchen-pro/[a-z0-9][a-z0-9-]*", parsed.path):
         return None
     return url
 
@@ -76,13 +76,13 @@ def discover(country, url):
         if not label or len(label) > 140:
             label = slug.replace("-", " ").capitalize()
         found[link] = {"id": country.lower() + ":" + slug, "title": label,
-                       "country": country, "machine": "Kitchen Pro",
+                       "country": country, "machine": None,  # Verify machine per recipe before labeling
                        "source_url": link, "first_seen": TODAY}
     return found
 
 def main():
     old = json.loads(DEST.read_text(encoding="utf-8")) if DEST.exists() else []
-    indexed = {x["source_url"]: x for x in old}
+    indexed = {x["source_url"]: x for x in old\n               if not (x.get("country") == "AR" and urlparse(x["source_url"]).path.rstrip("/").split("/")[-1] in {"iniciar-sesion", "registro", "login", "register", "mi-cuenta"})}\n    for item in indexed.values():\n        item["machine"] = None  # Existing records have not been individually verified
     successes = 0
     for country, pattern, max_pages in SOURCES:
         for page in range(1, max_pages + 1):
