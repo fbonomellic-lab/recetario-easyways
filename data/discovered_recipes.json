@@ -1,5 +1,53 @@
 [
   {
+    "id": "ar:energy-balls-de-damasco-coco-y-chia",
+    "title": "Energy balls de damasco, coco y chía",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/energy-balls-de-damasco-coco-y-chia",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "id": "ar:ensalada-de-porotos-granados",
+    "title": "Ensalada de porotos granados \n                         Entradas / Salsas / Aperitivos, Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/ensalada-de-porotos-granados",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "id": "ar:ensalada-de-quinoa",
+    "title": "Ensalada de quinoa \n                         Para Celíacos, Platos de Fondo, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/ensalada-de-quinoa",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "id": "ar:flan-de-manzanas",
+    "title": "Flan de manzana \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/flan-de-manzanas",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "id": "ar:fudge-de-chocolate-y-avellanas",
+    "title": "Fudge de chocolate y avellanas \n                         Masas / Queques / Panes, Postres, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/fudge-de-chocolate-y-avellanas",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "id": "ar:porotos-granados",
+    "title": "Porotos granados \n                         Platos de Fondo, Comida chilena, Comida chilena, Platos de Fondo, Vegetarianos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/porotos-granados",
+    "first_seen": "2026-10-23"
+  },
+  {
     "id": "cl:aderezo-de-mango-y-cilantro-para-ensaladas",
     "title": "Aderezo de mango y cilantro para ensaladas",
     "country": "CL",
@@ -29,6 +77,14 @@
     "country": "CL",
     "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/alfajores-chilenos",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "id": "cl:alioli-2",
+    "title": "Alioli",
+    "country": "CL",
+    "machine": null,
+    "source_url": "https://easyways.cl/blogs/recetas/alioli-2",
     "first_seen": "2026-10-23"
   },
   {
