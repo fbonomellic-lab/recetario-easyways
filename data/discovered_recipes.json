@@ -1,25 +1,9 @@
 [
   {
-    "id": "ar:iniciar-sesion",
-    "title": "Inicia Sesión",
-    "country": "AR",
-    "machine": "Kitchen Pro",
-    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/iniciar-sesion",
-    "first_seen": "2026-10-23"
-  },
-  {
-    "id": "ar:registro",
-    "title": "REGISTRATE",
-    "country": "AR",
-    "machine": "Kitchen Pro",
-    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/registro",
-    "first_seen": "2026-10-23"
-  },
-  {
     "id": "cl:aderezo-de-mango-y-cilantro-para-ensaladas",
     "title": "Aderezo de mango y cilantro para ensaladas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/aderezo-de-mango-y-cilantro-para-ensaladas",
     "first_seen": "2026-10-23"
   },
@@ -27,7 +11,7 @@
     "id": "cl:aji-de-gallina-peruano",
     "title": "Ají de gallina peruano",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/aji-de-gallina-peruano",
     "first_seen": "2026-10-23"
   },
@@ -35,7 +19,7 @@
     "id": "cl:albondigas-de-brocoli",
     "title": "Albóndigas de brócoli",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/albondigas-de-brocoli",
     "first_seen": "2026-10-23"
   },
@@ -43,7 +27,7 @@
     "id": "cl:alfajores-chilenos",
     "title": "Alfajores chilenos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/alfajores-chilenos",
     "first_seen": "2026-10-23"
   },
@@ -51,7 +35,7 @@
     "id": "cl:almibar-claro",
     "title": "Almíbar claro",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/almibar-claro",
     "first_seen": "2026-10-23"
   },
@@ -59,7 +43,7 @@
     "id": "cl:amaretto-sour-1",
     "title": "Amaretto sour",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/amaretto-sour-1",
     "first_seen": "2026-10-23"
   },
@@ -67,7 +51,7 @@
     "id": "cl:amaretto-sour-by-disaronno-2",
     "title": "Amaretto sour by Disaronno",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/amaretto-sour-by-disaronno-2",
     "first_seen": "2026-10-23"
   },
@@ -75,7 +59,7 @@
     "id": "cl:arepas-con-zanahoria-y-cilantro",
     "title": "Arepas con zanahoria y cilantro",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/arepas-con-zanahoria-y-cilantro",
     "first_seen": "2026-10-23"
   },
@@ -83,7 +67,7 @@
     "id": "cl:arrollado-1",
     "title": "Arrollado",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/arrollado-1",
     "first_seen": "2026-10-23"
   },
@@ -91,7 +75,7 @@
     "id": "cl:arroz",
     "title": "Arroz",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/arroz",
     "first_seen": "2026-10-23"
   },
@@ -99,7 +83,7 @@
     "id": "cl:arroz-caldoso-de-zapallo-camote-3",
     "title": "Arroz caldoso de zapallo camote",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/arroz-caldoso-de-zapallo-camote-3",
     "first_seen": "2026-10-23"
   },
@@ -107,7 +91,7 @@
     "id": "cl:arroz-con-leche-de-coco-y-especias-1",
     "title": "Arroz con leche de coco y especias",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/arroz-con-leche-de-coco-y-especias-1",
     "first_seen": "2026-10-23"
   },
@@ -115,7 +99,7 @@
     "id": "cl:arroz-con-sofrito-natura-2",
     "title": "Arroz con sofrito (Natura)",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/arroz-con-sofrito-natura-2",
     "first_seen": "2026-10-23"
   },
@@ -123,7 +107,7 @@
     "id": "cl:arroz-de-coliflor",
     "title": "Arroz de coliflor",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/arroz-de-coliflor",
     "first_seen": "2026-10-23"
   },
@@ -131,7 +115,7 @@
     "id": "cl:arroz-de-tomate",
     "title": "Arroz de tomate",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/arroz-de-tomate",
     "first_seen": "2026-10-23"
   },
@@ -139,7 +123,7 @@
     "id": "cl:arroz-integral",
     "title": "Arroz integral",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/arroz-integral",
     "first_seen": "2026-10-23"
   },
@@ -147,7 +131,7 @@
     "id": "cl:asado-aleman",
     "title": "Asado alemán",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/asado-aleman",
     "first_seen": "2026-10-23"
   },
@@ -155,7 +139,7 @@
     "id": "cl:azucar-flor-receta-basica",
     "title": "Azúcar flor (receta básica)",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/azucar-flor-receta-basica",
     "first_seen": "2026-10-23"
   },
@@ -163,7 +147,7 @@
     "id": "cl:baba-ganoush-1",
     "title": "Baba Ganoush",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/baba-ganoush-1",
     "first_seen": "2026-10-23"
   },
@@ -171,7 +155,7 @@
     "id": "cl:barra-granola-saludable-1",
     "title": "Barra granola saludable",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/barra-granola-saludable-1",
     "first_seen": "2026-10-23"
   },
@@ -179,7 +163,7 @@
     "id": "cl:barritas-de-avena-chips-de-chocolate-y-frutos-secos-1",
     "title": "Barritas de avena, chips de chocolate y frutos secos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/barritas-de-avena-chips-de-chocolate-y-frutos-secos-1",
     "first_seen": "2026-10-23"
   },
@@ -187,7 +171,7 @@
     "id": "cl:barritas-de-avena-y-manjar",
     "title": "Barritas de avena y manjar",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/barritas-de-avena-y-manjar",
     "first_seen": "2026-10-23"
   },
@@ -195,7 +179,7 @@
     "id": "cl:barritas-de-berries-y-coco-veganas",
     "title": "Barritas de berries y coco veganas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/barritas-de-berries-y-coco-veganas",
     "first_seen": "2026-10-23"
   },
@@ -203,7 +187,7 @@
     "id": "cl:barritas-de-cereal-raw-1",
     "title": "Barritas de cereal raw",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/barritas-de-cereal-raw-1",
     "first_seen": "2026-10-23"
   },
@@ -211,7 +195,7 @@
     "id": "cl:barritas-de-coliflor-gratinadas",
     "title": "Barritas de coliflor gratinadas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/barritas-de-coliflor-gratinadas",
     "first_seen": "2026-10-23"
   },
@@ -219,7 +203,7 @@
     "id": "cl:barritas-de-proteina-1",
     "title": "Barritas de proteína",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/barritas-de-proteina-1",
     "first_seen": "2026-10-23"
   },
@@ -227,7 +211,7 @@
     "id": "cl:base-para-ceviche-1",
     "title": "Base para ceviche",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/base-para-ceviche-1",
     "first_seen": "2026-10-23"
   },
@@ -235,7 +219,7 @@
     "id": "cl:batido-de-proteina-con-platano-1",
     "title": "Batido de proteína con plátano",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/batido-de-proteina-con-platano-1",
     "first_seen": "2026-10-23"
   },
@@ -243,7 +227,7 @@
     "id": "cl:bavarois-de-menta",
     "title": "Bavarois de menta",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/bavarois-de-menta",
     "first_seen": "2026-10-23"
   },
@@ -251,7 +235,7 @@
     "id": "cl:berenjenas-a-la-parmesana-2",
     "title": "Berenjenas a la parmesana",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/berenjenas-a-la-parmesana-2",
     "first_seen": "2026-10-23"
   },
@@ -259,7 +243,7 @@
     "id": "cl:berlines-1",
     "title": "Berlines",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/berlines-1",
     "first_seen": "2026-10-23"
   },
@@ -267,7 +251,7 @@
     "id": "cl:bizcocho-de-peras-y-nueces",
     "title": "Bizcocho de peras y nueces",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/bizcocho-de-peras-y-nueces",
     "first_seen": "2026-10-23"
   },
@@ -275,7 +259,7 @@
     "id": "cl:black-martini-halloween",
     "title": "Black Martini Halloween",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/black-martini-halloween",
     "first_seen": "2026-10-23"
   },
@@ -283,7 +267,7 @@
     "id": "cl:blondies-de-porotos-blancos-y-cranberries-1",
     "title": "Blondies de porotos blancos y cranberries",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/blondies-de-porotos-blancos-y-cranberries-1",
     "first_seen": "2026-10-23"
   },
@@ -291,7 +275,7 @@
     "id": "cl:bolitas-de-almendras-banadas-en-chocolate",
     "title": "Bolitas de almendras bañadas en chocolate",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/bolitas-de-almendras-banadas-en-chocolate",
     "first_seen": "2026-10-23"
   },
@@ -299,7 +283,7 @@
     "id": "cl:bolitas-de-manzana-y-avena",
     "title": "Bolitas de manzana y avena",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/bolitas-de-manzana-y-avena",
     "first_seen": "2026-10-23"
   },
@@ -307,7 +291,7 @@
     "id": "cl:bolitas-para-la-energia-2",
     "title": "Bolitas para la energía",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/bolitas-para-la-energia-2",
     "first_seen": "2026-10-23"
   },
@@ -315,7 +299,7 @@
     "id": "cl:brownie-de-chocolate-blanco-con-leche-condensada",
     "title": "Brownie de chocolate blanco con leche condensada",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/brownie-de-chocolate-blanco-con-leche-condensada",
     "first_seen": "2026-10-23"
   },
@@ -323,7 +307,7 @@
     "id": "cl:brownie-de-nutella-1",
     "title": "Brownie de nutella",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/brownie-de-nutella-1",
     "first_seen": "2026-10-23"
   },
@@ -331,7 +315,7 @@
     "id": "cl:brownie-keto-1",
     "title": "Brownie Keto",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/brownie-keto-1",
     "first_seen": "2026-10-23"
   },
@@ -339,7 +323,7 @@
     "id": "cl:brownie-saludable",
     "title": "Brownie saludable",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/brownie-saludable",
     "first_seen": "2026-10-23"
   },
@@ -347,7 +331,7 @@
     "id": "cl:budin-de-espinacas",
     "title": "Budín de espinacas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/budin-de-espinacas",
     "first_seen": "2026-10-23"
   },
@@ -355,7 +339,7 @@
     "id": "cl:budin-de-pan-colegial-3",
     "title": "Budín de pan / colegial",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/budin-de-pan-colegial-3",
     "first_seen": "2026-10-23"
   },
@@ -363,7 +347,7 @@
     "id": "cl:cafe-frappe",
     "title": "Café frappé",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/cafe-frappe",
     "first_seen": "2026-10-23"
   },
@@ -371,7 +355,7 @@
     "id": "cl:caldillo-de-mariscos-1",
     "title": "Caldillo de mariscos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/caldillo-de-mariscos-1",
     "first_seen": "2026-10-23"
   },
@@ -379,7 +363,7 @@
     "id": "cl:caldo-concentrado-en-caluga",
     "title": "Caldo concentrado en caluga",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/caldo-concentrado-en-caluga",
     "first_seen": "2026-10-23"
   },
@@ -387,7 +371,7 @@
     "id": "cl:calzones-rotos-saludables",
     "title": "Calzones rotos saludables",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/calzones-rotos-saludables",
     "first_seen": "2026-10-23"
   },
@@ -395,7 +379,7 @@
     "id": "cl:carne-con-almendras",
     "title": "Carne con almendras",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/carne-con-almendras",
     "first_seen": "2026-10-23"
   },
@@ -403,7 +387,7 @@
     "id": "cl:carne-mongoliana-natura-2",
     "title": "CARNE MONGOLIANA (Natura)",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/carne-mongoliana-natura-2",
     "first_seen": "2026-10-23"
   },
@@ -411,7 +395,7 @@
     "id": "cl:cerdo-con-salasa-de-datiles-y-naranjas-1",
     "title": "Cerdo con salasa de dátiles y naranjas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/cerdo-con-salasa-de-datiles-y-naranjas-1",
     "first_seen": "2026-10-23"
   },
@@ -419,7 +403,7 @@
     "id": "cl:cereal-tostaditas-de-canela-1",
     "title": "Cereal Tostaditas De Canela",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/cereal-tostaditas-de-canela-1",
     "first_seen": "2026-10-23"
   },
@@ -427,7 +411,7 @@
     "id": "cl:cereales-de-chocolate",
     "title": "Cereales de chocolate",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/cereales-de-chocolate",
     "first_seen": "2026-10-23"
   },
@@ -435,7 +419,7 @@
     "id": "cl:chai-latte",
     "title": "Chai Latte",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/chai-latte",
     "first_seen": "2026-10-23"
   },
@@ -443,7 +427,7 @@
     "id": "cl:chamoy-1",
     "title": "Chamoy",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/chamoy-1",
     "first_seen": "2026-10-23"
   },
@@ -451,7 +435,7 @@
     "id": "cl:chancaca",
     "title": "Chancaca",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/chancaca",
     "first_seen": "2026-10-23"
   },
@@ -459,7 +443,7 @@
     "id": "cl:chaparritas-caseras-de-momia-1",
     "title": "Chaparritas caseras de momia",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/chaparritas-caseras-de-momia-1",
     "first_seen": "2026-10-23"
   },
@@ -467,7 +451,7 @@
     "id": "cl:charquican-vegano-de-cochayuyo",
     "title": "Charquicán vegano de cochayuyo",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/charquican-vegano-de-cochayuyo",
     "first_seen": "2026-10-23"
   },
@@ -475,7 +459,7 @@
     "id": "cl:charquican-vegetariano",
     "title": "Charquicán vegetariano",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/charquican-vegetariano",
     "first_seen": "2026-10-23"
   },
@@ -483,7 +467,7 @@
     "id": "cl:cheesecake-de-baileys-y-chocolate-1",
     "title": "Cheesecake de baileys y chocolate",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/cheesecake-de-baileys-y-chocolate-1",
     "first_seen": "2026-10-23"
   },
@@ -491,7 +475,7 @@
     "id": "cl:cheesecake-de-mango-2",
     "title": "Cheesecake de mango",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/cheesecake-de-mango-2",
     "first_seen": "2026-10-23"
   },
@@ -499,7 +483,7 @@
     "id": "cl:chicken-salad-1",
     "title": "Chicken salad",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/chicken-salad-1",
     "first_seen": "2026-10-23"
   },
@@ -507,7 +491,7 @@
     "id": "cl:chile-con-carne-3",
     "title": "Chile con carne",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/chile-con-carne-3",
     "first_seen": "2026-10-23"
   },
@@ -515,7 +499,7 @@
     "id": "cl:chile-de-porotos-negros-1",
     "title": "Chile De Porotos Negros",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/chile-de-porotos-negros-1",
     "first_seen": "2026-10-23"
   },
@@ -523,7 +507,7 @@
     "id": "cl:chimichurri",
     "title": "Chimichurri",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/chimichurri",
     "first_seen": "2026-10-23"
   },
@@ -531,7 +515,7 @@
     "id": "cl:chocolate-caliente-bitter",
     "title": "Chocolate caliente bitter",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/chocolate-caliente-bitter",
     "first_seen": "2026-10-23"
   },
@@ -539,7 +523,7 @@
     "id": "cl:chocolate-caliente-vegano-sin-azucar",
     "title": "Chocolate caliente vegano sin azúcar",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/chocolate-caliente-vegano-sin-azucar",
     "first_seen": "2026-10-23"
   },
@@ -547,7 +531,7 @@
     "id": "cl:chupe-de-mariscos",
     "title": "Chupe de mariscos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/chupe-de-mariscos",
     "first_seen": "2026-10-23"
   },
@@ -555,7 +539,7 @@
     "id": "cl:churros-1",
     "title": "Churros",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/churros-1",
     "first_seen": "2026-10-23"
   },
@@ -563,7 +547,7 @@
     "id": "cl:clafouti-de-berries",
     "title": "Clafouti de berries",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/clafouti-de-berries",
     "first_seen": "2026-10-23"
   },
@@ -571,7 +555,7 @@
     "id": "cl:clafouti-de-peras-y-almendras",
     "title": "Clafouti de peras y almendras",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/clafouti-de-peras-y-almendras",
     "first_seen": "2026-10-23"
   },
@@ -579,7 +563,7 @@
     "id": "cl:cocadas",
     "title": "Cocadas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/cocadas",
     "first_seen": "2026-10-23"
   },
@@ -587,7 +571,7 @@
     "id": "cl:cola-de-mono-baja-en-azucar-y-grasas",
     "title": "Cola de mono baja en azúcar y grasas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/cola-de-mono-baja-en-azucar-y-grasas",
     "first_seen": "2026-10-23"
   },
@@ -595,7 +579,7 @@
     "id": "cl:coliflor-al-vapor-1",
     "title": "Coliflor al vapor",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/coliflor-al-vapor-1",
     "first_seen": "2026-10-23"
   },
@@ -603,7 +587,7 @@
     "id": "cl:compota-de-duraznos",
     "title": "Compota de duraznos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/compota-de-duraznos",
     "first_seen": "2026-10-23"
   },
@@ -611,7 +595,7 @@
     "id": "cl:compota-de-manzana-para-squeeze",
     "title": "Compota de manzana para squeeze",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/compota-de-manzana-para-squeeze",
     "first_seen": "2026-10-23"
   },
@@ -619,7 +603,7 @@
     "id": "cl:compota-de-manzanas",
     "title": "Compota de manzanas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/compota-de-manzanas",
     "first_seen": "2026-10-23"
   },
@@ -627,7 +611,7 @@
     "id": "cl:concentrado-de-verduras-1",
     "title": "Concentrado de verduras",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/concentrado-de-verduras-1",
     "first_seen": "2026-10-23"
   },
@@ -635,7 +619,7 @@
     "id": "cl:conitos-rellenos-1",
     "title": "Conitos rellenos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/conitos-rellenos-1",
     "first_seen": "2026-10-23"
   },
@@ -643,7 +627,7 @@
     "id": "cl:corona-de-navidad",
     "title": "Corona de Navidad",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/corona-de-navidad",
     "first_seen": "2026-10-23"
   },
@@ -651,7 +635,7 @@
     "id": "cl:crema-de-alcachofas",
     "title": "Crema de alcachofas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/crema-de-alcachofas",
     "first_seen": "2026-10-23"
   },
@@ -659,7 +643,7 @@
     "id": "cl:crema-de-brocoli-y-espinaca",
     "title": "Crema de brócoli y espinaca",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/crema-de-brocoli-y-espinaca",
     "first_seen": "2026-10-23"
   },
@@ -667,7 +651,7 @@
     "id": "cl:crema-de-cebolla-y-papa",
     "title": "Crema de cebolla y papa",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/crema-de-cebolla-y-papa",
     "first_seen": "2026-10-23"
   },
@@ -675,7 +659,7 @@
     "id": "cl:crema-de-lentejas-rojas-y-zanahoria-al-curry",
     "title": "Crema de lentejas rojas y zanahoria al curry",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/crema-de-lentejas-rojas-y-zanahoria-al-curry",
     "first_seen": "2026-10-23"
   },
@@ -683,7 +667,7 @@
     "id": "cl:crema-de-tomates",
     "title": "Crema de tomates",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/crema-de-tomates",
     "first_seen": "2026-10-23"
   },
@@ -691,7 +675,7 @@
     "id": "cl:crema-de-zanahoria-y-manzana-al-curry",
     "title": "Crema de zanahoria y manzana al curry",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/crema-de-zanahoria-y-manzana-al-curry",
     "first_seen": "2026-10-23"
   },
@@ -699,7 +683,7 @@
     "id": "cl:crema-de-zanahorias",
     "title": "Crema de zanahorias",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/crema-de-zanahorias",
     "first_seen": "2026-10-23"
   },
@@ -707,7 +691,7 @@
     "id": "cl:crema-de-zapallo",
     "title": "Crema de zapallo",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/crema-de-zapallo",
     "first_seen": "2026-10-23"
   },
@@ -715,7 +699,7 @@
     "id": "cl:crema-de-zapallo-leche-de-coco-y-jengibre",
     "title": "Crema de zapallo, leche de coco y jengibre",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/crema-de-zapallo-leche-de-coco-y-jengibre",
     "first_seen": "2026-10-23"
   },
@@ -723,7 +707,7 @@
     "id": "cl:crema-de-zapallo-y-zanahoria-1",
     "title": "Crema de zapallo y zanahoria",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/crema-de-zapallo-y-zanahoria-1",
     "first_seen": "2026-10-23"
   },
@@ -731,7 +715,7 @@
     "id": "cl:creme-brulee-de-chocolate",
     "title": "Creme brulee de chocolate",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/creme-brulee-de-chocolate",
     "first_seen": "2026-10-23"
   },
@@ -739,7 +723,7 @@
     "id": "cl:croquetas-de-espinaca",
     "title": "Croquetas de espinaca",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/croquetas-de-espinaca",
     "first_seen": "2026-10-23"
   },
@@ -747,7 +731,7 @@
     "id": "cl:croquetas-espanolas-de-jamon-1",
     "title": "Croquetas españolas de jamón",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/croquetas-espanolas-de-jamon-1",
     "first_seen": "2026-10-23"
   },
@@ -755,7 +739,7 @@
     "id": "cl:croquetas-para-mascota-3",
     "title": "Croquetas para mascota",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/croquetas-para-mascota-3",
     "first_seen": "2026-10-23"
   },
@@ -763,7 +747,7 @@
     "id": "cl:crumble-de-berries",
     "title": "Crumble de berries",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/crumble-de-berries",
     "first_seen": "2026-10-23"
   },
@@ -771,7 +755,7 @@
     "id": "cl:crumble-de-duraznos",
     "title": "Crumble de duraznos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/crumble-de-duraznos",
     "first_seen": "2026-10-23"
   },
@@ -779,7 +763,7 @@
     "id": "cl:crumble-de-duraznos-y-moras-1",
     "title": "Crumble de duraznos y moras",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/crumble-de-duraznos-y-moras-1",
     "first_seen": "2026-10-23"
   },
@@ -787,7 +771,7 @@
     "id": "cl:crumble-de-manzanas",
     "title": "Crumble de manzanas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/crumble-de-manzanas",
     "first_seen": "2026-10-23"
   },
@@ -795,7 +779,7 @@
     "id": "cl:cuadraditos-almendrados-1",
     "title": "Cuadraditos almendrados",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/cuadraditos-almendrados-1",
     "first_seen": "2026-10-23"
   },
@@ -803,7 +787,7 @@
     "id": "cl:cupcakes-decorados-de-conejo-1",
     "title": "Cupcakes decorados de conejo",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/cupcakes-decorados-de-conejo-1",
     "first_seen": "2026-10-23"
   },
@@ -811,7 +795,7 @@
     "id": "cl:cupcakes-navidenos-de-jengibre",
     "title": "Cupcakes navideños de jengibre",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/cupcakes-navidenos-de-jengibre",
     "first_seen": "2026-10-23"
   },
@@ -819,7 +803,7 @@
     "id": "cl:curry-de-garbanzos-3",
     "title": "Curry de garbanzos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/curry-de-garbanzos-3",
     "first_seen": "2026-10-23"
   },
@@ -827,7 +811,7 @@
     "id": "cl:curry-de-tofu-y-verduras",
     "title": "Curry de tofu y verduras",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/curry-de-tofu-y-verduras",
     "first_seen": "2026-10-23"
   },
@@ -835,7 +819,7 @@
     "id": "cl:dip-de-alcachofas-y-queso-caliente",
     "title": "Dip de alcachofas y queso caliente",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/dip-de-alcachofas-y-queso-caliente",
     "first_seen": "2026-10-23"
   },
@@ -843,7 +827,7 @@
     "id": "cl:dip-de-semillas-de-girasol-y-cilantro",
     "title": "Dip de semillas de girasol y cilantro",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/dip-de-semillas-de-girasol-y-cilantro",
     "first_seen": "2026-10-23"
   },
@@ -851,7 +835,7 @@
     "id": "cl:dulce-de-camote",
     "title": "Dulce de camote",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/dulce-de-camote",
     "first_seen": "2026-10-23"
   },
@@ -859,7 +843,7 @@
     "id": "cl:empolvados-chilenos",
     "title": "Empolvados chilenos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/empolvados-chilenos",
     "first_seen": "2026-10-23"
   },
@@ -867,7 +851,7 @@
     "id": "cl:ensalada-de-porotos-granados-1",
     "title": "Ensalada de porotos granados",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/ensalada-de-porotos-granados-1",
     "first_seen": "2026-10-23"
   },
@@ -875,7 +859,7 @@
     "id": "cl:espresso-martini",
     "title": "Espresso martini",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/espresso-martini",
     "first_seen": "2026-10-23"
   },
@@ -883,7 +867,7 @@
     "id": "cl:estofado-de-cerdo-y-champinones-1",
     "title": "Estofado de cerdo y champiñones",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/estofado-de-cerdo-y-champinones-1",
     "first_seen": "2026-10-23"
   },
@@ -891,7 +875,7 @@
     "id": "cl:falafel-de-garbanzos",
     "title": "Falafel de garbanzos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/falafel-de-garbanzos",
     "first_seen": "2026-10-23"
   },
@@ -899,7 +883,7 @@
     "id": "cl:figuras-de-mazapan-vegano-1",
     "title": "Figuras de mazapán vegano",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/figuras-de-mazapan-vegano-1",
     "first_seen": "2026-10-23"
   },
@@ -907,7 +891,7 @@
     "id": "cl:filete-a-la-sal",
     "title": "Filete a la sal",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/filete-a-la-sal",
     "first_seen": "2026-10-23"
   },
@@ -915,7 +899,7 @@
     "id": "cl:flan-de-chocolate",
     "title": "Flan de chocolate",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/flan-de-chocolate",
     "first_seen": "2026-10-23"
   },
@@ -923,7 +907,7 @@
     "id": "cl:flan-de-leche-condensada",
     "title": "Flan de leche condensada",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/flan-de-leche-condensada",
     "first_seen": "2026-10-23"
   },
@@ -931,7 +915,7 @@
     "id": "cl:flan-de-manzana",
     "title": "Flan de manzana",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/flan-de-manzana",
     "first_seen": "2026-10-23"
   },
@@ -939,7 +923,7 @@
     "id": "cl:frapuccino-radical-2",
     "title": "Frapuccino Radical",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/frapuccino-radical-2",
     "first_seen": "2026-10-23"
   },
@@ -947,7 +931,7 @@
     "id": "cl:frosting-de-mantequilla",
     "title": "Frosting de mantequilla",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/frosting-de-mantequilla",
     "first_seen": "2026-10-23"
   },
@@ -955,7 +939,7 @@
     "id": "cl:frozen-gin-con-frambuesas",
     "title": "Frozen gin con frambuesas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/frozen-gin-con-frambuesas",
     "first_seen": "2026-10-23"
   },
@@ -963,7 +947,7 @@
     "id": "cl:frutilla-sour",
     "title": "Frutilla sour",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/frutilla-sour",
     "first_seen": "2026-10-23"
   },
@@ -971,7 +955,7 @@
     "id": "cl:galletas-con-pistachos-chocolate-blanco-y-cranberries-deshidratados",
     "title": "Galletas con pistachos, chocolate blanco y cranberries deshidratados",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/galletas-con-pistachos-chocolate-blanco-y-cranberries-deshidratados",
     "first_seen": "2026-10-23"
   },
@@ -979,7 +963,7 @@
     "id": "cl:galletas-de-almendra-y-coco",
     "title": "Galletas de almendra y coco",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/galletas-de-almendra-y-coco",
     "first_seen": "2026-10-23"
   },
@@ -987,7 +971,7 @@
     "id": "cl:galletas-de-champana-1",
     "title": "Galletas de Champaña",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/galletas-de-champana-1",
     "first_seen": "2026-10-23"
   },
@@ -995,7 +979,7 @@
     "id": "cl:galletas-de-jengibre",
     "title": "Galletas de jengibre",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/galletas-de-jengibre",
     "first_seen": "2026-10-23"
   },
@@ -1003,7 +987,7 @@
     "id": "cl:galletas-de-lemon-curd-1",
     "title": "Galletas de lemon curd",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/galletas-de-lemon-curd-1",
     "first_seen": "2026-10-23"
   },
@@ -1011,7 +995,7 @@
     "id": "cl:galletas-de-navidad-3",
     "title": "Galletas de navidad",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/galletas-de-navidad-3",
     "first_seen": "2026-10-23"
   },
@@ -1019,7 +1003,7 @@
     "id": "cl:galletas-sin-gluten-1",
     "title": "Galletas sin gluten",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/galletas-sin-gluten-1",
     "first_seen": "2026-10-23"
   },
@@ -1027,7 +1011,7 @@
     "id": "cl:galletas-sin-gluten-con-chocolate",
     "title": "Galletas sin gluten con chocolate",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/galletas-sin-gluten-con-chocolate",
     "first_seen": "2026-10-23"
   },
@@ -1035,7 +1019,7 @@
     "id": "cl:galletas-tipo-oreo-sin-hornear",
     "title": "Galletas tipo oreo sin hornear",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/galletas-tipo-oreo-sin-hornear",
     "first_seen": "2026-10-23"
   },
@@ -1043,7 +1027,7 @@
     "id": "cl:galletones-de-avena-y-coco",
     "title": "Galletones de avena y coco",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/galletones-de-avena-y-coco",
     "first_seen": "2026-10-23"
   },
@@ -1051,7 +1035,7 @@
     "id": "cl:galletones-de-chocolate",
     "title": "Galletones de chocolate",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/galletones-de-chocolate",
     "first_seen": "2026-10-23"
   },
@@ -1059,7 +1043,7 @@
     "id": "cl:galletones-de-limon-y-amapola",
     "title": "Galletones de limón y amapola",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/galletones-de-limon-y-amapola",
     "first_seen": "2026-10-23"
   },
@@ -1067,7 +1051,7 @@
     "id": "cl:gazpacho-de-palta-1",
     "title": "Gazpacho de palta",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/gazpacho-de-palta-1",
     "first_seen": "2026-10-23"
   },
@@ -1075,7 +1059,7 @@
     "id": "cl:ginger-ale-casera-1",
     "title": "Ginger ale casera",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/ginger-ale-casera-1",
     "first_seen": "2026-10-23"
   },
@@ -1083,7 +1067,7 @@
     "id": "cl:golosinas-para-halloween-1",
     "title": "Golosinas para Halloween",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/golosinas-para-halloween-1",
     "first_seen": "2026-10-23"
   },
@@ -1091,7 +1075,7 @@
     "id": "cl:goulash-de-cerdo-1",
     "title": "Goulash de cerdo",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/goulash-de-cerdo-1",
     "first_seen": "2026-10-23"
   },
@@ -1099,7 +1083,7 @@
     "id": "cl:granola-casera-1",
     "title": "Granola casera",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/granola-casera-1",
     "first_seen": "2026-10-23"
   },
@@ -1107,7 +1091,7 @@
     "id": "cl:guacamole",
     "title": "Guacamole",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/guacamole",
     "first_seen": "2026-10-23"
   },
@@ -1115,7 +1099,7 @@
     "id": "cl:guiso-de-arroz-con-atun",
     "title": "Guiso de arroz con atún",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/guiso-de-arroz-con-atun",
     "first_seen": "2026-10-23"
   },
@@ -1123,7 +1107,7 @@
     "id": "cl:gyozas-2-0",
     "title": "Gyozas 2.0",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/gyozas-2-0",
     "first_seen": "2026-10-23"
   },
@@ -1131,7 +1115,7 @@
     "id": "cl:hamburguesas-de-carne",
     "title": "Hamburguesas de carne",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/hamburguesas-de-carne",
     "first_seen": "2026-10-23"
   },
@@ -1139,7 +1123,7 @@
     "id": "cl:helado-de-chirimoya",
     "title": "Helado de chirimoya",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/helado-de-chirimoya",
     "first_seen": "2026-10-23"
   },
@@ -1147,7 +1131,7 @@
     "id": "cl:helado-de-chocolate-blanco-con-brownie-1",
     "title": "Helado de chocolate blanco con brownie",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/helado-de-chocolate-blanco-con-brownie-1",
     "first_seen": "2026-10-23"
   },
@@ -1155,7 +1139,7 @@
     "id": "cl:helado-de-frambuesas",
     "title": "Helado de frambuesas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/helado-de-frambuesas",
     "first_seen": "2026-10-23"
   },
@@ -1163,7 +1147,7 @@
     "id": "cl:helado-de-manjar",
     "title": "Helado de manjar",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/helado-de-manjar",
     "first_seen": "2026-10-23"
   },
@@ -1171,7 +1155,7 @@
     "id": "cl:helado-de-te-verde",
     "title": "Helado de té verde",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/helado-de-te-verde",
     "first_seen": "2026-10-23"
   },
@@ -1179,7 +1163,7 @@
     "id": "cl:helado-saludable-banado-en-chocolate-1",
     "title": "Helado saludable bañado en chocolate",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/helado-saludable-banado-en-chocolate-1",
     "first_seen": "2026-10-23"
   },
@@ -1187,7 +1171,7 @@
     "id": "cl:huevitos-macizos-de-chocolate",
     "title": "Huevitos macizos de chocolate",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/huevitos-macizos-de-chocolate",
     "first_seen": "2026-10-23"
   },
@@ -1195,7 +1179,7 @@
     "id": "cl:huevos-al-horno-con-salsa-de-champinones-1",
     "title": "Huevos al horno con salsa de champiñones",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/huevos-al-horno-con-salsa-de-champinones-1",
     "first_seen": "2026-10-23"
   },
@@ -1203,7 +1187,7 @@
     "id": "cl:huevos-con-curry-gratinados-1",
     "title": "Huevos con curry gratinados",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/huevos-con-curry-gratinados-1",
     "first_seen": "2026-10-23"
   },
@@ -1211,7 +1195,7 @@
     "id": "cl:humitas-saludables",
     "title": "Humitas saludables",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/humitas-saludables",
     "first_seen": "2026-10-23"
   },
@@ -1219,7 +1203,7 @@
     "id": "cl:hummus-de-palta-1",
     "title": "Hummus de palta",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/hummus-de-palta-1",
     "first_seen": "2026-10-23"
   },
@@ -1227,7 +1211,7 @@
     "id": "cl:hummus-de-palta-3",
     "title": "Hummus de palta",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/hummus-de-palta-3",
     "first_seen": "2026-10-23"
   },
@@ -1235,7 +1219,7 @@
     "id": "cl:jarabe-de-goma",
     "title": "Jarabe de goma",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/jarabe-de-goma",
     "first_seen": "2026-10-23"
   },
@@ -1243,7 +1227,7 @@
     "id": "cl:jugo-naranja-platano-zanahoria",
     "title": "Jugo naranja - plátano - zanahoria",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/jugo-naranja-platano-zanahoria",
     "first_seen": "2026-10-23"
   },
@@ -1251,7 +1235,7 @@
     "id": "cl:jugo-verde-tropical",
     "title": "Jugo verde tropical",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/jugo-verde-tropical",
     "first_seen": "2026-10-23"
   },
@@ -1259,7 +1243,7 @@
     "id": "cl:kuchen-de-nuez",
     "title": "Kuchen de nuez",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/kuchen-de-nuez",
     "first_seen": "2026-10-23"
   },
@@ -1267,7 +1251,7 @@
     "id": "cl:leche-asada",
     "title": "Leche asada",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/leche-asada",
     "first_seen": "2026-10-23"
   },
@@ -1275,7 +1259,7 @@
     "id": "cl:leche-condensada-sin-azucar-1",
     "title": "Leche condensada sin azúcar",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/leche-condensada-sin-azucar-1",
     "first_seen": "2026-10-23"
   },
@@ -1283,7 +1267,7 @@
     "id": "cl:leche-de-coco",
     "title": "Leche de coco",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/leche-de-coco",
     "first_seen": "2026-10-23"
   },
@@ -1291,7 +1275,7 @@
     "id": "cl:lemon-curd-o-crema-de-limon",
     "title": "Lemon curd o crema de limón",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/lemon-curd-o-crema-de-limon",
     "first_seen": "2026-10-23"
   },
@@ -1299,7 +1283,7 @@
     "id": "cl:lentejas",
     "title": "Lentejas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/lentejas",
     "first_seen": "2026-10-23"
   },
@@ -1307,7 +1291,7 @@
     "id": "cl:leudar-masa-1",
     "title": "Leudar masa",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/leudar-masa-1",
     "first_seen": "2026-10-23"
   },
@@ -1315,7 +1299,7 @@
     "id": "cl:limonada",
     "title": "Limonada",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/limonada",
     "first_seen": "2026-10-23"
   },
@@ -1323,7 +1307,7 @@
     "id": "cl:lomo-de-cerdo-con-hierbas-y-mostaza-antigua-1",
     "title": "Lomo De Cerdo Con Hierbas Y Mostaza Antigua",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/lomo-de-cerdo-con-hierbas-y-mostaza-antigua-1",
     "first_seen": "2026-10-23"
   },
@@ -1331,7 +1315,7 @@
     "id": "cl:longaniza-casera-saludable-2",
     "title": "Longaniza casera saludable",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/longaniza-casera-saludable-2",
     "first_seen": "2026-10-23"
   },
@@ -1339,7 +1323,7 @@
     "id": "cl:madeleines-de-limon-y-chia",
     "title": "Madeleines de limón y chía",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/madeleines-de-limon-y-chia",
     "first_seen": "2026-10-23"
   },
@@ -1347,7 +1331,7 @@
     "id": "cl:madeleines-de-naranja-y-coco",
     "title": "Madeleines de naranja y coco",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/madeleines-de-naranja-y-coco",
     "first_seen": "2026-10-23"
   },
@@ -1355,7 +1339,7 @@
     "id": "cl:mantequilla-de-mani-1",
     "title": "Mantequilla de maní",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mantequilla-de-mani-1",
     "first_seen": "2026-10-23"
   },
@@ -1363,7 +1347,7 @@
     "id": "cl:margarita-de-sandia-1",
     "title": "Margarita de Sandía",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/margarita-de-sandia-1",
     "first_seen": "2026-10-23"
   },
@@ -1371,7 +1355,7 @@
     "id": "cl:marraquetas",
     "title": "Marraquetas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/marraquetas",
     "first_seen": "2026-10-23"
   },
@@ -1379,7 +1363,7 @@
     "id": "cl:masa-de-galletas-para-cheesecake",
     "title": "Masa de galletas para cheesecake",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/masa-de-galletas-para-cheesecake",
     "first_seen": "2026-10-23"
   },
@@ -1387,7 +1371,7 @@
     "id": "cl:masa-de-pasa-2-1",
     "title": "Masa de Pasa 2.0",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/masa-de-pasa-2-1",
     "first_seen": "2026-10-23"
   },
@@ -1395,7 +1379,7 @@
     "id": "cl:masa-de-pasta-1",
     "title": "Masa de pasta",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/masa-de-pasta-1",
     "first_seen": "2026-10-23"
   },
@@ -1403,7 +1387,7 @@
     "id": "cl:masa-de-pizza-2-0",
     "title": "Masa de pizza 2.0",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/masa-de-pizza-2-0",
     "first_seen": "2026-10-23"
   },
@@ -1411,7 +1395,7 @@
     "id": "cl:masa-de-pizza-crujiente",
     "title": "Masa de pizza crujiente",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/masa-de-pizza-crujiente",
     "first_seen": "2026-10-23"
   },
@@ -1419,7 +1403,7 @@
     "id": "cl:masa-de-pizza-de-coliflor",
     "title": "Masa de pizza de coliflor",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/masa-de-pizza-de-coliflor",
     "first_seen": "2026-10-23"
   },
@@ -1427,7 +1411,7 @@
     "id": "cl:masa-quebrada-1",
     "title": "Masa quebrada",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/masa-quebrada-1",
     "first_seen": "2026-10-23"
   },
@@ -1435,7 +1419,7 @@
     "id": "cl:masa-saludable-para-recetas-saladas",
     "title": "Masa saludable para recetas saladas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/masa-saludable-para-recetas-saladas",
     "first_seen": "2026-10-23"
   },
@@ -1443,7 +1427,7 @@
     "id": "cl:merengue-suizo",
     "title": "Merengue suizo",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/merengue-suizo",
     "first_seen": "2026-10-23"
   },
@@ -1451,7 +1435,7 @@
     "id": "cl:mermelada-de-aji-1",
     "title": "Mermelada de Ají",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mermelada-de-aji-1",
     "first_seen": "2026-10-23"
   },
@@ -1459,7 +1443,7 @@
     "id": "cl:mermelada-de-ciruela-con-alulosa-1",
     "title": "Mermelada de ciruela con alulosa",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mermelada-de-ciruela-con-alulosa-1",
     "first_seen": "2026-10-23"
   },
@@ -1467,7 +1451,7 @@
     "id": "cl:mermelada-de-frambuesas",
     "title": "Mermelada de frambuesas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mermelada-de-frambuesas",
     "first_seen": "2026-10-23"
   },
@@ -1475,7 +1459,7 @@
     "id": "cl:mermelada-de-papaya-1",
     "title": "Mermelada de papaya",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mermelada-de-papaya-1",
     "first_seen": "2026-10-23"
   },
@@ -1483,7 +1467,7 @@
     "id": "cl:mermelada-de-pera",
     "title": "Mermelada de pera",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mermelada-de-pera",
     "first_seen": "2026-10-23"
   },
@@ -1491,7 +1475,7 @@
     "id": "cl:mermelada-de-peras-al-jengibre",
     "title": "Mermelada de peras al jengibre",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mermelada-de-peras-al-jengibre",
     "first_seen": "2026-10-23"
   },
@@ -1499,7 +1483,7 @@
     "id": "cl:mermelada-de-tocino-3",
     "title": "Mermelada de tocino",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mermelada-de-tocino-3",
     "first_seen": "2026-10-23"
   },
@@ -1507,7 +1491,7 @@
     "id": "cl:miel-de-chancaca-o-melaza-3",
     "title": "Miel de chancaca o melaza",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/miel-de-chancaca-o-melaza-3",
     "first_seen": "2026-10-23"
   },
@@ -1515,7 +1499,7 @@
     "id": "cl:miel-de-datiles",
     "title": "Miel de dátiles",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/miel-de-datiles",
     "first_seen": "2026-10-23"
   },
@@ -1523,7 +1507,7 @@
     "id": "cl:mini-hamburguesas-de-cocktail",
     "title": "Mini hamburguesas de cocktail",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mini-hamburguesas-de-cocktail",
     "first_seen": "2026-10-23"
   },
@@ -1531,7 +1515,7 @@
     "id": "cl:mix-de-trufas-de-chocolate-1",
     "title": "Mix de trufas de chocolate",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mix-de-trufas-de-chocolate-1",
     "first_seen": "2026-10-23"
   },
@@ -1539,7 +1523,7 @@
     "id": "cl:mojito-de-granada-2",
     "title": "Mojito de granada",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mojito-de-granada-2",
     "first_seen": "2026-10-23"
   },
@@ -1547,7 +1531,7 @@
     "id": "cl:mote-a-la-crema",
     "title": "Mote a la crema",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mote-a-la-crema",
     "first_seen": "2026-10-23"
   },
@@ -1555,7 +1539,7 @@
     "id": "cl:moussaka",
     "title": "Moussaka",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/moussaka",
     "first_seen": "2026-10-23"
   },
@@ -1563,7 +1547,7 @@
     "id": "cl:mousse-de-chocolate",
     "title": "Mousse de chocolate",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mousse-de-chocolate",
     "first_seen": "2026-10-23"
   },
@@ -1571,7 +1555,7 @@
     "id": "cl:mousse-de-chocolate-vegano",
     "title": "Mousse de Chocolate vegano",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mousse-de-chocolate-vegano",
     "first_seen": "2026-10-23"
   },
@@ -1579,7 +1563,7 @@
     "id": "cl:mousse-de-chocolate-vegano-2-2",
     "title": "Mousse de chocolate vegano 2.0",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mousse-de-chocolate-vegano-2-2",
     "first_seen": "2026-10-23"
   },
@@ -1587,7 +1571,7 @@
     "id": "cl:mousse-de-cilantro",
     "title": "Mousse de cilantro",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mousse-de-cilantro",
     "first_seen": "2026-10-23"
   },
@@ -1595,7 +1579,7 @@
     "id": "cl:mousse-de-frutilla",
     "title": "Mousse de frutilla",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mousse-de-frutilla",
     "first_seen": "2026-10-23"
   },
@@ -1603,7 +1587,7 @@
     "id": "cl:mousse-de-maracuya",
     "title": "Mousse de maracuyá",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mousse-de-maracuya",
     "first_seen": "2026-10-23"
   },
@@ -1611,7 +1595,7 @@
     "id": "cl:mousse-de-salmon-ahumado",
     "title": "Mousse de salmón ahumado",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/mousse-de-salmon-ahumado",
     "first_seen": "2026-10-23"
   },
@@ -1619,7 +1603,7 @@
     "id": "cl:muffins-de-coco-y-limon",
     "title": "Muffins de coco y limón",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/muffins-de-coco-y-limon",
     "first_seen": "2026-10-23"
   },
@@ -1627,7 +1611,7 @@
     "id": "cl:muffins-de-jamon-queso-y-champinones-2",
     "title": "Muffins de jamón, queso y champiñones",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/muffins-de-jamon-queso-y-champinones-2",
     "first_seen": "2026-10-23"
   },
@@ -1635,7 +1619,7 @@
     "id": "cl:muffins-de-platano-y-arandanos",
     "title": "Muffins de plátano y arándanos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/muffins-de-platano-y-arandanos",
     "first_seen": "2026-10-23"
   },
@@ -1643,7 +1627,7 @@
     "id": "cl:navegado-1",
     "title": "Navegado",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/navegado-1",
     "first_seen": "2026-10-23"
   },
@@ -1651,7 +1635,7 @@
     "id": "cl:noquis-de-ricota-1",
     "title": "Ñoquis de ricota",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/noquis-de-ricota-1",
     "first_seen": "2026-10-23"
   },
@@ -1659,7 +1643,7 @@
     "id": "cl:nuggets-de-coliflor",
     "title": "Nuggets de coliflor",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/nuggets-de-coliflor",
     "first_seen": "2026-10-23"
   },
@@ -1667,7 +1651,7 @@
     "id": "cl:nutella-casera-1",
     "title": "Nutella casera",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/nutella-casera-1",
     "first_seen": "2026-10-23"
   },
@@ -1675,7 +1659,7 @@
     "id": "cl:nutribolitas-integrales-de-salmon",
     "title": "Nutribolitas integrales de salmón",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/nutribolitas-integrales-de-salmon",
     "first_seen": "2026-10-23"
   },
@@ -1683,7 +1667,7 @@
     "id": "cl:omelette-de-champinones-al-vapor",
     "title": "Omelette de champiñones al vapor",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/omelette-de-champinones-al-vapor",
     "first_seen": "2026-10-23"
   },
@@ -1691,7 +1675,7 @@
     "id": "cl:ossobuco-4",
     "title": "Ossobuco",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/ossobuco-4",
     "first_seen": "2026-10-23"
   },
@@ -1699,7 +1683,7 @@
     "id": "cl:palitos-de-queso",
     "title": "Palitos de queso",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/palitos-de-queso",
     "first_seen": "2026-10-23"
   },
@@ -1707,7 +1691,7 @@
     "id": "cl:pan-amasado-libre-de-gluten",
     "title": "Pan amasado libre de gluten",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pan-amasado-libre-de-gluten",
     "first_seen": "2026-10-23"
   },
@@ -1715,7 +1699,7 @@
     "id": "cl:pan-bagel-ny-1",
     "title": "Pan Bagel NY",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pan-bagel-ny-1",
     "first_seen": "2026-10-23"
   },
@@ -1723,7 +1707,7 @@
     "id": "cl:pan-ciabatta",
     "title": "Pan ciabatta",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pan-ciabatta",
     "first_seen": "2026-10-23"
   },
@@ -1731,7 +1715,7 @@
     "id": "cl:pan-de-completo-1",
     "title": "Pan de completo",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pan-de-completo-1",
     "first_seen": "2026-10-23"
   },
@@ -1739,7 +1723,7 @@
     "id": "cl:pan-de-huevo-1",
     "title": "Pan de huevo",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pan-de-huevo-1",
     "first_seen": "2026-10-23"
   },
@@ -1747,7 +1731,7 @@
     "id": "cl:pan-de-masa-madre",
     "title": "Pan de masa madre",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pan-de-masa-madre",
     "first_seen": "2026-10-23"
   },
@@ -1755,7 +1739,7 @@
     "id": "cl:pan-de-pascua",
     "title": "Pan de pascua",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pan-de-pascua",
     "first_seen": "2026-10-23"
   },
@@ -1763,7 +1747,7 @@
     "id": "cl:pan-de-pascua-gluten-free",
     "title": "Pan de pascua gluten free",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pan-de-pascua-gluten-free",
     "first_seen": "2026-10-23"
   },
@@ -1771,7 +1755,7 @@
     "id": "cl:pan-integral-rapido",
     "title": "Pan integral rápido",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pan-integral-rapido",
     "first_seen": "2026-10-23"
   },
@@ -1779,7 +1763,7 @@
     "id": "cl:pan-lavash-1",
     "title": "Pan Lavash",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pan-lavash-1",
     "first_seen": "2026-10-23"
   },
@@ -1787,7 +1771,7 @@
     "id": "cl:pan-rapido-sin-gluten",
     "title": "Pan rápido sin gluten",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pan-rapido-sin-gluten",
     "first_seen": "2026-10-23"
   },
@@ -1795,7 +1779,7 @@
     "id": "cl:pancitos-rapidos-deliciosos-1",
     "title": "Pancitos rápidos deliciosos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pancitos-rapidos-deliciosos-1",
     "first_seen": "2026-10-23"
   },
@@ -1803,7 +1787,7 @@
     "id": "cl:panna-cotta-de-chirimoyas",
     "title": "Panna cotta de chirimoyas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/panna-cotta-de-chirimoyas",
     "first_seen": "2026-10-23"
   },
@@ -1811,7 +1795,7 @@
     "id": "cl:panna-cotta-de-duraznos-y-cerezas-1",
     "title": "Panna cotta de duraznos y cerezas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/panna-cotta-de-duraznos-y-cerezas-1",
     "first_seen": "2026-10-23"
   },
@@ -1819,7 +1803,7 @@
     "id": "cl:panqueques-de-espinaca-rellenos-con-pollo",
     "title": "Panqueques de espinaca rellenos con pollo",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/panqueques-de-espinaca-rellenos-con-pollo",
     "first_seen": "2026-10-23"
   },
@@ -1827,7 +1811,7 @@
     "id": "cl:panqueques-veganos-de-garbanzo",
     "title": "Panqueques veganos de garbanzo",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/panqueques-veganos-de-garbanzo",
     "first_seen": "2026-10-23"
   },
@@ -1835,7 +1819,7 @@
     "id": "cl:papas-a-la-crema-con-salsa-de-coliflor",
     "title": "Papas a la crema con salsa de coliflor",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/papas-a-la-crema-con-salsa-de-coliflor",
     "first_seen": "2026-10-23"
   },
@@ -1843,7 +1827,7 @@
     "id": "cl:papas-a-la-huancaina-1",
     "title": "Papas a la huancaína",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/papas-a-la-huancaina-1",
     "first_seen": "2026-10-23"
   },
@@ -1851,7 +1835,7 @@
     "id": "cl:papas-duquesas",
     "title": "Papas duquesas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/papas-duquesas",
     "first_seen": "2026-10-23"
   },
@@ -1859,7 +1843,7 @@
     "id": "cl:papas-fritas-a-la-crema-1",
     "title": "PAPAS FRITAS A LA CREMA",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/papas-fritas-a-la-crema-1",
     "first_seen": "2026-10-23"
   },
@@ -1867,7 +1851,7 @@
     "id": "cl:parfait-de-navidad",
     "title": "Parfait de navidad",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/parfait-de-navidad",
     "first_seen": "2026-10-23"
   },
@@ -1875,7 +1859,7 @@
     "id": "cl:parfait-de-nuez-1",
     "title": "Parfait de nuez",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/parfait-de-nuez-1",
     "first_seen": "2026-10-23"
   },
@@ -1883,7 +1867,7 @@
     "id": "cl:pascualina-saludable",
     "title": "Pascualina saludable",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pascualina-saludable",
     "first_seen": "2026-10-23"
   },
@@ -1891,7 +1875,7 @@
     "id": "cl:pasta-de-roquefort-y-nueces",
     "title": "Pasta de roquefort y nueces",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pasta-de-roquefort-y-nueces",
     "first_seen": "2026-10-23"
   },
@@ -1899,7 +1883,7 @@
     "id": "cl:pasta-de-salmon",
     "title": "Pasta de salmón",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pasta-de-salmon",
     "first_seen": "2026-10-23"
   },
@@ -1907,7 +1891,7 @@
     "id": "cl:pastel-de-choclo-1",
     "title": "Pastel de choclo",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pastel-de-choclo-1",
     "first_seen": "2026-10-23"
   },
@@ -1915,7 +1899,7 @@
     "id": "cl:pate-de-alcachofas",
     "title": "Paté de alcachofas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pate-de-alcachofas",
     "first_seen": "2026-10-23"
   },
@@ -1923,7 +1907,7 @@
     "id": "cl:pate-de-higaditos-de-pollo",
     "title": "Paté de higaditos de pollo",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pate-de-higaditos-de-pollo",
     "first_seen": "2026-10-23"
   },
@@ -1931,7 +1915,7 @@
     "id": "cl:pate-de-zanahoria",
     "title": "Paté de zanahoria",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pate-de-zanahoria",
     "first_seen": "2026-10-23"
   },
@@ -1939,7 +1923,7 @@
     "id": "cl:pebre-de-champinones-1",
     "title": "Pebre de champiñones",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pebre-de-champinones-1",
     "first_seen": "2026-10-23"
   },
@@ -1947,7 +1931,7 @@
     "id": "cl:pechugas-de-pollo-a-la-crema",
     "title": "Pechugas de pollo a la crema",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pechugas-de-pollo-a-la-crema",
     "first_seen": "2026-10-23"
   },
@@ -1955,7 +1939,7 @@
     "id": "cl:pesto-de-tomates-deshidratados-1",
     "title": "Pesto de tomates deshidratados",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pesto-de-tomates-deshidratados-1",
     "first_seen": "2026-10-23"
   },
@@ -1963,7 +1947,7 @@
     "id": "cl:pie-de-lemon-curd",
     "title": "Pie de lemón curd",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pie-de-lemon-curd",
     "first_seen": "2026-10-23"
   },
@@ -1971,7 +1955,7 @@
     "id": "cl:pie-de-limon",
     "title": "Pie de limón",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pie-de-limon",
     "first_seen": "2026-10-23"
   },
@@ -1979,7 +1963,7 @@
     "id": "cl:pimentones-rellenos-de-quinoa-tricolor",
     "title": "Pimentones rellenos de quinoa tricolor",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pimentones-rellenos-de-quinoa-tricolor",
     "first_seen": "2026-10-23"
   },
@@ -1987,7 +1971,7 @@
     "id": "cl:pina-al-jugo-1",
     "title": "Piña al jugo",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pina-al-jugo-1",
     "first_seen": "2026-10-23"
   },
@@ -1995,7 +1979,7 @@
     "id": "cl:pina-colada",
     "title": "Piña colada",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pina-colada",
     "first_seen": "2026-10-23"
   },
@@ -2003,7 +1987,7 @@
     "id": "cl:pizzetas-de-momia-1",
     "title": "Pizzetas de momia",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pizzetas-de-momia-1",
     "first_seen": "2026-10-23"
   },
@@ -2011,7 +1995,7 @@
     "id": "cl:polenta-cremosa",
     "title": "Polenta cremosa",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/polenta-cremosa",
     "first_seen": "2026-10-23"
   },
@@ -2019,7 +2003,7 @@
     "id": "cl:pollo-a-la-cantonesa-2",
     "title": "Pollo a la cantonesa",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pollo-a-la-cantonesa-2",
     "first_seen": "2026-10-23"
   },
@@ -2027,7 +2011,7 @@
     "id": "cl:pollo-al-vapor-1",
     "title": "Pollo al vapor",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pollo-al-vapor-1",
     "first_seen": "2026-10-23"
   },
@@ -2035,7 +2019,7 @@
     "id": "cl:pollo-oriental-al-vapor",
     "title": "Pollo oriental al vapor",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pollo-oriental-al-vapor",
     "first_seen": "2026-10-23"
   },
@@ -2043,7 +2027,7 @@
     "id": "cl:porotos-con-mazamorra-4",
     "title": "Porotos con mazamorra",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/porotos-con-mazamorra-4",
     "first_seen": "2026-10-23"
   },
@@ -2051,7 +2035,7 @@
     "id": "cl:porotos-negros-1",
     "title": "Porotos negros",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/porotos-negros-1",
     "first_seen": "2026-10-23"
   },
@@ -2059,7 +2043,7 @@
     "id": "cl:porridge-de-avena",
     "title": "Porridge de avena",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/porridge-de-avena",
     "first_seen": "2026-10-23"
   },
@@ -2067,7 +2051,7 @@
     "id": "cl:postre-de-chocolate-blanco",
     "title": "Postre de chocolate blanco",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/postre-de-chocolate-blanco",
     "first_seen": "2026-10-23"
   },
@@ -2075,7 +2059,7 @@
     "id": "cl:postre-helado-de-limon-o-helado-de-invierno",
     "title": "Postre helado de limón o helado de invierno",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/postre-helado-de-limon-o-helado-de-invierno",
     "first_seen": "2026-10-23"
   },
@@ -2083,7 +2067,7 @@
     "id": "cl:postre-tres-leches",
     "title": "Postre tres leches",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/postre-tres-leches",
     "first_seen": "2026-10-23"
   },
@@ -2091,7 +2075,7 @@
     "id": "cl:postre-tres-leches-de-chocolate",
     "title": "Postre tres leches de chocolate",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/postre-tres-leches-de-chocolate",
     "first_seen": "2026-10-23"
   },
@@ -2099,7 +2083,7 @@
     "id": "cl:prestigio-1",
     "title": "Prestigio",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/prestigio-1",
     "first_seen": "2026-10-23"
   },
@@ -2107,7 +2091,7 @@
     "id": "cl:profiteroles",
     "title": "Profiteroles",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/profiteroles",
     "first_seen": "2026-10-23"
   },
@@ -2115,7 +2099,7 @@
     "id": "cl:pure-de-arvejas-2",
     "title": "Puré de arvejas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pure-de-arvejas-2",
     "first_seen": "2026-10-23"
   },
@@ -2123,7 +2107,7 @@
     "id": "cl:pure-de-brocoli",
     "title": "Puré de brócoli",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pure-de-brocoli",
     "first_seen": "2026-10-23"
   },
@@ -2131,7 +2115,7 @@
     "id": "cl:pure-de-papas-especiado-y-sin-lacteos-3",
     "title": "Puré de papas especiado y sin lácteos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pure-de-papas-especiado-y-sin-lacteos-3",
     "first_seen": "2026-10-23"
   },
@@ -2139,7 +2123,7 @@
     "id": "cl:pure-picante",
     "title": "Puré picante",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pure-picante",
     "first_seen": "2026-10-23"
   },
@@ -2147,7 +2131,7 @@
     "id": "cl:queque-de-coco-1",
     "title": "Queque de coco",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/queque-de-coco-1",
     "first_seen": "2026-10-23"
   },
@@ -2155,7 +2139,7 @@
     "id": "cl:queque-de-frutas-aleman",
     "title": "Queque de frutas alemán",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/queque-de-frutas-aleman",
     "first_seen": "2026-10-23"
   },
@@ -2163,7 +2147,7 @@
     "id": "cl:queque-de-frutillas-y-amapolas",
     "title": "Queque de frutillas y amapolas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/queque-de-frutillas-y-amapolas",
     "first_seen": "2026-10-23"
   },
@@ -2171,7 +2155,7 @@
     "id": "cl:queque-de-manzana-y-yogur",
     "title": "Queque de manzana y yogur",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/queque-de-manzana-y-yogur",
     "first_seen": "2026-10-23"
   },
@@ -2179,7 +2163,7 @@
     "id": "cl:queque-de-naranja",
     "title": "Queque de naranja",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/queque-de-naranja",
     "first_seen": "2026-10-23"
   },
@@ -2187,7 +2171,7 @@
     "id": "cl:queque-de-yogur",
     "title": "Queque de yogur",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/queque-de-yogur",
     "first_seen": "2026-10-23"
   },
@@ -2195,7 +2179,7 @@
     "id": "cl:quequitos-de-manzanas-y-almendras",
     "title": "Quequitos de manzanas y almendras",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/quequitos-de-manzanas-y-almendras",
     "first_seen": "2026-10-23"
   },
@@ -2203,7 +2187,7 @@
     "id": "cl:quequitos-deliciosos",
     "title": "Quequitos deliciosos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/quequitos-deliciosos",
     "first_seen": "2026-10-23"
   },
@@ -2211,7 +2195,7 @@
     "id": "cl:quiche-de-champinon-y-camaron",
     "title": "Quiche de champiñón y camarón",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/quiche-de-champinon-y-camaron",
     "first_seen": "2026-10-23"
   },
@@ -2219,7 +2203,7 @@
     "id": "cl:quiche-de-tomate-cherry-queso-cabra-y-albahaca",
     "title": "Quiche de tomate cherry, queso cabra y albahaca",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/quiche-de-tomate-cherry-queso-cabra-y-albahaca",
     "first_seen": "2026-10-23"
   },
@@ -2227,7 +2211,7 @@
     "id": "cl:quiche-lorraine-1",
     "title": "Quiche lorraine",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/quiche-lorraine-1",
     "first_seen": "2026-10-23"
   },
@@ -2235,7 +2219,7 @@
     "id": "cl:ragu-de-cerdo",
     "title": "Ragú de cerdo",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/ragu-de-cerdo",
     "first_seen": "2026-10-23"
   },
@@ -2243,7 +2227,7 @@
     "id": "cl:ratatouille-1",
     "title": "Ratatouille",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/ratatouille-1",
     "first_seen": "2026-10-23"
   },
@@ -2251,7 +2235,7 @@
     "id": "cl:ravioles-de-masa-de-betarraga",
     "title": "Ravioles de masa de betarraga",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/ravioles-de-masa-de-betarraga",
     "first_seen": "2026-10-23"
   },
@@ -2259,7 +2243,7 @@
     "id": "cl:relleno-de-espinacas-a-la-crema-con-pollo-y-champinones",
     "title": "Relleno de espinacas a la crema con pollo y champiñones",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/relleno-de-espinacas-a-la-crema-con-pollo-y-champinones",
     "first_seen": "2026-10-23"
   },
@@ -2267,7 +2251,7 @@
     "id": "cl:relleno-para-cheesecake-alto-en-proteina",
     "title": "Relleno para Cheesecake alto en proteína",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/relleno-para-cheesecake-alto-en-proteina",
     "first_seen": "2026-10-23"
   },
@@ -2275,7 +2259,7 @@
     "id": "cl:risotto-al-cilantro",
     "title": "Risotto al cilantro",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/risotto-al-cilantro",
     "first_seen": "2026-10-23"
   },
@@ -2283,7 +2267,7 @@
     "id": "cl:risotto-de-pollo-y-champinones",
     "title": "Risotto de pollo y champiñones",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/risotto-de-pollo-y-champinones",
     "first_seen": "2026-10-23"
   },
@@ -2291,7 +2275,7 @@
     "id": "cl:risotto-de-tomates-y-champinones",
     "title": "Risotto de tomates y champiñones",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/risotto-de-tomates-y-champinones",
     "first_seen": "2026-10-23"
   },
@@ -2299,7 +2283,7 @@
     "id": "cl:risotto-integral-al-vino-tinto",
     "title": "Risotto integral al vino tinto",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/risotto-integral-al-vino-tinto",
     "first_seen": "2026-10-23"
   },
@@ -2307,7 +2291,7 @@
     "id": "cl:rollitos-de-berenjenas-en-salsa-de-tomates-1",
     "title": "Rollitos de berenjenas en salsa de tomates",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/rollitos-de-berenjenas-en-salsa-de-tomates-1",
     "first_seen": "2026-10-23"
   },
@@ -2315,7 +2299,7 @@
     "id": "cl:rollo-de-queso-crema-y-pesto",
     "title": "Rollo de queso crema y pesto",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/rollo-de-queso-crema-y-pesto",
     "first_seen": "2026-10-23"
   },
@@ -2323,7 +2307,7 @@
     "id": "cl:roscos-de-naranja",
     "title": "Roscos de naranja",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/roscos-de-naranja",
     "first_seen": "2026-10-23"
   },
@@ -2331,7 +2315,7 @@
     "id": "cl:salsa-alfredo-de-coliflor-1",
     "title": "Salsa alfredo de coliflor",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/salsa-alfredo-de-coliflor-1",
     "first_seen": "2026-10-23"
   },
@@ -2339,7 +2323,7 @@
     "id": "cl:salsa-bearnaise",
     "title": "Salsa bearnaise",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/salsa-bearnaise",
     "first_seen": "2026-10-23"
   },
@@ -2347,7 +2331,7 @@
     "id": "cl:salsa-bechamel-de-quinoa",
     "title": "Salsa bechamel de quinoa",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/salsa-bechamel-de-quinoa",
     "first_seen": "2026-10-23"
   },
@@ -2355,7 +2339,7 @@
     "id": "cl:salsa-blanca-o-bechamel",
     "title": "Salsa blanca o bechamel",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/salsa-blanca-o-bechamel",
     "first_seen": "2026-10-23"
   },
@@ -2363,7 +2347,7 @@
     "id": "cl:salsa-de-berries",
     "title": "Salsa de berries",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/salsa-de-berries",
     "first_seen": "2026-10-23"
   },
@@ -2371,7 +2355,7 @@
     "id": "cl:salsa-de-champinones",
     "title": "Salsa de champiñones",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/salsa-de-champinones",
     "first_seen": "2026-10-23"
   },
@@ -2379,7 +2363,7 @@
     "id": "cl:salsa-holandesa",
     "title": "Salsa Holandesa",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/salsa-holandesa",
     "first_seen": "2026-10-23"
   },
@@ -2387,7 +2371,7 @@
     "id": "cl:salsa-para-hamburguesas",
     "title": "Salsa para hamburguesas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/salsa-para-hamburguesas",
     "first_seen": "2026-10-23"
   },
@@ -2395,7 +2379,7 @@
     "id": "cl:salsa-provenzal-1",
     "title": "Salsa Provenzal",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/salsa-provenzal-1",
     "first_seen": "2026-10-23"
   },
@@ -2403,7 +2387,7 @@
     "id": "cl:salsa-ranchera",
     "title": "Salsa Ranchera",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/salsa-ranchera",
     "first_seen": "2026-10-23"
   },
@@ -2411,7 +2395,7 @@
     "id": "cl:salsa-sweet-chili",
     "title": "Salsa Sweet Chili",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/salsa-sweet-chili",
     "first_seen": "2026-10-23"
   },
@@ -2419,7 +2403,7 @@
     "id": "cl:salsa-teriyaki-1",
     "title": "Salsa teriyaki",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/salsa-teriyaki-1",
     "first_seen": "2026-10-23"
   },
@@ -2427,7 +2411,7 @@
     "id": "cl:salsa-verde-1",
     "title": "Salsa verde",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/salsa-verde-1",
     "first_seen": "2026-10-23"
   },
@@ -2435,7 +2419,7 @@
     "id": "cl:scones-de-chocolate-blanco-y-arandanos-1",
     "title": "Scones de chocolate blanco y arándanos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/scones-de-chocolate-blanco-y-arandanos-1",
     "first_seen": "2026-10-23"
   },
@@ -2443,7 +2427,7 @@
     "id": "cl:semifreddo-de-vainilla",
     "title": "Semifreddo de vainilla",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/semifreddo-de-vainilla",
     "first_seen": "2026-10-23"
   },
@@ -2451,7 +2435,7 @@
     "id": "cl:semola-con-salsa-de-vino-tinto",
     "title": "Sémola con salsa de vino tinto",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/semola-con-salsa-de-vino-tinto",
     "first_seen": "2026-10-23"
   },
@@ -2459,7 +2443,7 @@
     "id": "cl:solomillo-de-cerdo-con-hierbas-1",
     "title": "Solomillo de cerdo con hierbas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/solomillo-de-cerdo-con-hierbas-1",
     "first_seen": "2026-10-23"
   },
@@ -2467,7 +2451,7 @@
     "id": "cl:sopa-de-leche-1",
     "title": "Sopa de Leche",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/sopa-de-leche-1",
     "first_seen": "2026-10-23"
   },
@@ -2475,7 +2459,7 @@
     "id": "cl:sopa-de-tomate-albahaca-y-queso-feta-2",
     "title": "Sopa de tomate albahaca y queso feta",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/sopa-de-tomate-albahaca-y-queso-feta-2",
     "first_seen": "2026-10-23"
   },
@@ -2483,7 +2467,7 @@
     "id": "cl:sopa-de-zapallo-italiano-espinaca-y-coco",
     "title": "Sopa de zapallo italiano, espinaca y coco",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/sopa-de-zapallo-italiano-espinaca-y-coco",
     "first_seen": "2026-10-23"
   },
@@ -2491,7 +2475,7 @@
     "id": "cl:sopa-de-zapallo-italiano-sin-lactosa-2",
     "title": "Sopa de zapallo italiano sin lactosa",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/sopa-de-zapallo-italiano-sin-lactosa-2",
     "first_seen": "2026-10-23"
   },
@@ -2499,7 +2483,7 @@
     "id": "cl:sopaipillas-de-colores",
     "title": "Sopaipillas de colores",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/sopaipillas-de-colores",
     "first_seen": "2026-10-23"
   },
@@ -2507,7 +2491,7 @@
     "id": "cl:sopaipillas-integrales-al-horno",
     "title": "Sopaipillas integrales al horno",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/sopaipillas-integrales-al-horno",
     "first_seen": "2026-10-23"
   },
@@ -2515,7 +2499,7 @@
     "id": "cl:sorbete-de-frutas",
     "title": "Sorbete de frutas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/sorbete-de-frutas",
     "first_seen": "2026-10-23"
   },
@@ -2523,7 +2507,7 @@
     "id": "cl:souffle-de-choclos-1",
     "title": "Soufflé de choclos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/souffle-de-choclos-1",
     "first_seen": "2026-10-23"
   },
@@ -2531,7 +2515,7 @@
     "id": "cl:suspiro-de-maracuya",
     "title": "Suspiro de maracuyá",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/suspiro-de-maracuya",
     "first_seen": "2026-10-23"
   },
@@ -2539,7 +2523,7 @@
     "id": "cl:syrup-de-frutilla-1",
     "title": "Syrup de frutilla",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/syrup-de-frutilla-1",
     "first_seen": "2026-10-23"
   },
@@ -2547,7 +2531,7 @@
     "id": "cl:tallarines-de-zapallo-italiano-con-salsa-de-palta-y-espinaca",
     "title": "Tallarines de zapallo italiano con salsa de palta y espinaca",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tallarines-de-zapallo-italiano-con-salsa-de-palta-y-espinaca",
     "first_seen": "2026-10-23"
   },
@@ -2555,7 +2539,7 @@
     "id": "cl:tapenade-o-pate-de-aceitunas-negras-3",
     "title": "Paté de aceitunas negras",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tapenade-o-pate-de-aceitunas-negras-3",
     "first_seen": "2026-10-23"
   },
@@ -2563,7 +2547,7 @@
     "id": "cl:tarta-de-manzana",
     "title": "Tarta de manzana",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tarta-de-manzana",
     "first_seen": "2026-10-23"
   },
@@ -2571,7 +2555,7 @@
     "id": "cl:tarta-de-manzanas-con-manjar",
     "title": "Tarta de manzanas con manjar",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tarta-de-manzanas-con-manjar",
     "first_seen": "2026-10-23"
   },
@@ -2579,7 +2563,7 @@
     "id": "cl:tarta-de-maracuya",
     "title": "Tarta de maracuyá",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tarta-de-maracuya",
     "first_seen": "2026-10-23"
   },
@@ -2587,7 +2571,7 @@
     "id": "cl:tarta-de-naranjas-y-clementinas",
     "title": "Tarta de naranjas y clementinas",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tarta-de-naranjas-y-clementinas",
     "first_seen": "2026-10-23"
   },
@@ -2595,7 +2579,7 @@
     "id": "cl:tarta-de-pollo-con-choclo-y-champinon",
     "title": "Tarta de pollo con choclo y champiñón",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tarta-de-pollo-con-choclo-y-champinon",
     "first_seen": "2026-10-23"
   },
@@ -2603,7 +2587,7 @@
     "id": "cl:tarta-fria-de-salmon-1",
     "title": "Tarta fría de salmón",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tarta-fria-de-salmon-1",
     "first_seen": "2026-10-23"
   },
@@ -2611,7 +2595,7 @@
     "id": "cl:tarta-helada-de-frutos-rojos",
     "title": "Tarta helada de frutos rojos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tarta-helada-de-frutos-rojos",
     "first_seen": "2026-10-23"
   },
@@ -2619,7 +2603,7 @@
     "id": "cl:tarta-raw-chocolatosa",
     "title": "Tarta Raw chocolatosa",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tarta-raw-chocolatosa",
     "first_seen": "2026-10-23"
   },
@@ -2627,7 +2611,7 @@
     "id": "cl:tarte-tatin-de-membrillos-al-vino-tinto",
     "title": "Tarte tatin de membrillos al vino tinto",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tarte-tatin-de-membrillos-al-vino-tinto",
     "first_seen": "2026-10-23"
   },
@@ -2635,7 +2619,7 @@
     "id": "cl:tiramisu",
     "title": "Tiramisú",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tiramisu",
     "first_seen": "2026-10-23"
   },
@@ -2643,7 +2627,7 @@
     "id": "cl:tofu-casero",
     "title": "Tofu casero",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tofu-casero",
     "first_seen": "2026-10-23"
   },
@@ -2651,7 +2635,7 @@
     "id": "cl:tomate-frito-natura-1",
     "title": "Tomate Frito Natura",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tomate-frito-natura-1",
     "first_seen": "2026-10-23"
   },
@@ -2659,7 +2643,7 @@
     "id": "cl:tomatican",
     "title": "Tomaticán",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tomatican",
     "first_seen": "2026-10-23"
   },
@@ -2667,7 +2651,7 @@
     "id": "cl:torta-caluga",
     "title": "Torta caluga",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/torta-caluga",
     "first_seen": "2026-10-23"
   },
@@ -2675,7 +2659,7 @@
     "id": "cl:torta-crocante-de-nuez",
     "title": "Torta crocante de nuez",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/torta-crocante-de-nuez",
     "first_seen": "2026-10-23"
   },
@@ -2683,7 +2667,7 @@
     "id": "cl:torta-de-brownie-1",
     "title": "Torta de brownie",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/torta-de-brownie-1",
     "first_seen": "2026-10-23"
   },
@@ -2691,7 +2675,7 @@
     "id": "cl:torta-de-chocolate-rellena-con-helado",
     "title": "Torta de chocolate rellena con helado",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/torta-de-chocolate-rellena-con-helado",
     "first_seen": "2026-10-23"
   },
@@ -2699,7 +2683,7 @@
     "id": "cl:torta-de-datiles-1",
     "title": "Torta de Dátiles",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/torta-de-datiles-1",
     "first_seen": "2026-10-23"
   },
@@ -2707,7 +2691,7 @@
     "id": "cl:torta-de-hojarasca",
     "title": "Torta de hojarasca",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/torta-de-hojarasca",
     "first_seen": "2026-10-23"
   },
@@ -2715,7 +2699,7 @@
     "id": "cl:torta-de-panqueque-trufa",
     "title": "Torta de panqueque trufa",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/torta-de-panqueque-trufa",
     "first_seen": "2026-10-23"
   },
@@ -2723,7 +2707,7 @@
     "id": "cl:torta-de-trufas-de-chocolate",
     "title": "Torta de trufas de chocolate",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/torta-de-trufas-de-chocolate",
     "first_seen": "2026-10-23"
   },
@@ -2731,7 +2715,7 @@
     "id": "cl:torta-zanahoria-nuez-sin-gluten-1",
     "title": "Torta Zanahoria Nuez Sin Gluten",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/torta-zanahoria-nuez-sin-gluten-1",
     "first_seen": "2026-10-23"
   },
@@ -2739,7 +2723,7 @@
     "id": "cl:tortillas-de-quinoa-libres-de-gluten-1",
     "title": "Tortillas de quinoa libres de gluten",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tortillas-de-quinoa-libres-de-gluten-1",
     "first_seen": "2026-10-23"
   },
@@ -2747,7 +2731,7 @@
     "id": "cl:tortillas-para-tacos-2",
     "title": "Tortillas para tacos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tortillas-para-tacos-2",
     "first_seen": "2026-10-23"
   },
@@ -2755,7 +2739,7 @@
     "id": "cl:tortillas-para-tacos-sin-gluten",
     "title": "Tortillas para tacos sin gluten",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tortillas-para-tacos-sin-gluten",
     "first_seen": "2026-10-23"
   },
@@ -2763,7 +2747,7 @@
     "id": "cl:tortitas-o-pancakes",
     "title": "Tortitas o pancakes",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/tortitas-o-pancakes",
     "first_seen": "2026-10-23"
   },
@@ -2771,7 +2755,7 @@
     "id": "cl:turron-de-chocolate-y-naranja",
     "title": "Turrón de chocolate y naranja",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/turron-de-chocolate-y-naranja",
     "first_seen": "2026-10-23"
   },
@@ -2779,7 +2763,7 @@
     "id": "cl:turron-de-tahini",
     "title": "Turrón de tahini",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/turron-de-tahini",
     "first_seen": "2026-10-23"
   },
@@ -2787,7 +2771,7 @@
     "id": "cl:vinagreta",
     "title": "Vinagreta",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/vinagreta",
     "first_seen": "2026-10-23"
   },
@@ -2795,7 +2779,7 @@
     "id": "cl:vinagreta-balsamica-1",
     "title": "Vinagreta balsámica",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/vinagreta-balsamica-1",
     "first_seen": "2026-10-23"
   },
@@ -2803,7 +2787,7 @@
     "id": "cl:vinagreta-de-aceto-con-vino",
     "title": "Vinagreta de aceto con vino",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/vinagreta-de-aceto-con-vino",
     "first_seen": "2026-10-23"
   },
@@ -2811,7 +2795,7 @@
     "id": "cl:volcan-de-manjar",
     "title": "Volcán de manjar",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/volcan-de-manjar",
     "first_seen": "2026-10-23"
   },
@@ -2819,7 +2803,7 @@
     "id": "cl:waffles-1",
     "title": "Waffles",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/waffles-1",
     "first_seen": "2026-10-23"
   },
@@ -2827,7 +2811,7 @@
     "id": "cl:whisky-sour-1",
     "title": "Whisky Sour",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/whisky-sour-1",
     "first_seen": "2026-10-23"
   },
@@ -2835,7 +2819,7 @@
     "id": "cl:wrap-de-salmon-quinoa-tomates-cherry-y-albahaca-1",
     "title": "Wrap de salmón, quinoa, tomates cherry y albahaca",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/wrap-de-salmon-quinoa-tomates-cherry-y-albahaca-1",
     "first_seen": "2026-10-23"
   },
@@ -2843,7 +2827,7 @@
     "id": "cl:zapallos-italianos-deliciosos",
     "title": "Zapallos italianos deliciosos",
     "country": "CL",
-    "machine": "Kitchen Pro",
+    "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/zapallos-italianos-deliciosos",
     "first_seen": "2026-10-23"
   }
