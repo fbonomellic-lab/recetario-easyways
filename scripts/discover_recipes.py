@@ -113,8 +113,7 @@ def main():
         return 1
     DEST.parent.mkdir(parents=True, exist_ok=True)
     result = sorted(indexed.values(), key=lambda x: (x["country"], x["source_url"]))
-    rendered = json.dumps(result, ensure_ascii=False, indent=2) + "
-"
+    rendered = json.dumps(result, ensure_ascii=False, indent=2) + chr(10)
     if not DEST.exists() or DEST.read_text(encoding="utf-8") != rendered:
         DEST.write_text(rendered, encoding="utf-8")
     print(f"Total discovered: {len(result)}")
