@@ -56,6 +56,22 @@
     "first_seen": "2026-10-24"
   },
   {
+    "id": "ar:hamburguesas-de-carne",
+    "title": "Hamburguesas de carne \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/hamburguesas-de-carne",
+    "first_seen": "2026-10-25"
+  },
+  {
+    "id": "ar:leche-asada",
+    "title": "Leche asada \n                         Postres, Comida chilena",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/leche-asada",
+    "first_seen": "2026-10-25"
+  },
+  {
     "id": "ar:lemon-curd-o-crema-de-limon",
     "title": "Lemon curd o crema de limón \n                         Postres",
     "country": "AR",
@@ -72,6 +88,14 @@
     "first_seen": "2026-10-24"
   },
   {
+    "id": "ar:panqueques-veganos-de-garbanzo",
+    "title": "Panqueques veganos de garbanzo \n                         Nutrirecetas, Para Celíacos, Masas / Queques / Panes, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/panqueques-veganos-de-garbanzo",
+    "first_seen": "2026-10-25"
+  },
+  {
     "id": "ar:porotos-granados",
     "title": "Porotos granados \n                         Platos de Fondo, Comida chilena, Comida chilena, Platos de Fondo, Vegetarianos",
     "country": "AR",
@@ -80,12 +104,28 @@
     "first_seen": "2026-10-23"
   },
   {
+    "id": "ar:pure-de-frutas",
+    "title": "Puré de frutas \n                         Platos para Niños",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pure-de-frutas",
+    "first_seen": "2026-10-25"
+  },
+  {
     "id": "ar:salsa-de-bechamel-de-quinoa",
     "title": "Salsa bechamel de quinoa \n                         Entradas / Salsas / Aperitivos, Nutrirecetas",
     "country": "AR",
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/salsa-de-bechamel-de-quinoa",
     "first_seen": "2026-10-24"
+  },
+  {
+    "id": "ar:strogonoff-de-champinones",
+    "title": "Strogonoff de champiñones \n                         Platos de Fondo, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/strogonoff-de-champinones",
+    "first_seen": "2026-10-25"
   },
   {
     "id": "ar:tarta-de-nuez-sin-gluten-azucar-ni-lacteos",
