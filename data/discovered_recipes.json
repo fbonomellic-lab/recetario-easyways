@@ -8,6 +8,14 @@
     "first_seen": "2026-10-24"
   },
   {
+    "id": "ar:babka-de-pesto",
+    "title": "Babka de pesto \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/babka-de-pesto",
+    "first_seen": "2026-10-26"
+  },
+  {
     "id": "ar:energy-balls-de-damasco-coco-y-chia",
     "title": "Energy balls de damasco, coco y chía",
     "country": "AR",
@@ -80,6 +88,14 @@
     "first_seen": "2026-10-24"
   },
   {
+    "id": "ar:muffins-de-arandanos",
+    "title": "Muffins de arándanos \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/muffins-de-arandanos",
+    "first_seen": "2026-10-26"
+  },
+  {
     "id": "ar:nutella-casera",
     "title": "Nutella casera \n                         Mermeladas / Dulces",
     "country": "AR",
@@ -94,6 +110,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/panqueques-veganos-de-garbanzo",
     "first_seen": "2026-10-25"
+  },
+  {
+    "id": "ar:pavo-con-tocino-al-vapor",
+    "title": "Pavo con tocino al vapor \n                         Platos de Fondo, Navidad",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pavo-con-tocino-al-vapor",
+    "first_seen": "2026-10-26"
   },
   {
     "id": "ar:porotos-granados",
@@ -112,12 +136,36 @@
     "first_seen": "2026-10-25"
   },
   {
+    "id": "ar:queque-de-arandanos",
+    "title": "Queque de arándanos \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/queque-de-arandanos",
+    "first_seen": "2026-10-26"
+  },
+  {
+    "id": "ar:queque-de-frambuesas",
+    "title": "Queque de frambuesas \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/queque-de-frambuesas",
+    "first_seen": "2026-10-26"
+  },
+  {
     "id": "ar:salsa-de-bechamel-de-quinoa",
     "title": "Salsa bechamel de quinoa \n                         Entradas / Salsas / Aperitivos, Nutrirecetas",
     "country": "AR",
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/salsa-de-bechamel-de-quinoa",
     "first_seen": "2026-10-24"
+  },
+  {
+    "id": "ar:sorbete-de-melon",
+    "title": "Sorbete de melón \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/sorbete-de-melon",
+    "first_seen": "2026-10-26"
   },
   {
     "id": "ar:strogonoff-de-champinones",
