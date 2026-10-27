@@ -8,12 +8,44 @@
     "first_seen": "2026-10-24"
   },
   {
+    "id": "ar:arroz-de-tomate",
+    "title": "Arroz de tomate \n                         Platos de Fondo, Platos de Fondo, Vegetarianos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/arroz-de-tomate",
+    "first_seen": "2026-10-27"
+  },
+  {
     "id": "ar:babka-de-pesto",
     "title": "Babka de pesto \n                         Masas / Queques / Panes",
     "country": "AR",
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/babka-de-pesto",
     "first_seen": "2026-10-26"
+  },
+  {
+    "id": "ar:bizcocho-relleno-de-manzanas-y-canela",
+    "title": "Bizcocho relleno de manzanas y canela \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/bizcocho-relleno-de-manzanas-y-canela",
+    "first_seen": "2026-10-27"
+  },
+  {
+    "id": "ar:carne-con-almendras",
+    "title": "Carne con almendras \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/carne-con-almendras",
+    "first_seen": "2026-10-27"
+  },
+  {
+    "id": "ar:crema-de-zapallos-italianos",
+    "title": "Crema de zapallos italianos \n                         Sopas / Cremas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/crema-de-zapallos-italianos",
+    "first_seen": "2026-10-27"
   },
   {
     "id": "ar:energy-balls-de-damasco-coco-y-chia",
@@ -88,6 +120,14 @@
     "first_seen": "2026-10-24"
   },
   {
+    "id": "ar:masa-de-empanadas-para-ferir",
+    "title": "Masa de empanadas para freír \n                         Masas / Queques / Panes, Comida chilena",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/masa-de-empanadas-para-ferir",
+    "first_seen": "2026-10-27"
+  },
+  {
     "id": "ar:muffins-de-arandanos",
     "title": "Muffins de arándanos \n                         Masas / Queques / Panes",
     "country": "AR",
@@ -150,6 +190,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/queque-de-frambuesas",
     "first_seen": "2026-10-26"
+  },
+  {
+    "id": "ar:risotto-de-tomates-y-champinones",
+    "title": "Risotto de tomates y champiñones \n                         Platos de Fondo, Platos de Fondo, Vegetarianos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/risotto-de-tomates-y-champinones",
+    "first_seen": "2026-10-27"
   },
   {
     "id": "ar:salsa-de-bechamel-de-quinoa",
