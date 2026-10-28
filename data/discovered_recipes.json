@@ -1,5 +1,13 @@
 [
   {
+    "id": "ar:amaretto-sour",
+    "title": "Amaretto sour \n                         Jugos / Bebidas / Tragos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/amaretto-sour",
+    "first_seen": "2026-10-28"
+  },
+  {
     "id": "ar:arepas-con-zanahoria-y-cilantro",
     "title": "Arepas con zanahoria y cilantro",
     "country": "AR",
@@ -32,6 +40,14 @@
     "first_seen": "2026-10-27"
   },
   {
+    "id": "ar:budin-de-atun",
+    "title": "Budín de atún \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/budin-de-atun",
+    "first_seen": "2026-10-28"
+  },
+  {
     "id": "ar:carne-con-almendras",
     "title": "Carne con almendras \n                         Platos de Fondo",
     "country": "AR",
@@ -46,6 +62,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/crema-de-zapallos-italianos",
     "first_seen": "2026-10-27"
+  },
+  {
+    "id": "ar:crumble-de-durazno-sin-azucar",
+    "title": "Crumble de durazno sin azúcar \n                         Postres, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/crumble-de-durazno-sin-azucar",
+    "first_seen": "2026-10-28"
   },
   {
     "id": "ar:energy-balls-de-damasco-coco-y-chia",
@@ -96,12 +120,28 @@
     "first_seen": "2026-10-24"
   },
   {
+    "id": "ar:galletas-de-pasas-y-naranja",
+    "title": "Galletas de pasas y naranja \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/galletas-de-pasas-y-naranja",
+    "first_seen": "2026-10-28"
+  },
+  {
     "id": "ar:hamburguesas-de-carne",
     "title": "Hamburguesas de carne \n                         Platos de Fondo",
     "country": "AR",
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/hamburguesas-de-carne",
     "first_seen": "2026-10-25"
+  },
+  {
+    "id": "ar:huevos-a-la-tripe",
+    "title": "Huevos a la tripe \n                         Platos de Fondo, Nuevas, Vegetarianos, Nuevas, Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/huevos-a-la-tripe",
+    "first_seen": "2026-10-28"
   },
   {
     "id": "ar:leche-asada",
@@ -190,6 +230,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/queque-de-frambuesas",
     "first_seen": "2026-10-26"
+  },
+  {
+    "id": "ar:ricota",
+    "title": "Ricota \n                         Entradas / Salsas / Aperitivos, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/ricota",
+    "first_seen": "2026-10-28"
   },
   {
     "id": "ar:risotto-de-tomates-y-champinones",
