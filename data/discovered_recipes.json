@@ -56,6 +56,14 @@
     "first_seen": "2026-10-27"
   },
   {
+    "id": "ar:charquican-vegano-de-cochayuyo",
+    "title": "Charquicán vegano de cochayuyo \n                         Platos de Fondo, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/charquican-vegano-de-cochayuyo",
+    "first_seen": "2026-10-29"
+  },
+  {
     "id": "ar:crema-de-chantilly",
     "title": "Crema de chantilly \n                         Postres",
     "country": "AR",
@@ -182,6 +190,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/galletas-de-pasas-y-naranja",
     "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ar:gomitas-de-fruta",
+    "title": "Gomitas de fruta \n                         Platos para Niños, Nutrirecetas, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/gomitas-de-fruta",
+    "first_seen": "2026-10-29"
   },
   {
     "id": "ar:hamburguesas-de-carne",
@@ -320,6 +336,14 @@
     "first_seen": "2026-10-29"
   },
   {
+    "id": "ar:pan-lavash",
+    "title": "Pan Lavash \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pan-lavash",
+    "first_seen": "2026-10-29"
+  },
+  {
     "id": "ar:panqueques-veganos-de-garbanzo",
     "title": "Panqueques veganos de garbanzo \n                         Nutrirecetas, Para Celíacos, Masas / Queques / Panes, Nuevas",
     "country": "AR",
@@ -424,6 +448,14 @@
     "first_seen": "2026-10-24"
   },
   {
+    "id": "ar:salsa-tzatziki",
+    "title": "Salsa Tzatziki \n                         Entradas / Salsas / Aperitivos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/salsa-tzatziki",
+    "first_seen": "2026-10-29"
+  },
+  {
     "id": "ar:sorbete-de-melon",
     "title": "Sorbete de melón \n                         Postres",
     "country": "AR",
@@ -453,6 +485,22 @@
     "country": "AR",
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/tomatican",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:torta-caluga",
+    "title": "Torta caluga \n                         Postres, Mermeladas / Dulces, Navidad",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/torta-caluga",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:torta-de-trufas-de-chocolate",
+    "title": "Torta de trufas de chocolate \n                         Postres, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/torta-de-trufas-de-chocolate",
     "first_seen": "2026-10-29"
   },
   {
