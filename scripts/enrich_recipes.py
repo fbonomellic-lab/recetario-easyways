@@ -86,17 +86,17 @@ class VisibleIngredients(HTMLParser):
 def visible_ingredients(document):
     parser = VisibleIngredients()
     parser.feed(document)
-    lines = [re.sub(r"\\s+", " ", html.unescape(x)).strip(" –-•\\t") for x in "".join(parser.parts).splitlines()]
+    lines = [re.sub(r"\s+", " ", html.unescape(x)).strip(" –-•\t") for x in "".join(parser.parts).splitlines()]
     begin = next((i for i, x in enumerate(lines) if re.fullmatch(r"(?i)ingredientes(?: para (?:la masa|el relleno|la cobertura))?", x)), None)
     if begin is None:
         return []
     output = []
     for x in lines[begin + 1:]:
-        if re.match(r"(?i)^(instrucciones de preparación|preparación|preparacion|notas?|comentarios)\\b", x):
+        if re.match(r"(?i)^(instrucciones de preparación|preparación|preparacion|notas?|comentarios)\b", x):
             break
         if not x or len(x) > 150 or re.match(r"(?i)^ingredientes para", x):
             continue
-        if re.match(r"(?i)^(\\d+(?:[.,/]\\d+)?\\s*(?:g|gr|kg|ml|l|unidades?|tazas?|cucharadas?|cucharaditas?|pizcas?|rebanadas?|ramas?)\\b|\\d+\\s|sal$|pimienta$|aceite$|perejil$|cilantro$|queso rallado)", x):
+        if re.match(r"(?i)^(\d+(?:[.,/]\d+)?\s*(?:g|gr|kg|ml|l|unidades?|tazas?|cucharadas?|cucharaditas?|pizcas?|rebanadas?|ramas?)\b|\d+\s|sal$|pimienta$|aceite$|perejil$|cilantro$|queso rallado)", x):
             output.append(x)
     return output if 2 <= len(output) <= 65 else []
 
