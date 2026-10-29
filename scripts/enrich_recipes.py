@@ -63,6 +63,43 @@ def fetch(url):
     with urlopen(req, timeout=18) as response:
         return response.read(2_500_000).decode("utf-8", errors="replace")
 
+
+class VisibleIngredients(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.parts = []
+        self.ignore = 0
+    def handle_starttag(self, tag, attrs):
+        if tag in ("script", "style", "nav", "footer"):
+            self.ignore += 1
+        if not self.ignore and tag in ("h1", "h2", "h3", "h4", "li", "p", "br"):
+            self.parts.append(chr(10))
+    def handle_endtag(self, tag):
+        if not self.ignore and tag in ("h1", "h2", "h3", "h4", "li", "p"):
+            self.parts.append(chr(10))
+        if tag in ("script", "style", "nav", "footer") and self.ignore:
+            self.ignore -= 1
+    def handle_data(self, data):
+        if not self.ignore:
+            self.parts.append(data)
+
+def visible_ingredients(document):
+    parser = VisibleIngredients()
+    parser.feed(document)
+    lines = [re.sub(r"\\s+", " ", html.unescape(x)).strip(" –-•\\t") for x in "".join(parser.parts).splitlines()]
+    begin = next((i for i, x in enumerate(lines) if re.fullmatch(r"(?i)ingredientes(?: para (?:la masa|el relleno|la cobertura))?", x)), None)
+    if begin is None:
+        return []
+    output = []
+    for x in lines[begin + 1:]:
+        if re.match(r"(?i)^(instrucciones de preparación|preparación|preparacion|notas?|comentarios)\\b", x):
+            break
+        if not x or len(x) > 150 or re.match(r"(?i)^ingredientes para", x):
+            continue
+        if re.match(r"(?i)^(\\d+(?:[.,/]\\d+)?\\s*(?:g|gr|kg|ml|l|unidades?|tazas?|cucharadas?|cucharaditas?|pizcas?|rebanadas?|ramas?)\\b|\\d+\\s|sal$|pimienta$|aceite$|perejil$|cilantro$|queso rallado)", x):
+            output.append(x)
+    return output if 2 <= len(output) <= 65 else []
+
 def main():
     discovered = json.loads(SOURCE.read_text(encoding="utf-8"))
     aliases = json.loads(ALIASES.read_text(encoding="utf-8"))
@@ -79,7 +116,8 @@ def main():
         attempted += 1
         try:
             parser = JSONLD()
-            parser.feed(fetch(url))
+            document = fetch(url)
+            parser.feed(document)
             candidate = None
             for block in parser.blocks:
                 try:
@@ -91,21 +129,23 @@ def main():
                     continue
                 if candidate:
                     break
-            if not candidate:
+            visible = visible_ingredients(document) if not candidate else []
+            if not candidate and not visible:
                 no_recipe_data += 1
                 print(f"SKIP no Recipe JSON-LD ingredients: {url}")
                 continue
-            original = candidate["recipeIngredient"]
+            original = candidate["recipeIngredient"] if candidate else visible
             if not isinstance(original, list) or not all(isinstance(x, str) for x in original):
                 continue
             saved[url] = {
                 "id": item["id"],
-                "title": str(candidate.get("name") or item["title"]).strip(),
+                "title": str(candidate.get("name") if candidate else item["title"]).splitlines()[0].strip(),
                 "country": item["country"],
                 "source_url": url,
                 "machine": None,
                 "original_ingredients": original,
                 "ingredients_display": [normalize_ingredient(x, aliases) for x in original],
+                "extraction_method": "jsonld" if candidate else "visible",
                 "ingredient_filter_ready": False,
                 "first_seen": item["first_seen"],
                 "enriched_on": dt.datetime.now(dt.timezone.utc).date().isoformat(),
