@@ -144,6 +144,14 @@
     "first_seen": "2026-10-23"
   },
   {
+    "id": "ar:filete-a-la-sal",
+    "title": "Filete a la sal \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/filete-a-la-sal",
+    "first_seen": "2026-10-29"
+  },
+  {
     "id": "ar:flan-de-manzanas",
     "title": "Flan de manzana \n                         Postres",
     "country": "AR",
@@ -182,6 +190,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/hamburguesas-de-carne",
     "first_seen": "2026-10-25"
+  },
+  {
+    "id": "ar:helado-de-frambuesas",
+    "title": "Helado de frambuesas \n                         Postres, Navidad",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/helado-de-frambuesas",
+    "first_seen": "2026-10-29"
   },
   {
     "id": "ar:helado-de-frutillas-sin-lacteos",
@@ -238,6 +254,22 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/masa-de-empanadas-para-ferir",
     "first_seen": "2026-10-27"
+  },
+  {
+    "id": "ar:masa-dulce-para-recetas-saludables",
+    "title": "Masa dulce para recetas saludables \n                         Masas / Queques / Panes, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/masa-dulce-para-recetas-saludables",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:mojito",
+    "title": "Mojito \n                         Jugos / Bebidas / Tragos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/mojito",
+    "first_seen": "2026-10-29"
   },
   {
     "id": "ar:muffins-de-arandanos",
@@ -336,6 +368,14 @@
     "first_seen": "2026-10-25"
   },
   {
+    "id": "ar:pure-de-papas-casero",
+    "title": "Puré de papas casero \n                         Platos de Fondo, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pure-de-papas-casero",
+    "first_seen": "2026-10-29"
+  },
+  {
     "id": "ar:queque-de-arandanos",
     "title": "Queque de arándanos \n                         Masas / Queques / Panes",
     "country": "AR",
@@ -406,6 +446,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/tarta-de-nuez-sin-gluten-azucar-ni-lacteos",
     "first_seen": "2026-10-24"
+  },
+  {
+    "id": "ar:tomatican",
+    "title": "Tomaticán \n                         Platos de Fondo, Comida chilena",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/tomatican",
+    "first_seen": "2026-10-29"
   },
   {
     "id": "ar:twix-saludable",
