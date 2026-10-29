@@ -56,6 +56,14 @@
     "first_seen": "2026-10-27"
   },
   {
+    "id": "ar:crema-de-chantilly",
+    "title": "Crema de chantilly \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/crema-de-chantilly",
+    "first_seen": "2026-10-29"
+  },
+  {
     "id": "ar:crema-de-zapallos-italianos",
     "title": "Crema de zapallos italianos \n                         Sopas / Cremas",
     "country": "AR",
@@ -136,6 +144,14 @@
     "first_seen": "2026-10-25"
   },
   {
+    "id": "ar:helado-de-vainilla-veggie",
+    "title": "Helado de vainilla veggie \n                         Postres, Nutrirecetas, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/helado-de-vainilla-veggie",
+    "first_seen": "2026-10-29"
+  },
+  {
     "id": "ar:huevos-a-la-tripe",
     "title": "Huevos a la tripe \n                         Platos de Fondo, Nuevas, Vegetarianos, Nuevas, Platos de Fondo",
     "country": "AR",
@@ -182,6 +198,30 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/nutella-casera",
     "first_seen": "2026-10-24"
+  },
+  {
+    "id": "ar:pan-ahuecado-con-queso-y-hierbas",
+    "title": "Pan ahuecado con queso y hierbas \n                         Entradas / Salsas / Aperitivos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pan-ahuecado-con-queso-y-hierbas",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:pan-de-pascua",
+    "title": "Pan de pascua \n                         Masas / Queques / Panes, Navidad",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pan-de-pascua",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:pan-de-pascua-delicioso",
+    "title": "Pan de pascua delicioso \n                         Masas / Queques / Panes, Navidad",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pan-de-pascua-delicioso",
+    "first_seen": "2026-10-29"
   },
   {
     "id": "ar:panqueques-veganos-de-garbanzo",
