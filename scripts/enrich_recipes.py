@@ -70,6 +70,8 @@ def main():
     saved = {x["source_url"]: x for x in old}
     attempted = 0
     added = 0
+    no_recipe_data = 0
+    fetch_errors = 0
     for item in discovered:
         url = item["source_url"]
         if url in saved or attempted >= MAX_PER_RUN:
@@ -90,6 +92,7 @@ def main():
                 if candidate:
                     break
             if not candidate:
+                no_recipe_data += 1
                 print(f"SKIP no Recipe JSON-LD ingredients: {url}")
                 continue
             original = candidate["recipeIngredient"]
@@ -110,11 +113,14 @@ def main():
             added += 1
             print(f"ADDED {url}")
         except Exception as exc:
+            fetch_errors += 1
             print(f"WARNING {url}: {exc}", file=sys.stderr)
     output = json.dumps(sorted(saved.values(), key=lambda x: x["source_url"]), ensure_ascii=False, indent=2) + chr(10)
     if not DEST.exists() or DEST.read_text(encoding="utf-8") != output:
         DEST.write_text(output, encoding="utf-8")
-    print(f"Checked {attempted}; enriched {added}; total enriched {len(saved)}")
+    print(f"SUMMARY checked={attempted} added={added} no_structured_ingredients={no_recipe_data} fetch_errors={fetch_errors} total={len(saved)}")
+    if added == 0:
+        print("NOTICE No ingredient data extracted. Check whether sites expose Recipe JSON-LD; the next extractor will need a site-specific parser.")
     return 0
 
 if __name__ == "__main__":
