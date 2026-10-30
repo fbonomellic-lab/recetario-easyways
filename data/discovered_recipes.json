@@ -24,6 +24,14 @@
     "first_seen": "2026-10-27"
   },
   {
+    "id": "ar:azucar-impalpable",
+    "title": "Azúcar impalpable (receta básica) \n                         Mermeladas / Dulces",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/azucar-impalpable",
+    "first_seen": "2026-10-30"
+  },
+  {
     "id": "ar:babka-de-pesto",
     "title": "Babka de pesto \n                         Masas / Queques / Panes",
     "country": "AR",
@@ -232,6 +240,14 @@
     "first_seen": "2026-10-29"
   },
   {
+    "id": "ar:huevitos-de-pascua-rellenos",
+    "title": "Huevitos de pascua rellenos \n                         Platos para Niños, Postres, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/huevitos-de-pascua-rellenos",
+    "first_seen": "2026-10-30"
+  },
+  {
     "id": "ar:huevos-a-la-tripe",
     "title": "Huevos a la tripe \n                         Platos de Fondo, Nuevas, Vegetarianos, Nuevas, Platos de Fondo",
     "country": "AR",
@@ -368,6 +384,14 @@
     "first_seen": "2026-10-26"
   },
   {
+    "id": "ar:pimentones-rellenos-de-quinoa-tricolor",
+    "title": "Pimentones rellenos de quinoa tricolor \n                         Para Celíacos, Platos de Fondo, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pimentones-rellenos-de-quinoa-tricolor",
+    "first_seen": "2026-10-30"
+  },
+  {
     "id": "ar:porotos-granados",
     "title": "Porotos granados \n                         Platos de Fondo, Comida chilena, Comida chilena, Platos de Fondo, Vegetarianos",
     "country": "AR",
@@ -416,12 +440,28 @@
     "first_seen": "2026-10-26"
   },
   {
+    "id": "ar:quequitos-de-zanahoria",
+    "title": "Quequitos de zanahoria \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/quequitos-de-zanahoria",
+    "first_seen": "2026-10-30"
+  },
+  {
     "id": "ar:ricota",
     "title": "Ricota \n                         Entradas / Salsas / Aperitivos, Nuevas",
     "country": "AR",
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/ricota",
     "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ar:risotto-de-camarones-yo-mariscos",
+    "title": "Risotto de camarones y/o mariscos \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/risotto-de-camarones-yo-mariscos",
+    "first_seen": "2026-10-30"
   },
   {
     "id": "ar:risotto-de-tomates-y-champinones",
@@ -510,6 +550,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/twix-saludable",
     "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:vinagreta-de-aceto-con-vino",
+    "title": "Vinagreta de aceto con vino \n                         Entradas / Salsas / Aperitivos, Sólo un Paso",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/vinagreta-de-aceto-con-vino",
+    "first_seen": "2026-10-30"
   },
   {
     "id": "cl:aderezo-de-mango-y-cilantro-para-ensaladas",
