@@ -17,7 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "data/discovered_recipes.json"
 DEST = ROOT / "data/enriched_recipes.json"
 ALIASES = ROOT / "data/ingredient_aliases.json"
-MAX_PER_RUN = 35
+MAX_PER_RUN = 24
 
 class JSONLD(HTMLParser):
     def __init__(self):
@@ -109,10 +109,11 @@ def main():
     added = 0
     no_recipe_data = 0
     fetch_errors = 0
-    for item in discovered:
+    # Sample both countries instead of spending the whole run on AR entries.
+    countries = ("CL", "AR")
+    batches = [[x for x in discovered if x["country"] == country and x["source_url"] not in saved][:MAX_PER_RUN // 2] for country in countries]
+    for item in [x for batch in batches for x in batch]:
         url = item["source_url"]
-        if url in saved or attempted >= MAX_PER_RUN:
-            continue
         attempted += 1
         try:
             parser = JSONLD()
@@ -131,6 +132,13 @@ def main():
                     break
             visible = visible_ingredients(document) if not candidate else []
             if not candidate and not visible:
+                if no_recipe_data < 4:
+                    plain = VisibleIngredients()
+                    plain.feed(document)
+                    raw = "".join(plain.parts)
+                    match = re.search("ingredientes", raw, re.IGNORECASE)
+                    snippet = raw[max(0, match.start()-120):match.start()+900] if match else raw[:350]
+                    print(f"DIAGNOSTIC country={item['country']} url={url} html_bytes={len(document)} contains_ingredientes={bool(match)} sample={snippet[:900]!r}")
                 no_recipe_data += 1
                 print(f"SKIP no Recipe JSON-LD ingredients: {url}")
                 continue
