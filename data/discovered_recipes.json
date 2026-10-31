@@ -40,6 +40,14 @@
     "first_seen": "2026-10-26"
   },
   {
+    "id": "ar:bizcocho-de-pina",
+    "title": "Bizcocho de piña \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/bizcocho-de-pina",
+    "first_seen": "2026-10-31"
+  },
+  {
     "id": "ar:bizcocho-relleno-de-manzanas-y-canela",
     "title": "Bizcocho relleno de manzanas y canela \n                         Masas / Queques / Panes",
     "country": "AR",
@@ -200,12 +208,28 @@
     "first_seen": "2026-10-28"
   },
   {
+    "id": "ar:galletas-tipo-oreo-sin-hornear",
+    "title": "Galletas tipo oreo sin hornear \n                         Nutrirecetas, Masas / Queques / Panes, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/galletas-tipo-oreo-sin-hornear",
+    "first_seen": "2026-10-31"
+  },
+  {
     "id": "ar:gomitas-de-fruta",
     "title": "Gomitas de fruta \n                         Platos para Niños, Nutrirecetas, Nuevas",
     "country": "AR",
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/gomitas-de-fruta",
     "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:grissinis",
+    "title": "Grissinis \n                         Entradas / Salsas / Aperitivos, Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/grissinis",
+    "first_seen": "2026-10-31"
   },
   {
     "id": "ar:hamburguesas-de-carne",
@@ -270,6 +294,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/lemon-curd-o-crema-de-limon",
     "first_seen": "2026-10-24"
+  },
+  {
+    "id": "ar:leudar-masa",
+    "title": "Leudar masa \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/leudar-masa",
+    "first_seen": "2026-10-31"
   },
   {
     "id": "ar:mantequilla",
@@ -502,6 +534,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/sorbete-de-melon",
     "first_seen": "2026-10-26"
+  },
+  {
+    "id": "ar:strogonoff-de-camarones",
+    "title": "Strogonoff de Camarones \n                         Platos de Fondo, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/strogonoff-de-camarones",
+    "first_seen": "2026-10-31"
   },
   {
     "id": "ar:strogonoff-de-champinones",

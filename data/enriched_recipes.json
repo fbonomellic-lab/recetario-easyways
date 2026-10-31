@@ -1,1 +1,350 @@
-[]
+[
+  {
+    "id": "cl:aderezo-de-mango-y-cilantro-para-ensaladas",
+    "title": "Aderezo de mango y cilantro para ensaladas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/aderezo-de-mango-y-cilantro-para-ensaladas",
+    "machine": null,
+    "original_ingredients": [
+      "280 g Mango pelado",
+      "40 g Cebolla pelada",
+      "10 g Cilantro",
+      "10 g Jalapeños",
+      "1/2 Diente de ajo",
+      "150 ml Yogur natural",
+      "50 ml Aceite de oliva"
+    ],
+    "ingredients_display": [
+      "280 g Mango pelado",
+      "40 g Cebolla pelada",
+      "10 g Cilantro",
+      "10 g Jalapeños",
+      "1/2 Diente de ajo",
+      "150 ml Yogur natural",
+      "50 ml Aceite de oliva"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-10-31"
+  },
+  {
+    "id": "cl:aji-de-gallina-peruano",
+    "title": "Ají de gallina peruano",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/aji-de-gallina-peruano",
+    "machine": null,
+    "original_ingredients": [
+      "1 Kg Pechuga de pollo trozadas",
+      "150 g Cebolla pelada y trozada",
+      "75 g Zanahoria peladas y trozadas",
+      "40 ml Aceite",
+      "1 cucharadita Cúrcuma",
+      "1 cucharadita Pasta de ají amarilla",
+      "1 1/2 cucharadita Pimentón en polvo",
+      "100 ml Crema",
+      "60 g Maní tostado y picado",
+      "4 rebanadas Pan de molde sin bordes",
+      "Sal",
+      "Pimienta",
+      "Comino"
+    ],
+    "ingredients_display": [
+      "1 Kg Pechuga de pollo trozadas",
+      "150 g Cebolla pelada y trozada",
+      "75 g Zanahoria peladas y trozadas",
+      "40 ml Aceite",
+      "1 cucharadita Cúrcuma",
+      "1 cucharadita Pasta de ají amarilla",
+      "1 1/2 cucharadita Pimentón en polvo",
+      "100 ml Crema",
+      "60 g Maní tostado y picado",
+      "4 rebanadas Pan de molde sin bordes",
+      "Sal",
+      "Pimienta",
+      "Comino"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-10-31"
+  },
+  {
+    "id": "cl:albondigas-de-brocoli",
+    "title": "Albóndigas de brócoli",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/albondigas-de-brocoli",
+    "machine": null,
+    "original_ingredients": [
+      "250 g Brócoli cocido y sin tallo",
+      "200 g Cebolla",
+      "40 g Marraqueta",
+      "1 Huevo",
+      "Ajo",
+      "Sal",
+      "Pimienta",
+      "100 ml Agua"
+    ],
+    "ingredients_display": [
+      "250 g Brócoli cocido y sin tallo",
+      "200 g Cebolla",
+      "40 g Marraqueta",
+      "1 Huevo",
+      "Ajo",
+      "Sal",
+      "Pimienta",
+      "100 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-10-31"
+  },
+  {
+    "id": "cl:alfajores-chilenos",
+    "title": "Alfajores chilenos",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/alfajores-chilenos",
+    "machine": null,
+    "original_ingredients": [
+      "180 g Harina sin polvos de hornear",
+      "22 g Manteca blanda",
+      "20 ml Vinagre",
+      "30 ml Agua",
+      "5 Yema de huevo",
+      "Manjar para rellenar"
+    ],
+    "ingredients_display": [
+      "180 g Harina sin polvos de hornear",
+      "22 g Manteca blanda",
+      "20 ml Vinagre",
+      "30 ml Agua",
+      "5 Yema de huevo",
+      "Manjar para rellenar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-10-31"
+  },
+  {
+    "id": "cl:alioli-2",
+    "title": "Alioli",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/alioli-2",
+    "machine": null,
+    "original_ingredients": [
+      "3 a 4 Dientes de ajo",
+      "1 Yema de huevo",
+      "5 ml Mostaza Dijon",
+      "15 ml Jugo de limón",
+      "175 ml Aceite de maravilla Natura",
+      "¼ cucharadita Sal"
+    ],
+    "ingredients_display": [
+      "3 a 4 Dientes de ajo",
+      "1 Yema de huevo",
+      "5 ml Mostaza Dijon",
+      "15 ml Jugo de limón",
+      "175 ml Aceite de maravilla Natura",
+      "¼ cucharadita Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-10-31"
+  },
+  {
+    "id": "cl:almibar-claro",
+    "title": "Almíbar claro",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/almibar-claro",
+    "machine": null,
+    "original_ingredients": [
+      "300 ml Agua",
+      "150 g Azúcar",
+      "Cáscara de 1 limón y/o naranja (sin nada de parte blanca)",
+      "1 Palito de canela"
+    ],
+    "ingredients_display": [
+      "300 ml Agua",
+      "150 g Azúcar",
+      "Cáscara de 1 limón y/o naranja (sin nada de parte blanca)",
+      "1 Palito de canela"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-10-31"
+  },
+  {
+    "id": "cl:amaretto-sour-1",
+    "title": "Amaretto sour",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/amaretto-sour-1",
+    "machine": null,
+    "original_ingredients": [
+      "360 ml Amaretto",
+      "240 ml Jugo de limón",
+      "1 Clara de huevo",
+      "270 g Hielo casero",
+      "Amargo de angostura (opcional)"
+    ],
+    "ingredients_display": [
+      "360 ml Amaretto",
+      "240 ml Jugo de limón",
+      "1 Clara de huevo",
+      "270 g Hielo casero",
+      "Amargo de angostura (opcional)"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-10-31"
+  },
+  {
+    "id": "cl:amaretto-sour-by-disaronno-2",
+    "title": "Amaretto sour by Disaronno",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/amaretto-sour-by-disaronno-2",
+    "machine": null,
+    "original_ingredients": [
+      "600 ml Disaronno",
+      "300 ml Jugo de limón",
+      "150 ml Jugo de naranja",
+      "100 ml Goma (jarabe de coctelería)",
+      "2 Claras de huevo o 60 ml de aquafava",
+      "Hielo la cantidad necesaria."
+    ],
+    "ingredients_display": [
+      "600 ml Disaronno",
+      "300 ml Jugo de limón",
+      "150 ml Jugo de naranja",
+      "100 ml Goma (jarabe de coctelería)",
+      "2 Claras de huevo o 60 ml de aquafava",
+      "Hielo la cantidad necesaria."
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-10-31"
+  },
+  {
+    "id": "cl:arepas-con-zanahoria-y-cilantro",
+    "title": "Arepas con zanahoria y cilantro",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/arepas-con-zanahoria-y-cilantro",
+    "machine": null,
+    "original_ingredients": [
+      "150 g Zanahoria pelada y trozada",
+      "120 g Harina de maíz",
+      "5 g Cilantro",
+      "150 ml Agua"
+    ],
+    "ingredients_display": [
+      "150 g Zanahoria pelada y trozada",
+      "120 g Harina de maíz",
+      "5 g Cilantro",
+      "150 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-10-31"
+  },
+  {
+    "id": "cl:arrollado-1",
+    "title": "Arrollado",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/arrollado-1",
+    "machine": null,
+    "original_ingredients": [
+      "600 g Pulpa de cerdo",
+      "1/2 cucharada Orégano deshidratado",
+      "1/2 cucharada Ají de color o paprika",
+      "3/4 cucharadita Comino molido",
+      "25 ml Vinagre",
+      "1/2 cucharada Sal",
+      "Pasta de ají (opcional)",
+      "2 Cueros de cerdo (opcional)",
+      "Pita de algodón"
+    ],
+    "ingredients_display": [
+      "600 g Pulpa de cerdo",
+      "1/2 cucharada Orégano deshidratado",
+      "1/2 cucharada Ají de color o paprika",
+      "3/4 cucharadita Comino molido",
+      "25 ml Vinagre",
+      "1/2 cucharada Sal",
+      "Pasta de ají (opcional)",
+      "2 Cueros de cerdo (opcional)",
+      "Pita de algodón"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-10-31"
+  },
+  {
+    "id": "cl:arroz",
+    "title": "Arroz",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/arroz",
+    "machine": null,
+    "original_ingredients": [
+      "Sal",
+      "400 g Arroz grano largo o corto",
+      "1.3 L Agua fría",
+      "3 ml Aceite"
+    ],
+    "ingredients_display": [
+      "Sal",
+      "400 g Arroz grano largo o corto",
+      "1.3 L Agua fría",
+      "3 ml Aceite"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-10-31"
+  },
+  {
+    "id": "cl:arroz-caldoso-de-zapallo-camote-3",
+    "title": "Arroz caldoso de zapallo camote",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/arroz-caldoso-de-zapallo-camote-3",
+    "machine": null,
+    "original_ingredients": [
+      "1 Cebolla cortada en cuatro",
+      "2 Dientes de ajo",
+      "50 g Cilantro",
+      "50 ml Aceite de oliva Natura®",
+      "120 g Tomate pelado",
+      "10 gajos Paprika",
+      "50 ml Vino blanco",
+      "200 g Zapallo camote cortado en cubos",
+      "120 g Arroz de paella",
+      "600 ml Caldo de verduras",
+      "Sal a gusto",
+      "Pimienta a gusto"
+    ],
+    "ingredients_display": [
+      "1 Cebolla cortada en cuatro",
+      "2 Dientes de ajo",
+      "50 g Cilantro",
+      "50 ml Aceite de oliva Natura®",
+      "120 g Tomate pelado",
+      "10 gajos Paprika",
+      "50 ml Vino blanco",
+      "200 g Zapallo camote cortado en cubos",
+      "120 g Arroz de paella",
+      "600 ml Caldo de verduras",
+      "Sal a gusto",
+      "Pimienta a gusto"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-10-31"
+  }
+]
