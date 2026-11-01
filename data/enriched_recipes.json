@@ -346,5 +346,363 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-10-31"
+  },
+  {
+    "id": "cl:arroz-con-leche-de-coco-y-especias-1",
+    "title": "Arroz con leche de coco y especias",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/arroz-con-leche-de-coco-y-especias-1",
+    "machine": null,
+    "original_ingredients": [
+      "500 ml Agua o leche de coco",
+      "200 g Arroz grano corto",
+      "150 g Azúcar rubia o panela",
+      "50 g Mantequilla",
+      "2 tarro Leche de coco",
+      "12 Cardamomo",
+      "6 Clavos de olor",
+      "1/2 cucharadita Nuez moscada molida",
+      "1/2 cucharadita Clavo de olor molido",
+      "1 cucharadita Canela",
+      "Azúcar para espolvorear",
+      "Coco laminado para decorar"
+    ],
+    "ingredients_display": [
+      "500 ml Agua o leche de coco",
+      "200 g Arroz grano corto",
+      "150 g Azúcar rubia o panela",
+      "50 g Mantequilla",
+      "2 tarro Leche de coco",
+      "12 Cardamomo",
+      "6 Clavos de olor",
+      "1/2 cucharadita Nuez moscada molida",
+      "1/2 cucharadita Clavo de olor molido",
+      "1 cucharadita Canela",
+      "Azúcar para espolvorear",
+      "Coco laminado para decorar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-01"
+  },
+  {
+    "id": "cl:arroz-con-sofrito-natura-2",
+    "title": "Arroz con sofrito (Natura)",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/arroz-con-sofrito-natura-2",
+    "machine": null,
+    "original_ingredients": [
+      "80 g Zanahoria trozada",
+      "100 g Cebolla",
+      "50 g Pimentón",
+      "1 Diente de ajo",
+      "50 g Apio",
+      "30 ml Aceite vegetal o aceite blend de Natura",
+      "400 g Arroz largo o corto",
+      "1.3 L Agua",
+      "Sal a gusto"
+    ],
+    "ingredients_display": [
+      "80 g Zanahoria trozada",
+      "100 g Cebolla",
+      "50 g Pimentón",
+      "1 Diente de ajo",
+      "50 g Apio",
+      "30 ml Aceite vegetal o aceite blend de Natura",
+      "400 g Arroz largo o corto",
+      "1.3 L Agua",
+      "Sal a gusto"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-01"
+  },
+  {
+    "id": "cl:arroz-de-coliflor",
+    "title": "Arroz de coliflor",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/arroz-de-coliflor",
+    "machine": null,
+    "original_ingredients": [
+      "Sal",
+      "20 ml Aceite de oliva",
+      "200 g Pimentón rojo",
+      "400 g Cebolla",
+      "700 g Coliflor sin tallo"
+    ],
+    "ingredients_display": [
+      "Sal",
+      "20 ml Aceite de oliva",
+      "200 g Pimentón rojo",
+      "400 g Cebolla",
+      "700 g Coliflor sin tallo"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-01"
+  },
+  {
+    "id": "cl:arroz-de-tomate",
+    "title": "Arroz de tomate",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/arroz-de-tomate",
+    "machine": null,
+    "original_ingredients": [
+      "150 g Cebolla pelada y trozada",
+      "200 g Tomates cortados en cuatro",
+      "50 ml Aceite de oliva",
+      "400 g Arroz",
+      "1.2 L Agua",
+      "Sal a gusto"
+    ],
+    "ingredients_display": [
+      "150 g Cebolla pelada y trozada",
+      "200 g Tomates cortados en cuatro",
+      "50 ml Aceite de oliva",
+      "400 g Arroz",
+      "1.2 L Agua",
+      "Sal a gusto"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-01"
+  },
+  {
+    "id": "cl:arroz-integral",
+    "title": "Arroz integral",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/arroz-integral",
+    "machine": null,
+    "original_ingredients": [
+      "400 g Arroz integral",
+      "1.3 L Agua",
+      "1 Zanahoria pelada y trozada",
+      "1 trozo Pimentón verde, rojo y/o amarillo",
+      "Aceite",
+      "Sal"
+    ],
+    "ingredients_display": [
+      "400 g Arroz integral",
+      "1.3 L Agua",
+      "1 Zanahoria pelada y trozada",
+      "1 trozo Pimentón verde, rojo y/o amarillo",
+      "Aceite",
+      "Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-01"
+  },
+  {
+    "id": "cl:asado-aleman",
+    "title": "Asado alemán",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/asado-aleman",
+    "machine": null,
+    "original_ingredients": [
+      "1 Kg Carne molida",
+      "170 g Cebolla pelada y trozada",
+      "100 g Zanahorias peladas y trozadas",
+      "30 ml Aceite",
+      "1 cucharada Pan rallado",
+      "20 g Kétchup",
+      "Perejil picado",
+      "2 Huevos",
+      "Tocino",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "1 Kg Carne molida",
+      "170 g Cebolla pelada y trozada",
+      "100 g Zanahorias peladas y trozadas",
+      "30 ml Aceite",
+      "1 cucharada Pan rallado",
+      "20 g Kétchup",
+      "Perejil picado",
+      "2 Huevos",
+      "Tocino",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-01"
+  },
+  {
+    "id": "cl:azucar-flor-receta-basica",
+    "title": "Azúcar flor (receta básica)",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/azucar-flor-receta-basica",
+    "machine": null,
+    "original_ingredients": [
+      "300 g Azúcar"
+    ],
+    "ingredients_display": [
+      "300 g Azúcar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-01"
+  },
+  {
+    "id": "cl:baba-ganoush-1",
+    "title": "Baba Ganoush",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/baba-ganoush-1",
+    "machine": null,
+    "original_ingredients": [
+      "4 Berenjenas",
+      "3 cucharadas Tahini",
+      "Jugo de 1 limón",
+      "1 Diente de ajo",
+      "1 cucharadita Comino",
+      "1 cucharadita Sal",
+      "50 ml Aceite de oliva",
+      "15 ml Aceite de sésamo"
+    ],
+    "ingredients_display": [
+      "4 Berenjenas",
+      "3 cucharadas Tahini",
+      "Jugo de 1 limón",
+      "1 Diente de ajo",
+      "1 cucharadita Comino",
+      "1 cucharadita Sal",
+      "50 ml Aceite de oliva",
+      "15 ml Aceite de sésamo"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-01"
+  },
+  {
+    "id": "cl:barra-granola-saludable-1",
+    "title": "Barra granola saludable",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/barra-granola-saludable-1",
+    "machine": null,
+    "original_ingredients": [
+      "100 g Almendras",
+      "20 g Harina de linaza",
+      "20 g Semillas de zapallo",
+      "25 g laminas de coco",
+      "70 g Mantequilla de maní",
+      "1/2 taza Aceite de coco",
+      "90 g Miel"
+    ],
+    "ingredients_display": [
+      "100 g Almendras",
+      "20 g Harina de linaza",
+      "20 g Semillas de zapallo",
+      "25 g laminas de coco",
+      "70 g Mantequilla de maní",
+      "1/2 taza Aceite de coco",
+      "90 g Miel"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-01"
+  },
+  {
+    "id": "cl:barritas-de-avena-chips-de-chocolate-y-frutos-secos-1",
+    "title": "Barritas de avena, chips de chocolate y frutos secos",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/barritas-de-avena-chips-de-chocolate-y-frutos-secos-1",
+    "machine": null,
+    "original_ingredients": [
+      "250 g Mantequilla blanda",
+      "220 g Azúcar rubia",
+      "100 g Azúcar",
+      "2 Huevos",
+      "30 ml Leche",
+      "2 cucharadita Extracto de vainilla",
+      "245 g Harina sin polvos de hornear",
+      "1 cucharadita Bicarbonato de sodio",
+      "1/4 cucharadita Sal",
+      "120 g Nueces picadas",
+      "340 g Chips de chocolate",
+      "215 g Avena tradicional (no instantánea)"
+    ],
+    "ingredients_display": [
+      "250 g Mantequilla blanda",
+      "220 g Azúcar rubia",
+      "100 g Azúcar",
+      "2 Huevos",
+      "30 ml Leche",
+      "2 cucharadita Extracto de vainilla",
+      "245 g Harina sin polvos de hornear",
+      "1 cucharadita Bicarbonato de sodio",
+      "1/4 cucharadita Sal",
+      "120 g Nueces picadas",
+      "340 g Chips de chocolate",
+      "215 g Avena tradicional (no instantánea)"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-01"
+  },
+  {
+    "id": "cl:barritas-de-avena-y-manjar",
+    "title": "Barritas de avena y manjar",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/barritas-de-avena-y-manjar",
+    "machine": null,
+    "original_ingredients": [
+      "240 g Harina sin polvos de hornear",
+      "200 g Avena tradicional (no instantánea)",
+      "100 g Azúcar rubia",
+      "1/2 cucharadita Bicarbonato",
+      "150 g Mantequilla blanda",
+      "1 taza Manjar",
+      "2 cucharadas Harina sin polvos de hornear",
+      "1/2 taza Chips de chocolate",
+      "1/2 taza Nueces"
+    ],
+    "ingredients_display": [
+      "240 g Harina sin polvos de hornear",
+      "200 g Avena tradicional (no instantánea)",
+      "100 g Azúcar rubia",
+      "1/2 cucharadita Bicarbonato",
+      "150 g Mantequilla blanda",
+      "1 taza Manjar",
+      "2 cucharadas Harina sin polvos de hornear",
+      "1/2 taza Chips de chocolate",
+      "1/2 taza Nueces"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-01"
+  },
+  {
+    "id": "cl:barritas-de-berries-y-coco-veganas",
+    "title": "Barritas de berries y coco veganas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/barritas-de-berries-y-coco-veganas",
+    "machine": null,
+    "original_ingredients": [
+      "300 g Coco rallado sin azúcar",
+      "225 g Chocolate amargo alto en cacao sin azúcar ni lácteos trozado",
+      "210 g Berries"
+    ],
+    "ingredients_display": [
+      "300 g Coco rallado sin azúcar",
+      "225 g Chocolate amargo alto en cacao sin azúcar ni lácteos trozado",
+      "210 g Berries"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-01"
   }
 ]
