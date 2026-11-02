@@ -240,6 +240,14 @@
     "first_seen": "2026-10-25"
   },
   {
+    "id": "ar:hamburguesas-de-lentejas",
+    "title": "Hamburguesas de lentejas \n                         Platos de Fondo, Nutrirecetas, Vegetarianos, Nutrirecetas, Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/hamburguesas-de-lentejas",
+    "first_seen": "2026-11-02"
+  },
+  {
     "id": "ar:helado-de-frambuesas",
     "title": "Helado de frambuesas \n                         Postres, Navidad",
     "country": "AR",
@@ -302,6 +310,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/leudar-masa",
     "first_seen": "2026-10-31"
+  },
+  {
+    "id": "ar:macarons",
+    "title": "Macarons \n                         Postres, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/macarons",
+    "first_seen": "2026-11-02"
   },
   {
     "id": "ar:mantequilla",
@@ -390,6 +406,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pan-lavash",
     "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:pannacotta-de-chirimoyas",
+    "title": "Pannacotta de chirimoyas \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pannacotta-de-chirimoyas",
+    "first_seen": "2026-11-02"
   },
   {
     "id": "ar:panqueques-veganos-de-garbanzo",
@@ -528,6 +552,14 @@
     "first_seen": "2026-10-29"
   },
   {
+    "id": "ar:sorbete-de-limon",
+    "title": "Sorbete de limón \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/sorbete-de-limon",
+    "first_seen": "2026-11-02"
+  },
+  {
     "id": "ar:sorbete-de-melon",
     "title": "Sorbete de melón \n                         Postres",
     "country": "AR",
@@ -552,12 +584,28 @@
     "first_seen": "2026-10-25"
   },
   {
+    "id": "ar:tarta-de-maracuya",
+    "title": "Tarta de maracuyá \n                         Postres, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/tarta-de-maracuya",
+    "first_seen": "2026-11-02"
+  },
+  {
     "id": "ar:tarta-de-nuez-sin-gluten-azucar-ni-lacteos",
     "title": "Tarta de nuez sin gluten, azúcar ni lácteos \n                         Nutrirecetas, Para Celíacos, Postres, Nuevas",
     "country": "AR",
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/tarta-de-nuez-sin-gluten-azucar-ni-lacteos",
     "first_seen": "2026-10-24"
+  },
+  {
+    "id": "ar:tarte-tatin-o-tarta-de-manzanas-acarameladas",
+    "title": "Tarte tatin o tarta de manzanas acarameladas \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/tarte-tatin-o-tarta-de-manzanas-acarameladas",
+    "first_seen": "2026-11-02"
   },
   {
     "id": "ar:tomatican",

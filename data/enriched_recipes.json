@@ -704,5 +704,371 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-01"
+  },
+  {
+    "id": "cl:barritas-de-cereal-raw-1",
+    "title": "Barritas de cereal raw",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/barritas-de-cereal-raw-1",
+    "machine": null,
+    "original_ingredients": [
+      "300 g Avena",
+      "100 g Mantequilla de almendras",
+      "100 g Coco rallado sin azúcar",
+      "100 ml Miel",
+      "60 g Dátiles sin carozo remojados en agua caliente durante 10 minutos",
+      "60 g Nueces",
+      "60 g Cranberries deshidratado",
+      "30 ml Aceite de coco"
+    ],
+    "ingredients_display": [
+      "300 g Avena",
+      "100 g Mantequilla de almendras",
+      "100 g Coco rallado sin azúcar",
+      "100 ml Miel",
+      "60 g Dátiles sin carozo remojados en agua caliente durante 10 minutos",
+      "60 g Nueces",
+      "60 g Cranberries deshidratado",
+      "30 ml Aceite de coco"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-02"
+  },
+  {
+    "id": "cl:barritas-de-coliflor-gratinadas",
+    "title": "Barritas de coliflor gratinadas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/barritas-de-coliflor-gratinadas",
+    "machine": null,
+    "original_ingredients": [
+      "1 Coliflor trozado",
+      "2 Huevos",
+      "50 g Queso mozzarella",
+      "50 g Queso parmesano rallado",
+      "20 g Albahaca",
+      "3 g Ajo",
+      "Sal",
+      "Pimienta",
+      "Merkén"
+    ],
+    "ingredients_display": [
+      "1 Coliflor trozado",
+      "2 Huevos",
+      "50 g Queso mozzarella",
+      "50 g Queso parmesano rallado",
+      "20 g Albahaca",
+      "3 g Ajo",
+      "Sal",
+      "Pimienta",
+      "Merkén"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-02"
+  },
+  {
+    "id": "cl:barritas-de-proteina-1",
+    "title": "Barritas de proteína",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/barritas-de-proteina-1",
+    "machine": null,
+    "original_ingredients": [
+      "150 g Aceite de coco",
+      "170 g Miel",
+      "30 g Cacao amargo",
+      "1 cucharadita Canela en polvo",
+      "130 g Avena tradicional (no instantánea)",
+      "230 g Frutos secos (fruta confitada, nueces, pasas, ciruelas descorazadas, higos)",
+      "1 cucharada Chía",
+      "100 g Coco rallado"
+    ],
+    "ingredients_display": [
+      "150 g Aceite de coco",
+      "170 g Miel",
+      "30 g Cacao amargo",
+      "1 cucharadita Canela en polvo",
+      "130 g Avena tradicional (no instantánea)",
+      "230 g Frutos secos (fruta confitada, nueces, pasas, ciruelas descorazadas, higos)",
+      "1 cucharada Chía",
+      "100 g Coco rallado"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-02"
+  },
+  {
+    "id": "cl:base-para-ceviche-1",
+    "title": "Base para ceviche",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/base-para-ceviche-1",
+    "machine": null,
+    "original_ingredients": [
+      "1.5 Cebolla morada cortado en cubos",
+      "250 ml Jugo de limón",
+      "150 ml Aceite de oliva",
+      "30 g Cilantro",
+      "1/2 Ají verde",
+      "1 Pimentón rojo",
+      "2 cucharadas Sal",
+      "1 cucharadita Pimienta negra molida",
+      "200 g Elemento principal: camarones, salmón o champiñones"
+    ],
+    "ingredients_display": [
+      "1.5 Cebolla morada cortado en cubos",
+      "250 ml Jugo de limón",
+      "150 ml Aceite de oliva",
+      "30 g Cilantro",
+      "1/2 Ají verde",
+      "1 Pimentón rojo",
+      "2 cucharadas Sal",
+      "1 cucharadita Pimienta negra molida",
+      "200 g Elemento principal: camarones, salmón o champiñones"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-02"
+  },
+  {
+    "id": "cl:batido-de-proteina-con-platano-1",
+    "title": "Batido de proteína con plátano",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/batido-de-proteina-con-platano-1",
+    "machine": null,
+    "original_ingredients": [
+      "25 g Proteina Whey",
+      "350 ml Leche descremada",
+      "100 g Hielo",
+      "50 g Avena",
+      "1 Plátano"
+    ],
+    "ingredients_display": [
+      "25 g Proteina Whey",
+      "350 ml Leche descremada",
+      "100 g Hielo",
+      "50 g Avena",
+      "1 Plátano"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-02"
+  },
+  {
+    "id": "cl:bavarois-de-menta",
+    "title": "Bavarois de menta",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/bavarois-de-menta",
+    "machine": null,
+    "original_ingredients": [
+      "240 ml Leche",
+      "30 hojas Menta fresca",
+      "4 Yema de huevo",
+      "50 g Azúcar",
+      "7.5 g Gelatina sin sabor",
+      "300 ml Crema muy fría",
+      "Esencia de menta"
+    ],
+    "ingredients_display": [
+      "240 ml Leche",
+      "30 hojas Menta fresca",
+      "4 Yema de huevo",
+      "50 g Azúcar",
+      "7.5 g Gelatina sin sabor",
+      "300 ml Crema muy fría",
+      "Esencia de menta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-02"
+  },
+  {
+    "id": "cl:berenjenas-a-la-parmesana-2",
+    "title": "Berenjenas a la parmesana",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/berenjenas-a-la-parmesana-2",
+    "machine": null,
+    "original_ingredients": [
+      "1 receta TOMATE FRITO",
+      "3 Berenjenas",
+      "60 ml aceite de oliva natura",
+      "2 Dientes de ajo",
+      "5 g Sal",
+      "Hojas de albahaca frescas",
+      "120 g Queso parmesano",
+      "150 g Queso mozzarella",
+      "1 L Agua"
+    ],
+    "ingredients_display": [
+      "1 receta TOMATE FRITO",
+      "3 Berenjenas",
+      "60 ml aceite de oliva natura",
+      "2 Dientes de ajo",
+      "5 g Sal",
+      "Hojas de albahaca frescas",
+      "120 g Queso parmesano",
+      "150 g Queso mozzarella",
+      "1 L Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-02"
+  },
+  {
+    "id": "cl:berlines-1",
+    "title": "Berlines",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/berlines-1",
+    "machine": null,
+    "original_ingredients": [
+      "200 ml Agua",
+      "3 g Sal",
+      "2 Huevos",
+      "40 g Mantequilla a temperatura ambiente",
+      "60 g Azúcar",
+      "500 g Harina sin polvos de hornear",
+      "8 g Levadura seca",
+      "500 g Manjar o crema pastelera",
+      "Azúcar flor para decorar"
+    ],
+    "ingredients_display": [
+      "200 ml Agua",
+      "3 g Sal",
+      "2 Huevos",
+      "40 g Mantequilla a temperatura ambiente",
+      "60 g Azúcar",
+      "500 g Harina sin polvos de hornear",
+      "8 g Levadura seca",
+      "500 g Manjar o crema pastelera",
+      "Azúcar flor para decorar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-02"
+  },
+  {
+    "id": "cl:bizcocho-de-peras-y-nueces",
+    "title": "Bizcocho de peras y nueces",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/bizcocho-de-peras-y-nueces",
+    "machine": null,
+    "original_ingredients": [
+      "300 g Pera",
+      "100 g Harina refinada",
+      "100 g Harina integral",
+      "50 g Nueces",
+      "1 Yogur natural descremado endulzado",
+      "50 ml Aceite de oliva",
+      "3 Huevo",
+      "1 cucharadita Esencia de vainilla",
+      "1 cucharadita Polvos de hornear",
+      "Endulzante a gusto"
+    ],
+    "ingredients_display": [
+      "300 g Pera",
+      "100 g Harina refinada",
+      "100 g Harina integral",
+      "50 g Nueces",
+      "1 Yogur natural descremado endulzado",
+      "50 ml Aceite de oliva",
+      "3 Huevo",
+      "1 cucharadita Esencia de vainilla",
+      "1 cucharadita Polvos de hornear",
+      "Endulzante a gusto"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-02"
+  },
+  {
+    "id": "cl:black-martini-halloween",
+    "title": "Black Martini Halloween",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/black-martini-halloween",
+    "machine": null,
+    "original_ingredients": [
+      "360 ml Vodka",
+      "180 ml Blue Curazao",
+      "90 ml Licor de Cassis",
+      "500 g Hielo",
+      "Hojas de menta para decorar"
+    ],
+    "ingredients_display": [
+      "360 ml Vodka",
+      "180 ml Blue Curazao",
+      "90 ml Licor de Cassis",
+      "500 g Hielo",
+      "Hojas de menta para decorar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-02"
+  },
+  {
+    "id": "cl:blondies-de-porotos-blancos-y-cranberries-1",
+    "title": "Blondies de porotos blancos y cranberries",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/blondies-de-porotos-blancos-y-cranberries-1",
+    "machine": null,
+    "original_ingredients": [
+      "250 g Porotos blancos cocidos",
+      "150 ml Miel",
+      "60 g Avena",
+      "45 ml Aceite de oliva",
+      "10 ml Esencia de vainilla",
+      "2 g Bicarbonato",
+      "1 cucharadita Polvos de hornear",
+      "1 pizca Sal",
+      "55 g Cranberries deshidratados"
+    ],
+    "ingredients_display": [
+      "250 g Porotos blancos cocidos",
+      "150 ml Miel",
+      "60 g Avena",
+      "45 ml Aceite de oliva",
+      "10 ml Esencia de vainilla",
+      "2 g Bicarbonato",
+      "1 cucharadita Polvos de hornear",
+      "1 pizca Sal",
+      "55 g Cranberries deshidratados"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-02"
+  },
+  {
+    "id": "cl:bolitas-de-almendras-banadas-en-chocolate",
+    "title": "Bolitas de almendras bañadas en chocolate",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/bolitas-de-almendras-banadas-en-chocolate",
+    "machine": null,
+    "original_ingredients": [
+      "250 g Almendras peladas",
+      "250 g Azúcar",
+      "5 ml Esencia de almendras",
+      "400 g Chocolate para cobertura trozado",
+      "1 Clara de huevo"
+    ],
+    "ingredients_display": [
+      "250 g Almendras peladas",
+      "250 g Azúcar",
+      "5 ml Esencia de almendras",
+      "400 g Chocolate para cobertura trozado",
+      "1 Clara de huevo"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-02"
   }
 ]
