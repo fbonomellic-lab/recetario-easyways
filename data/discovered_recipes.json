@@ -248,6 +248,14 @@
     "first_seen": "2026-11-02"
   },
   {
+    "id": "ar:helado-de-chirimoya",
+    "title": "Helado de chirimoya \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/helado-de-chirimoya",
+    "first_seen": "2026-11-03"
+  },
+  {
     "id": "ar:helado-de-frambuesas",
     "title": "Helado de frambuesas \n                         Postres, Navidad",
     "country": "AR",
@@ -278,6 +286,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/huevitos-de-pascua-rellenos",
     "first_seen": "2026-10-30"
+  },
+  {
+    "id": "ar:huevitos-macizos-de-chocolate",
+    "title": "Huevitos macizos de chocolate",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/huevitos-macizos-de-chocolate",
+    "first_seen": "2026-11-03"
   },
   {
     "id": "ar:huevos-a-la-tripe",
