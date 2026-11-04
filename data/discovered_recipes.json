@@ -64,6 +64,14 @@
     "first_seen": "2026-10-28"
   },
   {
+    "id": "ar:calzones-rotos",
+    "title": "Calzones rotos \n                         Masas / Queques / Panes, Comida chilena",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/calzones-rotos",
+    "first_seen": "2026-11-04"
+  },
+  {
     "id": "ar:carne-con-almendras",
     "title": "Carne con almendras \n                         Platos de Fondo",
     "country": "AR",
@@ -78,6 +86,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/charquican-vegano-de-cochayuyo",
     "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:crema-de-alcachofas",
+    "title": "Crema de alcachofas \n                         Sopas / Cremas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/crema-de-alcachofas",
+    "first_seen": "2026-11-04"
   },
   {
     "id": "ar:crema-de-chantilly",
@@ -118,6 +134,22 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/crumble-de-durazno-sin-azucar",
     "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ar:cupcakes-del-terror",
+    "title": "Cupcakes del terror \n                         Masas / Queques / Panes, Platos para Niños, Nutrirecetas, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/cupcakes-del-terror",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "id": "ar:curry-de-carne",
+    "title": "Curry de carne \n                         Platos de Fondo, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/curry-de-carne",
+    "first_seen": "2026-11-04"
   },
   {
     "id": "ar:desmenuzar-pollo",
@@ -270,6 +302,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/helado-de-frutillas-sin-lacteos",
     "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:helado-de-miel",
+    "title": "Helado de miel \n                         Postres, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/helado-de-miel",
+    "first_seen": "2026-11-04"
   },
   {
     "id": "ar:helado-de-vainilla-veggie",
@@ -502,6 +542,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/queque-de-arandanos",
     "first_seen": "2026-10-26"
+  },
+  {
+    "id": "ar:queque-de-avena-platano-y-cranberry",
+    "title": "Queque de avena, plátano y cranberry \n                         Masas / Queques / Panes, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/queque-de-avena-platano-y-cranberry",
+    "first_seen": "2026-11-04"
   },
   {
     "id": "ar:queque-de-frambuesas",
