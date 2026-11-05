@@ -1,5 +1,13 @@
 [
   {
+    "id": "ar:alfajores-de-avena",
+    "title": "Alfajores de avena \n                         Nuevas, Nutrirecetas, Masas / Queques / Panes, Comida chilena",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/alfajores-de-avena",
+    "first_seen": "2026-11-05"
+  },
+  {
     "id": "ar:amaretto-sour",
     "title": "Amaretto sour \n                         Jugos / Bebidas / Tragos",
     "country": "AR",
@@ -80,6 +88,14 @@
     "first_seen": "2026-10-27"
   },
   {
+    "id": "ar:carne-primavera",
+    "title": "Carne Primavera \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/carne-primavera",
+    "first_seen": "2026-11-05"
+  },
+  {
     "id": "ar:charquican-vegano-de-cochayuyo",
     "title": "Charquicán vegano de cochayuyo \n                         Platos de Fondo, Nutrirecetas",
     "country": "AR",
@@ -126,6 +142,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/crema-de-zapallos-italianos",
     "first_seen": "2026-10-27"
+  },
+  {
+    "id": "ar:crumble-de-arandanos",
+    "title": "Crumble de arándanos \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/crumble-de-arandanos",
+    "first_seen": "2026-11-05"
   },
   {
     "id": "ar:crumble-de-durazno-sin-azucar",
@@ -310,6 +334,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/helado-de-miel",
     "first_seen": "2026-11-04"
+  },
+  {
+    "id": "ar:helado-de-te-verde",
+    "title": "Helado de té verde \n                         Postres, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/helado-de-te-verde",
+    "first_seen": "2026-11-05"
   },
   {
     "id": "ar:helado-de-vainilla-veggie",
@@ -504,6 +536,14 @@
     "first_seen": "2026-10-30"
   },
   {
+    "id": "ar:pisco-sour-con-limon-de-pica",
+    "title": "Pisco sour con limón de pica \n                         Navidad, Jugos / Bebidas / Tragos, Comida chilena",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pisco-sour-con-limon-de-pica",
+    "first_seen": "2026-11-05"
+  },
+  {
     "id": "ar:porotos-granados",
     "title": "Porotos granados \n                         Platos de Fondo, Comida chilena, Comida chilena, Platos de Fondo, Vegetarianos",
     "country": "AR",
@@ -558,6 +598,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/queque-de-frambuesas",
     "first_seen": "2026-10-26"
+  },
+  {
+    "id": "ar:queque-de-yogur",
+    "title": "Queque de yogur \n                         Nutrirecetas, Masas / Queques / Panes, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/queque-de-yogur",
+    "first_seen": "2026-11-05"
   },
   {
     "id": "ar:quequitos-de-zanahoria",
