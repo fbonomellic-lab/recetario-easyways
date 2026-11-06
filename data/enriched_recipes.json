@@ -2272,5 +2272,369 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-05"
+  },
+  {
+    "id": "cl:cola-de-mono-baja-en-azucar-y-grasas",
+    "title": "Cola de mono baja en azúcar y grasas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/cola-de-mono-baja-en-azucar-y-grasas",
+    "machine": null,
+    "original_ingredients": [
+      "1 L Leche semidescremada",
+      "30 g Tagatosa",
+      "200 ml Vodka",
+      "1 Vainilla",
+      "1 Nuez moscada entera",
+      "1 Canela",
+      "5 Clavos de olor",
+      "15 g Café en polvo disuelto en 50 ml de agua",
+      "150 ml Agua"
+    ],
+    "ingredients_display": [
+      "1 L Leche semidescremada",
+      "30 g Tagatosa",
+      "200 ml Vodka",
+      "1 Vainilla",
+      "1 Nuez moscada entera",
+      "1 Canela",
+      "5 Clavos de olor",
+      "15 g Café en polvo disuelto en 50 ml de agua",
+      "150 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-06"
+  },
+  {
+    "id": "cl:coliflor-al-vapor-1",
+    "title": "Coliflor al vapor",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/coliflor-al-vapor-1",
+    "machine": null,
+    "original_ingredients": [
+      "1 Coliflor separada en arbolitos",
+      "1 L Agua"
+    ],
+    "ingredients_display": [
+      "1 Coliflor separada en arbolitos",
+      "1 L Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-06"
+  },
+  {
+    "id": "cl:compota-de-duraznos",
+    "title": "Compota de duraznos",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/compota-de-duraznos",
+    "machine": null,
+    "original_ingredients": [
+      "600 g Durazno pelados y cortados en cubos",
+      "150 g Azúcar",
+      "150 ml Agua",
+      "15 ml Jugo de limón"
+    ],
+    "ingredients_display": [
+      "600 g Durazno pelados y cortados en cubos",
+      "150 g Azúcar",
+      "150 ml Agua",
+      "15 ml Jugo de limón"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-06"
+  },
+  {
+    "id": "cl:compota-de-manzana-para-squeeze",
+    "title": "Compota de manzana para squeeze",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/compota-de-manzana-para-squeeze",
+    "machine": null,
+    "original_ingredients": [
+      "500 g Manzana pelada y trozada",
+      "100 g Azúcar (opcional)",
+      "50 ml Agua",
+      "Jugo de 1/2 limón"
+    ],
+    "ingredients_display": [
+      "500 g Manzana pelada y trozada",
+      "100 g Azúcar (opcional)",
+      "50 ml Agua",
+      "Jugo de 1/2 limón"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-06"
+  },
+  {
+    "id": "cl:compota-de-manzanas",
+    "title": "Compota de manzanas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/compota-de-manzanas",
+    "machine": null,
+    "original_ingredients": [
+      "700 g Manzana trozadas",
+      "150 g Azúcar",
+      "100 ml Agua",
+      "2 cucharadas Jugo de limón",
+      "Canela a gusto"
+    ],
+    "ingredients_display": [
+      "700 g Manzana trozadas",
+      "150 g Azúcar",
+      "100 ml Agua",
+      "2 cucharadas Jugo de limón",
+      "Canela a gusto"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-06"
+  },
+  {
+    "id": "cl:concentrado-de-verduras-1",
+    "title": "Concentrado de verduras",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/concentrado-de-verduras-1",
+    "machine": null,
+    "original_ingredients": [
+      "50 g Queso parmesano",
+      "200 g Apio trozado",
+      "500 g Zanahoria trozada",
+      "100 g Cebolla cortada",
+      "100 g Tomate trozado",
+      "150 g Zapallo italiano trozado",
+      "1 Diente de ajo",
+      "50 g Champiñones frescos",
+      "1 hoja Laurel fresca",
+      "6 ramitas Hierbas frescas a elección (romero, tomillo, orégano, laurel, entre otros)",
+      "4 ramitas Perejil fresco",
+      "120 g Sal gruesa",
+      "30 ml Vino blanco seco",
+      "1 cucharadita Aceite de oliva"
+    ],
+    "ingredients_display": [
+      "50 g Queso parmesano",
+      "200 g Apio trozado",
+      "500 g Zanahoria trozada",
+      "100 g Cebolla cortada",
+      "100 g Tomate trozado",
+      "150 g Zapallo italiano trozado",
+      "1 Diente de ajo",
+      "50 g Champiñones frescos",
+      "1 hoja Laurel fresca",
+      "6 ramitas Hierbas frescas a elección (romero, tomillo, orégano, laurel, entre otros)",
+      "4 ramitas Perejil fresco",
+      "120 g Sal gruesa",
+      "30 ml Vino blanco seco",
+      "1 cucharadita Aceite de oliva"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-06"
+  },
+  {
+    "id": "cl:conitos-rellenos-1",
+    "title": "Conitos rellenos",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/conitos-rellenos-1",
+    "machine": null,
+    "original_ingredients": [
+      "1 pizca Sal",
+      "70 ml Agua fría",
+      "135 g Mantequilla",
+      "310 g Harina sin polvo",
+      "5 ml Vainilla",
+      "15 g Azúcar",
+      "Nutella",
+      "Manjar",
+      "Crema pastelera (ver receta en tu robot)",
+      "Crema chantilli (ver receta en tu robot de cocina)"
+    ],
+    "ingredients_display": [
+      "1 pizca Sal",
+      "70 ml Agua fría",
+      "135 g Mantequilla",
+      "310 g Harina sin polvo",
+      "5 ml Vainilla",
+      "15 g Azúcar",
+      "Nutella",
+      "Manjar",
+      "Crema pastelera (ver receta en tu robot)",
+      "Crema chantilli (ver receta en tu robot de cocina)"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-06"
+  },
+  {
+    "id": "cl:corona-de-navidad",
+    "title": "Corona de Navidad",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/corona-de-navidad",
+    "machine": null,
+    "original_ingredients": [
+      "4 Huevos",
+      "250 g Almendras",
+      "150 g Fruta confitada",
+      "250 g Azúcar",
+      "Azúcar flor para espolvorear",
+      "Sal"
+    ],
+    "ingredients_display": [
+      "4 Huevos",
+      "250 g Almendras",
+      "150 g Fruta confitada",
+      "250 g Azúcar",
+      "Azúcar flor para espolvorear",
+      "Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-06"
+  },
+  {
+    "id": "cl:crema-de-alcachofas",
+    "title": "Crema de alcachofas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/crema-de-alcachofas",
+    "machine": null,
+    "original_ingredients": [
+      "300 g Fondos de alcachofas cocidas",
+      "40 g Cebolla pelada y trozada",
+      "400 ml Leche",
+      "200 ml Caldo de ave (o agua caliente con 1/2 caldo de ave)",
+      "20 g Mantequilla blanda",
+      "20 ml Aceite",
+      "100 ml Crema",
+      "20 g Harina sin polvos de hornear",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "300 g Fondos de alcachofas cocidas",
+      "40 g Cebolla pelada y trozada",
+      "400 ml Leche",
+      "200 ml Caldo de ave (o agua caliente con 1/2 caldo de ave)",
+      "20 g Mantequilla blanda",
+      "20 ml Aceite",
+      "100 ml Crema",
+      "20 g Harina sin polvos de hornear",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-06"
+  },
+  {
+    "id": "cl:crema-de-brocoli-y-espinaca",
+    "title": "Crema de brócoli y espinaca",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/crema-de-brocoli-y-espinaca",
+    "machine": null,
+    "original_ingredients": [
+      "1 Brócoli cortado en trozos",
+      "250 g Hojas de espinaca lavada y bien escurrida",
+      "1/2 Cebolla",
+      "2 cucharadas Aceite de oliva",
+      "1 cucharada Sal",
+      "1 cucharadita Pimienta",
+      "1 cucharadita Orégano",
+      "1 cucharadita Comino",
+      "1 L Agua caliente",
+      "200 ml Crema"
+    ],
+    "ingredients_display": [
+      "1 Brócoli cortado en trozos",
+      "250 g Hojas de espinaca lavada y bien escurrida",
+      "1/2 Cebolla",
+      "2 cucharadas Aceite de oliva",
+      "1 cucharada Sal",
+      "1 cucharadita Pimienta",
+      "1 cucharadita Orégano",
+      "1 cucharadita Comino",
+      "1 L Agua caliente",
+      "200 ml Crema"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-06"
+  },
+  {
+    "id": "cl:crema-de-cebolla-y-papa",
+    "title": "Crema de cebolla y papa",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/crema-de-cebolla-y-papa",
+    "machine": null,
+    "original_ingredients": [
+      "650 g Cebollas trozadas",
+      "60 ml Aceite de oliva",
+      "325 g Papas peladas y cortadas en cubos",
+      "1 L Caldo de ave (o agua caliente con un caldo de ave)",
+      "1 cucharada Sal",
+      "1 cucharadita Pimienta",
+      "Crema a gusto"
+    ],
+    "ingredients_display": [
+      "650 g Cebollas trozadas",
+      "60 ml Aceite de oliva",
+      "325 g Papas peladas y cortadas en cubos",
+      "1 L Caldo de ave (o agua caliente con un caldo de ave)",
+      "1 cucharada Sal",
+      "1 cucharadita Pimienta",
+      "Crema a gusto"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-06"
+  },
+  {
+    "id": "cl:crema-de-lentejas-rojas-y-zanahoria-al-curry",
+    "title": "Crema de lentejas rojas y zanahoria al curry",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/crema-de-lentejas-rojas-y-zanahoria-al-curry",
+    "machine": null,
+    "original_ingredients": [
+      "500 ml Agua",
+      "Semillas de zapallo para decorar",
+      "Pimienta",
+      "Sal",
+      "1 cucharada Curry",
+      "1 Diente de ajo",
+      "20 ml Aceite de oliva",
+      "300 ml Leche descremada",
+      "200 g Cebolla",
+      "300 g Zanahoria",
+      "200 g Lentejas rojas"
+    ],
+    "ingredients_display": [
+      "500 ml Agua",
+      "Semillas de zapallo para decorar",
+      "Pimienta",
+      "Sal",
+      "1 cucharada Curry",
+      "1 Diente de ajo",
+      "20 ml Aceite de oliva",
+      "300 ml Leche descremada",
+      "200 g Cebolla",
+      "300 g Zanahoria",
+      "200 g Lentejas rojas"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-06"
   }
 ]

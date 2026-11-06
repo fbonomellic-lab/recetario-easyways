@@ -384,6 +384,14 @@
     "first_seen": "2026-10-25"
   },
   {
+    "id": "ar:leche-dorada",
+    "title": "Leche dorada \n                         Jugos / Bebidas / Tragos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/leche-dorada",
+    "first_seen": "2026-11-06"
+  },
+  {
     "id": "ar:lemon-curd-o-crema-de-limon",
     "title": "Lemon curd o crema de limón \n                         Postres",
     "country": "AR",
@@ -616,6 +624,14 @@
     "first_seen": "2026-10-30"
   },
   {
+    "id": "ar:relleno-de-espinacas-a-la-crema-con-pollo-y-champinones",
+    "title": "Relleno de espinacas a la crema con pollo y champiñones \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/relleno-de-espinacas-a-la-crema-con-pollo-y-champinones",
+    "first_seen": "2026-11-06"
+  },
+  {
     "id": "ar:ricota",
     "title": "Ricota \n                         Entradas / Salsas / Aperitivos, Nuevas",
     "country": "AR",
@@ -710,6 +726,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/tarta-de-nuez-sin-gluten-azucar-ni-lacteos",
     "first_seen": "2026-10-24"
+  },
+  {
+    "id": "ar:tarte-tatin-de-membrillos-al-vino-tinto",
+    "title": "Tarte tatin de membrillos al vino tinto  \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/tarte-tatin-de-membrillos-al-vino-tinto",
+    "first_seen": "2026-11-06"
   },
   {
     "id": "ar:tarte-tatin-o-tarta-de-manzanas-acarameladas",
