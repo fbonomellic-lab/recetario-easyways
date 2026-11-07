@@ -2636,5 +2636,375 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-06"
+  },
+  {
+    "id": "cl:crema-de-tomates",
+    "title": "Crema de tomates",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/crema-de-tomates",
+    "machine": null,
+    "original_ingredients": [
+      "550 g Tomates maduros, pelados y cortados en cuatro",
+      "100 g Cebolla pelada y trozada",
+      "20 ml Aceite",
+      "200 ml Caldo de verduras (o agua caliente con 1 caldo de verduras)",
+      "12 g Azúcar",
+      "1 cucharadita Orégano",
+      "30 g Harina sin polvos de hornear",
+      "Sal"
+    ],
+    "ingredients_display": [
+      "550 g Tomates maduros, pelados y cortados en cuatro",
+      "100 g Cebolla pelada y trozada",
+      "20 ml Aceite",
+      "200 ml Caldo de verduras (o agua caliente con 1 caldo de verduras)",
+      "12 g Azúcar",
+      "1 cucharadita Orégano",
+      "30 g Harina sin polvos de hornear",
+      "Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-07"
+  },
+  {
+    "id": "cl:crema-de-zanahoria-y-manzana-al-curry",
+    "title": "Crema de zanahoria y manzana al curry",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/crema-de-zanahoria-y-manzana-al-curry",
+    "machine": null,
+    "original_ingredients": [
+      "50 g Cebolla pelada y trozada",
+      "40 ml Aceite de oliva",
+      "500 g Zanahoria pelada y trozada",
+      "250 g Manzana roja pelada y sin pepas",
+      "800 ml Caldo de verduras (o agua caliente con 1 caldo de verduras)",
+      "1 cucharadita Curry",
+      "15 g Azúcar",
+      "Sal",
+      "Pimienta",
+      "100 ml Crema"
+    ],
+    "ingredients_display": [
+      "50 g Cebolla pelada y trozada",
+      "40 ml Aceite de oliva",
+      "500 g Zanahoria pelada y trozada",
+      "250 g Manzana roja pelada y sin pepas",
+      "800 ml Caldo de verduras (o agua caliente con 1 caldo de verduras)",
+      "1 cucharadita Curry",
+      "15 g Azúcar",
+      "Sal",
+      "Pimienta",
+      "100 ml Crema"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-07"
+  },
+  {
+    "id": "cl:crema-de-zanahorias",
+    "title": "Crema de zanahorias",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/crema-de-zanahorias",
+    "machine": null,
+    "original_ingredients": [
+      "500 g Zanahorias peladas y trozadas",
+      "50 g Cebolla pelada y trozada",
+      "30 ml Aceite",
+      "650 ml Agua",
+      "Sal",
+      "Pimienta",
+      "Eneldo a gusto"
+    ],
+    "ingredients_display": [
+      "500 g Zanahorias peladas y trozadas",
+      "50 g Cebolla pelada y trozada",
+      "30 ml Aceite",
+      "650 ml Agua",
+      "Sal",
+      "Pimienta",
+      "Eneldo a gusto"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-07"
+  },
+  {
+    "id": "cl:crema-de-zapallo",
+    "title": "Crema de zapallo",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/crema-de-zapallo",
+    "machine": null,
+    "original_ingredients": [
+      "600 g Zapallo pelado y trozado",
+      "100 g Cebolla pelada y trozada",
+      "30 ml Aceite",
+      "400 ml Caldo de ave (o agua caliente con 1/2 caldo de ave)",
+      "1 cucharadita Curry",
+      "100 ml Crema",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "600 g Zapallo pelado y trozado",
+      "100 g Cebolla pelada y trozada",
+      "30 ml Aceite",
+      "400 ml Caldo de ave (o agua caliente con 1/2 caldo de ave)",
+      "1 cucharadita Curry",
+      "100 ml Crema",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-07"
+  },
+  {
+    "id": "cl:crema-de-zapallo-leche-de-coco-y-jengibre",
+    "title": "Crema de zapallo, leche de coco y jengibre",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/crema-de-zapallo-leche-de-coco-y-jengibre",
+    "machine": null,
+    "original_ingredients": [
+      "120 g Cebolla pelada y trozada",
+      "40 ml Aceite",
+      "500 g Zapallo pelado y trozado",
+      "500 ml Caldo de verduras (o agua caliente con 1/2 caldo de verduras)",
+      "1 cucharadita Jengibre rallado",
+      "Sal",
+      "Pimienta",
+      "200 ml Leche de coco",
+      "1/2 cucharadita Nuez moscada"
+    ],
+    "ingredients_display": [
+      "120 g Cebolla pelada y trozada",
+      "40 ml Aceite",
+      "500 g Zapallo pelado y trozado",
+      "500 ml Caldo de verduras (o agua caliente con 1/2 caldo de verduras)",
+      "1 cucharadita Jengibre rallado",
+      "Sal",
+      "Pimienta",
+      "200 ml Leche de coco",
+      "1/2 cucharadita Nuez moscada"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-07"
+  },
+  {
+    "id": "cl:crema-de-zapallo-y-zanahoria-1",
+    "title": "Crema de zapallo y zanahoria",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/crema-de-zapallo-y-zanahoria-1",
+    "machine": null,
+    "original_ingredients": [
+      "300 g Zapallos cortados en cubos",
+      "300 g Zanahorias peladas y trozadas",
+      "50 g Cebolla pelada y trozada",
+      "30 ml Aceite de oliva",
+      "650 ml Agua",
+      "1 cucharada Sal",
+      "1 cucharada Pimienta blanca",
+      "Semillas de zapallo para decorar"
+    ],
+    "ingredients_display": [
+      "300 g Zapallos cortados en cubos",
+      "300 g Zanahorias peladas y trozadas",
+      "50 g Cebolla pelada y trozada",
+      "30 ml Aceite de oliva",
+      "650 ml Agua",
+      "1 cucharada Sal",
+      "1 cucharada Pimienta blanca",
+      "Semillas de zapallo para decorar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-07"
+  },
+  {
+    "id": "cl:creme-brulee-de-chocolate",
+    "title": "Creme brulee de chocolate",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/creme-brulee-de-chocolate",
+    "machine": null,
+    "original_ingredients": [
+      "250 ml Leche entera",
+      "8 Yemas de huevo",
+      "500 ml Crema",
+      "Vaina de vainilla",
+      "65 ml Whisky",
+      "115 g Azúcar",
+      "200 g Chocolate 70% cacao sin azúcar trozado",
+      "75 g Azúcar"
+    ],
+    "ingredients_display": [
+      "250 ml Leche entera",
+      "8 Yemas de huevo",
+      "500 ml Crema",
+      "Vaina de vainilla",
+      "65 ml Whisky",
+      "115 g Azúcar",
+      "200 g Chocolate 70% cacao sin azúcar trozado",
+      "75 g Azúcar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-07"
+  },
+  {
+    "id": "cl:croquetas-de-espinaca",
+    "title": "Croquetas de espinaca",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/croquetas-de-espinaca",
+    "machine": null,
+    "original_ingredients": [
+      "110 g Hojas de espinaca sin tallo",
+      "100 g Cebolla trozada",
+      "50 g Zanahoria trozada",
+      "40 g Harina de avena",
+      "20 g Pimentón rojo trozado",
+      "10 ml Aceite de oliva",
+      "1 Diente de ajo",
+      "1 Clara de huevo",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "110 g Hojas de espinaca sin tallo",
+      "100 g Cebolla trozada",
+      "50 g Zanahoria trozada",
+      "40 g Harina de avena",
+      "20 g Pimentón rojo trozado",
+      "10 ml Aceite de oliva",
+      "1 Diente de ajo",
+      "1 Clara de huevo",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-07"
+  },
+  {
+    "id": "cl:croquetas-espanolas-de-jamon-1",
+    "title": "Croquetas españolas de jamón",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/croquetas-espanolas-de-jamon-1",
+    "machine": null,
+    "original_ingredients": [
+      "100 g Mantequilla",
+      "50 ml Aceite de oliva",
+      "200 g Jamón serrano picado",
+      "180 g Harina",
+      "800 ml Leche entera",
+      "2 Huevos batidos",
+      "1 taza Harina",
+      "2 taza Panko o pan rallado",
+      "1.5 L Aceite"
+    ],
+    "ingredients_display": [
+      "100 g Mantequilla",
+      "50 ml Aceite de oliva",
+      "200 g Jamón serrano picado",
+      "180 g Harina",
+      "800 ml Leche entera",
+      "2 Huevos batidos",
+      "1 taza Harina",
+      "2 taza Panko o pan rallado",
+      "1.5 L Aceite"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-07"
+  },
+  {
+    "id": "cl:croquetas-para-mascota-3",
+    "title": "Croquetas para mascota",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/croquetas-para-mascota-3",
+    "machine": null,
+    "original_ingredients": [
+      "250 g Panitas de pollo",
+      "1 Huevo",
+      "30 g Harina de avena",
+      "15 ml Aceite de oliva Natura®"
+    ],
+    "ingredients_display": [
+      "250 g Panitas de pollo",
+      "1 Huevo",
+      "30 g Harina de avena",
+      "15 ml Aceite de oliva Natura®"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-07"
+  },
+  {
+    "id": "cl:crumble-de-berries",
+    "title": "Crumble de berries",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/crumble-de-berries",
+    "machine": null,
+    "original_ingredients": [
+      "250 g Frambuesas frescas",
+      "250 g Arándanos",
+      "250 g Frutillas frescas",
+      "40 g Miel líquida",
+      "80 g Harina sin polvos de hornear",
+      "80 g Azúcar rubia",
+      "50 g Mantequilla"
+    ],
+    "ingredients_display": [
+      "250 g Frambuesas frescas",
+      "250 g Arándanos",
+      "250 g Frutillas frescas",
+      "40 g Miel líquida",
+      "80 g Harina sin polvos de hornear",
+      "80 g Azúcar rubia",
+      "50 g Mantequilla"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-07"
+  },
+  {
+    "id": "cl:crumble-de-duraznos",
+    "title": "Crumble de duraznos",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/crumble-de-duraznos",
+    "machine": null,
+    "original_ingredients": [
+      "7 Durazno pelados y cortados en gajos",
+      "Azúcar",
+      "Jugo de 2 limones",
+      "Especias a elección (canela, nuez moscada, clavo de olor, entre otros)",
+      "80 g Harina sin polvos de hornear",
+      "80 g Azúcar rubia",
+      "50 g Mantequilla"
+    ],
+    "ingredients_display": [
+      "7 Durazno pelados y cortados en gajos",
+      "Azúcar",
+      "Jugo de 2 limones",
+      "Especias a elección (canela, nuez moscada, clavo de olor, entre otros)",
+      "80 g Harina sin polvos de hornear",
+      "80 g Azúcar rubia",
+      "50 g Mantequilla"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-07"
   }
 ]

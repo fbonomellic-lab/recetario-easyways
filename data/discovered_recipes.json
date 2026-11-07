@@ -96,6 +96,14 @@
     "first_seen": "2026-11-05"
   },
   {
+    "id": "ar:charquican",
+    "title": "Charquicán \n                         Platos de Fondo, Comida chilena",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/charquican",
+    "first_seen": "2026-11-07"
+  },
+  {
     "id": "ar:charquican-vegano-de-cochayuyo",
     "title": "Charquicán vegano de cochayuyo \n                         Platos de Fondo, Nutrirecetas",
     "country": "AR",
@@ -142,6 +150,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/crema-de-zapallos-italianos",
     "first_seen": "2026-10-27"
+  },
+  {
+    "id": "ar:creme-brulee-de-earl-grey",
+    "title": "Creme brulee de earl grey \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/creme-brulee-de-earl-grey",
+    "first_seen": "2026-11-07"
   },
   {
     "id": "ar:crumble-de-arandanos",
@@ -448,6 +464,14 @@
     "first_seen": "2026-10-29"
   },
   {
+    "id": "ar:mousse-de-chocolate-vegano",
+    "title": "Mousse de Chocolate vegano \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/mousse-de-chocolate-vegano",
+    "first_seen": "2026-11-07"
+  },
+  {
     "id": "ar:muffins-de-arandanos",
     "title": "Muffins de arándanos \n                         Masas / Queques / Panes",
     "country": "AR",
@@ -536,6 +560,14 @@
     "first_seen": "2026-10-26"
   },
   {
+    "id": "ar:peras-al-vino-tinto-sin-azucar",
+    "title": "Peras al vino tinto sin azúcar \n                         Postres, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/peras-al-vino-tinto-sin-azucar",
+    "first_seen": "2026-11-07"
+  },
+  {
     "id": "ar:pimentones-rellenos-de-quinoa-tricolor",
     "title": "Pimentones rellenos de quinoa tricolor \n                         Para Celíacos, Platos de Fondo, Nutrirecetas",
     "country": "AR",
@@ -550,6 +582,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pisco-sour-con-limon-de-pica",
     "first_seen": "2026-11-05"
+  },
+  {
+    "id": "ar:porotos-con-mazamorra",
+    "title": "Porotos con mazamorra \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/porotos-con-mazamorra",
+    "first_seen": "2026-11-07"
   },
   {
     "id": "ar:porotos-granados",
