@@ -48,6 +48,14 @@
     "first_seen": "2026-10-26"
   },
   {
+    "id": "ar:barrras-de-cereal-raw",
+    "title": "Barras de cereal raw \n                         Nuevas, Nutrirecetas, Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/barrras-de-cereal-raw",
+    "first_seen": "2026-11-08"
+  },
+  {
     "id": "ar:bizcocho-de-pina",
     "title": "Bizcocho de piña \n                         Masas / Queques / Panes",
     "country": "AR",
@@ -208,6 +216,14 @@
     "first_seen": "2026-10-29"
   },
   {
+    "id": "ar:empanadas-veggie",
+    "title": "Empanadas veggie \n                         Masas / Queques / Panes, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/empanadas-veggie",
+    "first_seen": "2026-11-08"
+  },
+  {
     "id": "ar:empanaditas-de-masa-philo-con-espinaca-queso-de-cabra-y-almendras",
     "title": "Empanaditas de masa philo con espinaca queso de cabra y almendras",
     "country": "AR",
@@ -286,6 +302,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/galletas-tipo-oreo-sin-hornear",
     "first_seen": "2026-10-31"
+  },
+  {
+    "id": "ar:gazpacho-andaluz",
+    "title": "Gazpacho Andaluz \n                         Sopas / Cremas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/gazpacho-andaluz",
+    "first_seen": "2026-11-08"
   },
   {
     "id": "ar:gomitas-de-fruta",
@@ -504,6 +528,22 @@
     "first_seen": "2026-10-29"
   },
   {
+    "id": "ar:pan-arabe",
+    "title": "Pan árabe \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pan-arabe",
+    "first_seen": "2026-11-08"
+  },
+  {
+    "id": "ar:pan-de-masa-madre",
+    "title": "Pan de masa madre \n                         Nutrirecetas, Masas / Queques / Panes, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pan-de-masa-madre",
+    "first_seen": "2026-11-08"
+  },
+  {
     "id": "ar:pan-de-pascua",
     "title": "Pan de pascua \n                         Masas / Queques / Panes, Navidad",
     "country": "AR",
@@ -582,6 +622,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pisco-sour-con-limon-de-pica",
     "first_seen": "2026-11-05"
+  },
+  {
+    "id": "ar:pollo-parmesano-con-salsa-de-hierbas",
+    "title": "Pollo parmesano con salsa de hierbas \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pollo-parmesano-con-salsa-de-hierbas",
+    "first_seen": "2026-11-08"
   },
   {
     "id": "ar:porotos-con-mazamorra",
