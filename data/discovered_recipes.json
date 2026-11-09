@@ -360,6 +360,14 @@
     "first_seen": "2026-10-29"
   },
   {
+    "id": "ar:helado-de-frutilla",
+    "title": "Helado de frutilla \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/helado-de-frutilla",
+    "first_seen": "2026-11-09"
+  },
+  {
     "id": "ar:helado-de-frutillas-sin-lacteos",
     "title": "Helado de frutillas sin lácteos \n                         Postres",
     "country": "AR",
@@ -584,6 +592,14 @@
     "first_seen": "2026-10-25"
   },
   {
+    "id": "ar:papas-fritas-a-la-crema",
+    "title": "PAPAS FRITAS A LA CREMA",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/papas-fritas-a-la-crema",
+    "first_seen": "2026-11-09"
+  },
+  {
     "id": "ar:pate-de-zanahoria",
     "title": "Paté de zanahoria \n                         Nutrirecetas, Entradas / Salsas / Aperitivos, Nuevas",
     "country": "AR",
@@ -760,6 +776,14 @@
     "first_seen": "2026-10-24"
   },
   {
+    "id": "ar:salsa-de-tomates-natural",
+    "title": "Salsa de tomates natural \n                         Entradas / Salsas / Aperitivos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/salsa-de-tomates-natural",
+    "first_seen": "2026-11-09"
+  },
+  {
     "id": "ar:salsa-tzatziki",
     "title": "Salsa Tzatziki \n                         Entradas / Salsas / Aperitivos",
     "country": "AR",
@@ -798,6 +822,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/strogonoff-de-champinones",
     "first_seen": "2026-10-25"
+  },
+  {
+    "id": "ar:strogonoff-de-pollo",
+    "title": "Strogonoff de pollo \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/strogonoff-de-pollo",
+    "first_seen": "2026-11-09"
   },
   {
     "id": "ar:tarta-de-maracuya",

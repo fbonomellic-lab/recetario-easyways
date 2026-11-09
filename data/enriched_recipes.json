@@ -3426,5 +3426,325 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-08"
+  },
+  {
+    "id": "cl:espresso-martini",
+    "title": "Espresso martini",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/espresso-martini",
+    "machine": null,
+    "original_ingredients": [
+      "150 ml Kahlua",
+      "150 ml Vodka",
+      "150 ml Café espresso",
+      "300 g Hielo casero",
+      "Jarabe de goma (opcional)"
+    ],
+    "ingredients_display": [
+      "150 ml Kahlua",
+      "150 ml Vodka",
+      "150 ml Café espresso",
+      "300 g Hielo casero",
+      "Jarabe de goma (opcional)"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-09"
+  },
+  {
+    "id": "cl:estofado-de-cerdo-y-champinones-1",
+    "title": "Estofado de cerdo y champiñones",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/estofado-de-cerdo-y-champinones-1",
+    "machine": null,
+    "original_ingredients": [
+      "1 Cebolla trozada",
+      "3 Dientes de ajo pelados",
+      "30 ml Aceite de oliva",
+      "50 ml Cognac",
+      "400 g Champiñones cortados en cuatro",
+      "800 g Plateada de cerdo cortado en cubos",
+      "300 ml Caldo de pollo o verduras",
+      "150 g Arvejas descongelados",
+      "1.5 cucharadita Estragón deshidratado",
+      "50 ml Crema"
+    ],
+    "ingredients_display": [
+      "1 Cebolla trozada",
+      "3 Dientes de ajo pelados",
+      "30 ml Aceite de oliva",
+      "50 ml Cognac",
+      "400 g Champiñones cortados en cuatro",
+      "800 g Plateada de cerdo cortado en cubos",
+      "300 ml Caldo de pollo o verduras",
+      "150 g Arvejas descongelados",
+      "1.5 cucharadita Estragón deshidratado",
+      "50 ml Crema"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-09"
+  },
+  {
+    "id": "cl:falafel-de-garbanzos",
+    "title": "Falafel de garbanzos",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/falafel-de-garbanzos",
+    "machine": null,
+    "original_ingredients": [
+      "1.5 L Agua",
+      "Pimienta",
+      "Sal",
+      "2 Diente de ajo",
+      "10 ml Aceite de oliva",
+      "15 g Cilantro",
+      "100 g Harina de avena",
+      "150 g Pimentón rojo",
+      "200 g Cebolla",
+      "250 g Garbanzos remojados la noche anterior"
+    ],
+    "ingredients_display": [
+      "1.5 L Agua",
+      "Pimienta",
+      "Sal",
+      "2 Diente de ajo",
+      "10 ml Aceite de oliva",
+      "15 g Cilantro",
+      "100 g Harina de avena",
+      "150 g Pimentón rojo",
+      "200 g Cebolla",
+      "250 g Garbanzos remojados la noche anterior"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-09"
+  },
+  {
+    "id": "cl:figuras-de-mazapan-vegano-1",
+    "title": "Figuras de mazapán vegano",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/figuras-de-mazapan-vegano-1",
+    "machine": null,
+    "original_ingredients": [
+      "300 g Almendras",
+      "500 ml Agua",
+      "300 g Azúcar",
+      "75 g Glucosa líquida",
+      "120 ml Agua"
+    ],
+    "ingredients_display": [
+      "300 g Almendras",
+      "500 ml Agua",
+      "300 g Azúcar",
+      "75 g Glucosa líquida",
+      "120 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-09"
+  },
+  {
+    "id": "cl:filete-a-la-sal",
+    "title": "Filete a la sal",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/filete-a-la-sal",
+    "machine": null,
+    "original_ingredients": [
+      "Papel film",
+      "1 Kg Filete sin grasa",
+      "2 cucharadas Sal gruesa opcional aromatizada"
+    ],
+    "ingredients_display": [
+      "Papel film",
+      "1 Kg Filete sin grasa",
+      "2 cucharadas Sal gruesa opcional aromatizada"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-09"
+  },
+  {
+    "id": "cl:flan-de-chocolate",
+    "title": "Flan de chocolate",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/flan-de-chocolate",
+    "machine": null,
+    "original_ingredients": [
+      "50 g Chocolate amargo trozado",
+      "500 ml Leche",
+      "20 g Azúcar",
+      "20 g Maicena",
+      "1 Huevo"
+    ],
+    "ingredients_display": [
+      "50 g Chocolate amargo trozado",
+      "500 ml Leche",
+      "20 g Azúcar",
+      "20 g Maicena",
+      "1 Huevo"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-09"
+  },
+  {
+    "id": "cl:flan-de-leche-condensada",
+    "title": "Flan de leche condensada",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/flan-de-leche-condensada",
+    "machine": null,
+    "original_ingredients": [
+      "397 g Leche condensada",
+      "385 ml Leche",
+      "5 Huevos",
+      "200 g Azúcar"
+    ],
+    "ingredients_display": [
+      "397 g Leche condensada",
+      "385 ml Leche",
+      "5 Huevos",
+      "200 g Azúcar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-09"
+  },
+  {
+    "id": "cl:flan-de-manzana",
+    "title": "Flan de manzana",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/flan-de-manzana",
+    "machine": null,
+    "original_ingredients": [
+      "100 g Azúcar",
+      "Cáscara de ½ limón",
+      "1/2 cucharadita Canela",
+      "2 Manzana roja peladas y trozadas",
+      "20 g Mantequilla",
+      "3 Huevos",
+      "375 ml Leche evaporada"
+    ],
+    "ingredients_display": [
+      "100 g Azúcar",
+      "Cáscara de ½ limón",
+      "1/2 cucharadita Canela",
+      "2 Manzana roja peladas y trozadas",
+      "20 g Mantequilla",
+      "3 Huevos",
+      "375 ml Leche evaporada"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-09"
+  },
+  {
+    "id": "cl:frapuccino-radical-2",
+    "title": "Frapuccino Radical",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/frapuccino-radical-2",
+    "machine": null,
+    "original_ingredients": [
+      "200 ml Café preparado (preferentemente de grano)",
+      "360 ml Disaronno Velvet (o algún licor en crema)",
+      "90 ml Vodka",
+      "90 ml Goma (jarabe de coctelería)",
+      "1/2 cucharadita Esencia de vainilla",
+      "10 Cubos de hielo"
+    ],
+    "ingredients_display": [
+      "200 ml Café preparado (preferentemente de grano)",
+      "360 ml Disaronno Velvet (o algún licor en crema)",
+      "90 ml Vodka",
+      "90 ml Goma (jarabe de coctelería)",
+      "1/2 cucharadita Esencia de vainilla",
+      "10 Cubos de hielo"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-09"
+  },
+  {
+    "id": "cl:frosting-de-mantequilla",
+    "title": "Frosting de mantequilla",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/frosting-de-mantequilla",
+    "machine": null,
+    "original_ingredients": [
+      "125 g Mantequilla blanda",
+      "125 g Azúcar flor",
+      "1 cucharadita Esencia de vainilla",
+      "Colorantes para repostería"
+    ],
+    "ingredients_display": [
+      "125 g Mantequilla blanda",
+      "125 g Azúcar flor",
+      "1 cucharadita Esencia de vainilla",
+      "Colorantes para repostería"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-09"
+  },
+  {
+    "id": "cl:frozen-gin-con-frambuesas",
+    "title": "Frozen gin con frambuesas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/frozen-gin-con-frambuesas",
+    "machine": null,
+    "original_ingredients": [
+      "600 g Frambuesas congeladas",
+      "Ralladura de 1 limón",
+      "Jugo de 3 limones",
+      "100 ml Jarabe de goma",
+      "120 ml Gin",
+      "300 ml Agua"
+    ],
+    "ingredients_display": [
+      "600 g Frambuesas congeladas",
+      "Ralladura de 1 limón",
+      "Jugo de 3 limones",
+      "100 ml Jarabe de goma",
+      "120 ml Gin",
+      "300 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-09"
+  },
+  {
+    "id": "cl:frutilla-sour",
+    "title": "Frutilla sour",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/frutilla-sour",
+    "machine": null,
+    "original_ingredients": [
+      "600 ml Pisco",
+      "400 ml Goma líquida",
+      "400 g Frutillas frescas o congeladas",
+      "200 ml Limón",
+      "2 tazas Hielo"
+    ],
+    "ingredients_display": [
+      "600 ml Pisco",
+      "400 ml Goma líquida",
+      "400 g Frutillas frescas o congeladas",
+      "200 ml Limón",
+      "2 tazas Hielo"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-09"
   }
 ]
