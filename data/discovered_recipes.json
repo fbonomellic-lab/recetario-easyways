@@ -8,6 +8,14 @@
     "first_seen": "2026-11-05"
   },
   {
+    "id": "ar:alfajores-saludables",
+    "title": "Alfajores saludables \n                         Masas / Queques / Panes, Mermeladas / Dulces, Nutrirecetas, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/alfajores-saludables",
+    "first_seen": "2026-11-10"
+  },
+  {
     "id": "ar:amaretto-sour",
     "title": "Amaretto sour \n                         Jugos / Bebidas / Tragos",
     "country": "AR",
@@ -46,6 +54,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/babka-de-pesto",
     "first_seen": "2026-10-26"
+  },
+  {
+    "id": "ar:barritas-de-avena-chips-de-chocolate-y-frutos-secos",
+    "title": "Barritas de avena, chips de chocolate y frutos secos \n                         Mermeladas / Dulces",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/barritas-de-avena-chips-de-chocolate-y-frutos-secos",
+    "first_seen": "2026-11-10"
   },
   {
     "id": "ar:barrras-de-cereal-raw",
@@ -182,6 +198,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/crumble-de-durazno-sin-azucar",
     "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ar:crumble-de-duraznos-y-moras",
+    "title": "Crumble de duraznos y moras \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/crumble-de-duraznos-y-moras",
+    "first_seen": "2026-11-10"
   },
   {
     "id": "ar:cupcakes-del-terror",
@@ -568,6 +592,14 @@
     "first_seen": "2026-10-29"
   },
   {
+    "id": "ar:pan-dulce",
+    "title": "Pan dulce \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pan-dulce",
+    "first_seen": "2026-11-10"
+  },
+  {
     "id": "ar:pan-lavash",
     "title": "Pan Lavash \n                         Masas / Queques / Panes",
     "country": "AR",
@@ -638,6 +670,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pisco-sour-con-limon-de-pica",
     "first_seen": "2026-11-05"
+  },
+  {
+    "id": "ar:poke-liviano",
+    "title": "Poke liviano \n                         Platos de Fondo, Nutrirecetas, Vegetarianos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/poke-liviano",
+    "first_seen": "2026-11-10"
   },
   {
     "id": "ar:pollo-parmesano-con-salsa-de-hierbas",
@@ -726,6 +766,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/quequitos-de-zanahoria",
     "first_seen": "2026-10-30"
+  },
+  {
+    "id": "ar:quiche-de-tomates-cherry-queso-cabra-y-albahaca",
+    "title": "Quiche de Tomates Cherry. Queso de Cabra y Albahaca \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/quiche-de-tomates-cherry-queso-cabra-y-albahaca",
+    "first_seen": "2026-11-10"
   },
   {
     "id": "ar:relleno-de-espinacas-a-la-crema-con-pollo-y-champinones",
