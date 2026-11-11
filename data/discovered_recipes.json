@@ -1,5 +1,13 @@
 [
   {
+    "id": "ar:aji-de-gallina-peruano",
+    "title": "Ají de gallina peruano \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/aji-de-gallina-peruano",
+    "first_seen": "2026-11-11"
+  },
+  {
     "id": "ar:alfajores-de-avena",
     "title": "Alfajores de avena \n                         Nuevas, Nutrirecetas, Masas / Queques / Panes, Comida chilena",
     "country": "AR",
@@ -142,6 +150,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/crema-de-alcachofas",
     "first_seen": "2026-11-04"
+  },
+  {
+    "id": "ar:crema-de-alcachofas-y-puerros",
+    "title": "Crema de alcachofas y puerros \n                         Sopas / Cremas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/crema-de-alcachofas-y-puerros",
+    "first_seen": "2026-11-11"
   },
   {
     "id": "ar:crema-de-chantilly",
@@ -680,6 +696,14 @@
     "first_seen": "2026-11-10"
   },
   {
+    "id": "ar:pollo-mediterraneo",
+    "title": "Pollo mediterráneo \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pollo-mediterraneo",
+    "first_seen": "2026-11-11"
+  },
+  {
     "id": "ar:pollo-parmesano-con-salsa-de-hierbas",
     "title": "Pollo parmesano con salsa de hierbas \n                         Platos de Fondo",
     "country": "AR",
@@ -744,6 +768,14 @@
     "first_seen": "2026-11-04"
   },
   {
+    "id": "ar:queque-de-coco",
+    "title": "Queque de coco \n                         Masas / Queques / Panes, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/queque-de-coco",
+    "first_seen": "2026-11-11"
+  },
+  {
     "id": "ar:queque-de-frambuesas",
     "title": "Queque de frambuesas \n                         Masas / Queques / Panes",
     "country": "AR",
@@ -798,6 +830,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/risotto-de-camarones-yo-mariscos",
     "first_seen": "2026-10-30"
+  },
+  {
+    "id": "ar:risotto-de-quinoa-con-champinones-y-callampas",
+    "title": "Risotto de quinoa con champiñones y callampas \n                         Platos de Fondo, Platos de Fondo, Vegetarianos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/risotto-de-quinoa-con-champinones-y-callampas",
+    "first_seen": "2026-11-11"
   },
   {
     "id": "ar:risotto-de-tomates-y-champinones",

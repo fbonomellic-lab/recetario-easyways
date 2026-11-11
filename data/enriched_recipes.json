@@ -4128,5 +4128,361 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-10"
+  },
+  {
+    "id": "cl:gazpacho-de-palta-1",
+    "title": "Gazpacho de palta",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/gazpacho-de-palta-1",
+    "machine": null,
+    "original_ingredients": [
+      "3 Paltas maduras peladas",
+      "1 Tomate maduro cortado en cuatro",
+      "1 Cebollín",
+      "35 g Pimentón verde",
+      "Hojas de cilantro",
+      "200 ml Agua fría",
+      "100 ml Aceite de oliva",
+      "Sal a gusto",
+      "1 cucharadita Azúcar",
+      "Jugo de limón"
+    ],
+    "ingredients_display": [
+      "3 Paltas maduras peladas",
+      "1 Tomate maduro cortado en cuatro",
+      "1 Cebollín",
+      "35 g Pimentón verde",
+      "Hojas de cilantro",
+      "200 ml Agua fría",
+      "100 ml Aceite de oliva",
+      "Sal a gusto",
+      "1 cucharadita Azúcar",
+      "Jugo de limón"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-11"
+  },
+  {
+    "id": "cl:ginger-ale-casera-1",
+    "title": "Ginger ale casera",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/ginger-ale-casera-1",
+    "machine": null,
+    "original_ingredients": [
+      "200 g Jengibre pelado y trozado",
+      "1 L Agua",
+      "400 g Azúcar",
+      "Agua gasificada"
+    ],
+    "ingredients_display": [
+      "200 g Jengibre pelado y trozado",
+      "1 L Agua",
+      "400 g Azúcar",
+      "Agua gasificada"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-11"
+  },
+  {
+    "id": "cl:golosinas-para-halloween-1",
+    "title": "Golosinas para Halloween",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/golosinas-para-halloween-1",
+    "machine": null,
+    "original_ingredients": [
+      "250 g Azúcar flor",
+      "250 g Leche en polvo",
+      "180 ml Leche condensada",
+      "Colorantes para repostería"
+    ],
+    "ingredients_display": [
+      "250 g Azúcar flor",
+      "250 g Leche en polvo",
+      "180 ml Leche condensada",
+      "Colorantes para repostería"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-11"
+  },
+  {
+    "id": "cl:goulash-de-cerdo-1",
+    "title": "Goulash de cerdo",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/goulash-de-cerdo-1",
+    "machine": null,
+    "original_ingredients": [
+      "150 g Cebolla pelada y trozada",
+      "30 ml Aceite de oliva",
+      "750 g Pulpa de cerdo cortado en cubos",
+      "100 ml Agua caliente",
+      "50 ml Vino tinto",
+      "20 g Kétchup",
+      "10 g Maicena disuelta en agua",
+      "50 ml Crema",
+      "150 g Champiñones cortados en dos",
+      "1/2 Caldo de carne o verduras",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "150 g Cebolla pelada y trozada",
+      "30 ml Aceite de oliva",
+      "750 g Pulpa de cerdo cortado en cubos",
+      "100 ml Agua caliente",
+      "50 ml Vino tinto",
+      "20 g Kétchup",
+      "10 g Maicena disuelta en agua",
+      "50 ml Crema",
+      "150 g Champiñones cortados en dos",
+      "1/2 Caldo de carne o verduras",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-11"
+  },
+  {
+    "id": "cl:granola-casera-1",
+    "title": "Granola casera",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/granola-casera-1",
+    "machine": null,
+    "original_ingredients": [
+      "100 ml Jugo de naranja natural",
+      "50 g Azúcar rubia",
+      "50 ml Aceite de oliva",
+      "pizca Sal",
+      "1/2 cucharadita Canela en polvo",
+      "1 cucharadita Esencia de vainilla",
+      "125 g Avena tradicional (no instantánea)",
+      "10 g Arroz inflado",
+      "15 g Hojuelas de maíz",
+      "50 g Nueces partidas",
+      "Cranberries",
+      "Arándanos",
+      "Pasas"
+    ],
+    "ingredients_display": [
+      "100 ml Jugo de naranja natural",
+      "50 g Azúcar rubia",
+      "50 ml Aceite de oliva",
+      "pizca Sal",
+      "1/2 cucharadita Canela en polvo",
+      "1 cucharadita Esencia de vainilla",
+      "125 g Avena tradicional (no instantánea)",
+      "10 g Arroz inflado",
+      "15 g Hojuelas de maíz",
+      "50 g Nueces partidas",
+      "Cranberries",
+      "Arándanos",
+      "Pasas"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-11"
+  },
+  {
+    "id": "cl:guacamole",
+    "title": "Guacamole",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/guacamole",
+    "machine": null,
+    "original_ingredients": [
+      "50 g Cebolla pelada y trozada",
+      "2 Palta madura",
+      "1 a 2 Tomates pelados y cortados en cuatro",
+      "1/4 taza Cilantro",
+      "Jugo de 1/2 limón",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "50 g Cebolla pelada y trozada",
+      "2 Palta madura",
+      "1 a 2 Tomates pelados y cortados en cuatro",
+      "1/4 taza Cilantro",
+      "Jugo de 1/2 limón",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-11"
+  },
+  {
+    "id": "cl:guiso-de-arroz-con-atun",
+    "title": "Guiso de arroz con atún",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/guiso-de-arroz-con-atun",
+    "machine": null,
+    "original_ingredients": [
+      "100 g Cebolla pelada y trozada",
+      "80 g Pimentón rojo",
+      "50 ml Aceite de oliva",
+      "350 g Arroz",
+      "800 ml Caldo de pescado (o agua caliente con un caldo de pescado)",
+      "50 ml Vino blanco",
+      "240 g Atún desmenuzado",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "100 g Cebolla pelada y trozada",
+      "80 g Pimentón rojo",
+      "50 ml Aceite de oliva",
+      "350 g Arroz",
+      "800 ml Caldo de pescado (o agua caliente con un caldo de pescado)",
+      "50 ml Vino blanco",
+      "240 g Atún desmenuzado",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-11"
+  },
+  {
+    "id": "cl:gyozas-2-0",
+    "title": "Gyozas 2.0",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/gyozas-2-0",
+    "machine": null,
+    "original_ingredients": [
+      "400 g Harina",
+      "180 g Agua",
+      "20 g Sal",
+      "50 g Maicena",
+      "500 g Camarones pelados",
+      "275 g Repollo sin tallo",
+      "3 Cebollines picado grueso",
+      "2 Dientes de ajo",
+      "5 g Jengibre pelado",
+      "3 cucharadas Aceite de sésamo",
+      "3 cucharadas Salsa de soya",
+      "1/2 cucharadita Sal"
+    ],
+    "ingredients_display": [
+      "400 g Harina",
+      "180 g Agua",
+      "20 g Sal",
+      "50 g Maicena",
+      "500 g Camarones pelados",
+      "275 g Repollo sin tallo",
+      "3 Cebollines picado grueso",
+      "2 Dientes de ajo",
+      "5 g Jengibre pelado",
+      "3 cucharadas Aceite de sésamo",
+      "3 cucharadas Salsa de soya",
+      "1/2 cucharadita Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-11"
+  },
+  {
+    "id": "cl:hamburguesas-de-carne",
+    "title": "Hamburguesas de carne",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/hamburguesas-de-carne",
+    "machine": null,
+    "original_ingredients": [
+      "1/2 Cebolla",
+      "2 Dientes de ajo",
+      "800 g Carne molida",
+      "50 g Pan rallado",
+      "1 Huevo",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "1/2 Cebolla",
+      "2 Dientes de ajo",
+      "800 g Carne molida",
+      "50 g Pan rallado",
+      "1 Huevo",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-11"
+  },
+  {
+    "id": "cl:helado-de-chirimoya",
+    "title": "Helado de chirimoya",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/helado-de-chirimoya",
+    "machine": null,
+    "original_ingredients": [
+      "333 g Pulpa de chirimoya",
+      "50 g Azúcar",
+      "1 Yogur natural"
+    ],
+    "ingredients_display": [
+      "333 g Pulpa de chirimoya",
+      "50 g Azúcar",
+      "1 Yogur natural"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-11"
+  },
+  {
+    "id": "cl:helado-de-chocolate-blanco-con-brownie-1",
+    "title": "Helado de chocolate blanco con brownie",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/helado-de-chocolate-blanco-con-brownie-1",
+    "machine": null,
+    "original_ingredients": [
+      "500 ml Crema previamente refrigerada batida",
+      "150 g Chocolate blanco picado",
+      "1 tarro Leche condensada",
+      "300 g Brownie picado en cuadritos"
+    ],
+    "ingredients_display": [
+      "500 ml Crema previamente refrigerada batida",
+      "150 g Chocolate blanco picado",
+      "1 tarro Leche condensada",
+      "300 g Brownie picado en cuadritos"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-11"
+  },
+  {
+    "id": "cl:helado-de-frambuesas",
+    "title": "Helado de frambuesas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/helado-de-frambuesas",
+    "machine": null,
+    "original_ingredients": [
+      "375 ml Leche evaporada muy fría",
+      "300 g Frambuesas frescas",
+      "50 g Azúcar flor"
+    ],
+    "ingredients_display": [
+      "375 ml Leche evaporada muy fría",
+      "300 g Frambuesas frescas",
+      "50 g Azúcar flor"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-11"
   }
 ]
