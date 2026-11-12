@@ -40,6 +40,14 @@
     "first_seen": "2026-10-24"
   },
   {
+    "id": "ar:arroz-de-coliflor",
+    "title": "Arroz de coliflor \n                         Nutrirecetas, Platos de Fondo, Nuevas, Nuevas, Nutrirecetas, Platos de Fondo, Vegetarianos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/arroz-de-coliflor",
+    "first_seen": "2026-11-12"
+  },
+  {
     "id": "ar:arroz-de-tomate",
     "title": "Arroz de tomate \n                         Platos de Fondo, Platos de Fondo, Vegetarianos",
     "country": "AR",
@@ -336,6 +344,14 @@
     "first_seen": "2026-10-28"
   },
   {
+    "id": "ar:galletas-integrales-de-jengibre",
+    "title": "Galletas integrales de jengibre \n                         Nutrirecetas, Masas / Queques / Panes, Navidad",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/galletas-integrales-de-jengibre",
+    "first_seen": "2026-11-12"
+  },
+  {
     "id": "ar:galletas-tipo-oreo-sin-hornear",
     "title": "Galletas tipo oreo sin hornear \n                         Nutrirecetas, Masas / Queques / Panes, Nuevas",
     "country": "AR",
@@ -480,6 +496,14 @@
     "first_seen": "2026-11-06"
   },
   {
+    "id": "ar:leche-nevada",
+    "title": "Leche Nevada \n                         Nuevas, Nutrirecetas, Postres, Comida chilena",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/leche-nevada",
+    "first_seen": "2026-11-12"
+  },
+  {
     "id": "ar:lemon-curd-o-crema-de-limon",
     "title": "Lemon curd o crema de limón \n                         Postres",
     "country": "AR",
@@ -504,6 +528,14 @@
     "first_seen": "2026-11-02"
   },
   {
+    "id": "ar:manjarate",
+    "title": "Manjarate \n                         Postres, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/manjarate",
+    "first_seen": "2026-11-12"
+  },
+  {
     "id": "ar:mantequilla",
     "title": "Mantequilla \n                         Entradas / Salsas / Aperitivos, Sólo un Paso",
     "country": "AR",
@@ -526,6 +558,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/masa-dulce-para-recetas-saludables",
     "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:medias-lunas-de-almendras",
+    "title": "Medias lunas de almendras \n                         Masas / Queques / Panes, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/medias-lunas-de-almendras",
+    "first_seen": "2026-11-12"
   },
   {
     "id": "ar:mojito",
@@ -646,6 +686,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/papas-fritas-a-la-crema",
     "first_seen": "2026-11-09"
+  },
+  {
+    "id": "ar:pate-de-lentejas-al-curry",
+    "title": "Paté de lentejas al curry \n                         Entradas / Salsas / Aperitivos, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pate-de-lentejas-al-curry",
+    "first_seen": "2026-11-12"
   },
   {
     "id": "ar:pate-de-zanahoria",

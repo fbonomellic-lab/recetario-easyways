@@ -4484,5 +4484,357 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-11"
+  },
+  {
+    "id": "cl:helado-de-manjar",
+    "title": "Helado de manjar",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/helado-de-manjar",
+    "machine": null,
+    "original_ingredients": [
+      "500 g Manjar",
+      "400 g Leche evaporada muy fría"
+    ],
+    "ingredients_display": [
+      "500 g Manjar",
+      "400 g Leche evaporada muy fría"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-12"
+  },
+  {
+    "id": "cl:helado-de-te-verde",
+    "title": "Helado de té verde",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/helado-de-te-verde",
+    "machine": null,
+    "original_ingredients": [
+      "10 g Té verde en hojas (dentro de un infusor)",
+      "550 ml Leche descremada",
+      "480 g Yogur natural endulzado",
+      "70 g Tagatosa",
+      "6 Yema de huevo",
+      "Ralladura de 1 naranja",
+      "1 g Jengibre"
+    ],
+    "ingredients_display": [
+      "10 g Té verde en hojas (dentro de un infusor)",
+      "550 ml Leche descremada",
+      "480 g Yogur natural endulzado",
+      "70 g Tagatosa",
+      "6 Yema de huevo",
+      "Ralladura de 1 naranja",
+      "1 g Jengibre"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-12"
+  },
+  {
+    "id": "cl:helado-saludable-banado-en-chocolate-1",
+    "title": "Helado saludable bañado en chocolate",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/helado-saludable-banado-en-chocolate-1",
+    "machine": null,
+    "original_ingredients": [
+      "300 g Plátano congelado",
+      "200 g Frutillas congeladas",
+      "200 ml Leche de coco sin azúcar",
+      "200 g Chocolate alto en cacao",
+      "5 ml Esencia de vainilla"
+    ],
+    "ingredients_display": [
+      "300 g Plátano congelado",
+      "200 g Frutillas congeladas",
+      "200 ml Leche de coco sin azúcar",
+      "200 g Chocolate alto en cacao",
+      "5 ml Esencia de vainilla"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-12"
+  },
+  {
+    "id": "cl:huevitos-macizos-de-chocolate",
+    "title": "Huevitos macizos de chocolate",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/huevitos-macizos-de-chocolate",
+    "machine": null,
+    "original_ingredients": [
+      "150 g Chocolate alto en cacao trozado",
+      "100 g Dátiles sin carozo remojados en agua caliente durante 10 minutos",
+      "100 g Avena",
+      "80 g Maní sin sal",
+      "50 g Plátano",
+      "15 g Cacao amargo",
+      "10 g Aceite de coco"
+    ],
+    "ingredients_display": [
+      "150 g Chocolate alto en cacao trozado",
+      "100 g Dátiles sin carozo remojados en agua caliente durante 10 minutos",
+      "100 g Avena",
+      "80 g Maní sin sal",
+      "50 g Plátano",
+      "15 g Cacao amargo",
+      "10 g Aceite de coco"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-12"
+  },
+  {
+    "id": "cl:huevos-al-horno-con-salsa-de-champinones-1",
+    "title": "Huevos al horno con salsa de champiñones",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/huevos-al-horno-con-salsa-de-champinones-1",
+    "machine": null,
+    "original_ingredients": [
+      "400 g Champiñones cortado en cuatro",
+      "50 ml Aceite de oliva",
+      "100 ml Salsa de tomate",
+      "50 ml Crema",
+      "20 g Harina sin polvos de hornear",
+      "1 cucharada Albahaca fresca",
+      "1 cucharada Pasta de ají",
+      "Sal",
+      "Pimienta",
+      "4 Huevos",
+      "Queso rallado para espolvorear"
+    ],
+    "ingredients_display": [
+      "400 g Champiñones cortado en cuatro",
+      "50 ml Aceite de oliva",
+      "100 ml Salsa de tomate",
+      "50 ml Crema",
+      "20 g Harina sin polvos de hornear",
+      "1 cucharada Albahaca fresca",
+      "1 cucharada Pasta de ají",
+      "Sal",
+      "Pimienta",
+      "4 Huevos",
+      "Queso rallado para espolvorear"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-12"
+  },
+  {
+    "id": "cl:huevos-con-curry-gratinados-1",
+    "title": "Huevos con curry gratinados",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/huevos-con-curry-gratinados-1",
+    "machine": null,
+    "original_ingredients": [
+      "150 g Cebolla",
+      "40 ml Aceite de oliva",
+      "70 g Harina sin polvos de hornear",
+      "750 ml Leche",
+      "20 g Mantequilla",
+      "1 cucharadita Curry",
+      "100 ml Crema",
+      "Sal",
+      "Pimienta",
+      "5 Huevos",
+      "Queso mantecoso rallado"
+    ],
+    "ingredients_display": [
+      "150 g Cebolla",
+      "40 ml Aceite de oliva",
+      "70 g Harina sin polvos de hornear",
+      "750 ml Leche",
+      "20 g Mantequilla",
+      "1 cucharadita Curry",
+      "100 ml Crema",
+      "Sal",
+      "Pimienta",
+      "5 Huevos",
+      "Queso mantecoso rallado"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-12"
+  },
+  {
+    "id": "cl:humitas-saludables",
+    "title": "Humitas saludables",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/humitas-saludables",
+    "machine": null,
+    "original_ingredients": [
+      "1 Kg Choclos enteros",
+      "350 g Cebolla pelada y cortada en cuatro",
+      "500 ml Leche descremada",
+      "15 g Albahaca",
+      "20 ml Aceite de oliva",
+      "1 cucharadita Ají de color o paprika",
+      "Sal",
+      "Pimienta",
+      "800 ml Agua",
+      "Pitilla"
+    ],
+    "ingredients_display": [
+      "1 Kg Choclos enteros",
+      "350 g Cebolla pelada y cortada en cuatro",
+      "500 ml Leche descremada",
+      "15 g Albahaca",
+      "20 ml Aceite de oliva",
+      "1 cucharadita Ají de color o paprika",
+      "Sal",
+      "Pimienta",
+      "800 ml Agua",
+      "Pitilla"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-12"
+  },
+  {
+    "id": "cl:hummus-de-palta-1",
+    "title": "Hummus de palta",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/hummus-de-palta-1",
+    "machine": null,
+    "original_ingredients": [
+      "1 cucharadita Comino molido",
+      "2 cucharadas Orégano deshidratado",
+      "1/2 cucharadita Sal",
+      "2 a 3 Paltas peladas y trozadas",
+      "760 g Garbanzos listos para servir",
+      "1 cucharada Aceite de oliva",
+      "2 cucharadas Tahina (pasta de sésamo)",
+      "1 a 2 Dientes de ajo pelados",
+      "1/4 taza Jugo de 1 limón"
+    ],
+    "ingredients_display": [
+      "1 cucharadita Comino molido",
+      "2 cucharadas Orégano deshidratado",
+      "1/2 cucharadita Sal",
+      "2 a 3 Paltas peladas y trozadas",
+      "760 g Garbanzos listos para servir",
+      "1 cucharada Aceite de oliva",
+      "2 cucharadas Tahina (pasta de sésamo)",
+      "1 a 2 Dientes de ajo pelados",
+      "1/4 taza Jugo de 1 limón"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-12"
+  },
+  {
+    "id": "cl:hummus-de-palta-3",
+    "title": "Hummus de palta",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/hummus-de-palta-3",
+    "machine": null,
+    "original_ingredients": [
+      "380 g Garbanzos listos para servir cocidos",
+      "1 Palta descorazonada y pelada",
+      "80 ml Tahina (pasta de sésamo)",
+      "50 ml Jugo de limón",
+      "35 ml Aceite de oliva",
+      "1 cucharadita Sal",
+      "1 pizca Pimienta de cayena",
+      "1/2 Ajo (opcional)",
+      "Merkén para decorar"
+    ],
+    "ingredients_display": [
+      "380 g Garbanzos listos para servir cocidos",
+      "1 Palta descorazonada y pelada",
+      "80 ml Tahina (pasta de sésamo)",
+      "50 ml Jugo de limón",
+      "35 ml Aceite de oliva",
+      "1 cucharadita Sal",
+      "1 pizca Pimienta de cayena",
+      "1/2 Ajo (opcional)",
+      "Merkén para decorar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-12"
+  },
+  {
+    "id": "cl:jarabe-de-goma",
+    "title": "Jarabe de goma",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/jarabe-de-goma",
+    "machine": null,
+    "original_ingredients": [
+      "400 g Azúcar",
+      "500 ml Agua"
+    ],
+    "ingredients_display": [
+      "400 g Azúcar",
+      "500 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-12"
+  },
+  {
+    "id": "cl:jugo-naranja-platano-zanahoria",
+    "title": "Jugo naranja - plátano - zanahoria",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/jugo-naranja-platano-zanahoria",
+    "machine": null,
+    "original_ingredients": [
+      "100 g Azúcar",
+      "300 ml Agua",
+      "3 Naranja peladas, sin parte blanca y sin pepas",
+      "1 Plátano",
+      "1 Zanahoria pelada y trozada"
+    ],
+    "ingredients_display": [
+      "100 g Azúcar",
+      "300 ml Agua",
+      "3 Naranja peladas, sin parte blanca y sin pepas",
+      "1 Plátano",
+      "1 Zanahoria pelada y trozada"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-12"
+  },
+  {
+    "id": "cl:jugo-verde-tropical",
+    "title": "Jugo verde tropical",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/jugo-verde-tropical",
+    "machine": null,
+    "original_ingredients": [
+      "200 g de piña congelada",
+      "1 kiwi pelado",
+      "1 puñado de espinaca (20 g aprox.)",
+      "1 rama de apio",
+      "Jugo de 1 limón",
+      "½ pepino",
+      "200 ml de agua",
+      "Hielo al gustop"
+    ],
+    "ingredients_display": [
+      "200 g de piña congelada",
+      "1 kiwi pelado",
+      "1 puñado de espinaca (20 g aprox.)",
+      "1 rama de apio",
+      "Jugo de 1 limón",
+      "½ pepino",
+      "200 ml de agua",
+      "Hielo al gustop"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-12"
   }
 ]
