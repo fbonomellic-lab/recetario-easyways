@@ -4836,5 +4836,343 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-12"
+  },
+  {
+    "id": "cl:kuchen-de-nuez",
+    "title": "Kuchen de nuez",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/kuchen-de-nuez",
+    "machine": null,
+    "original_ingredients": [
+      "200 g Harina sin polvos de hornear",
+      "100 g Mantequilla blanda",
+      "1 Huevo",
+      "150 Azúcar",
+      "3 g Polvos de hornear",
+      "300 g Nueces",
+      "397 g Leche condensada",
+      "1 Yema de huevo",
+      "100 g Mantequilla blanda"
+    ],
+    "ingredients_display": [
+      "200 g Harina sin polvos de hornear",
+      "100 g Mantequilla blanda",
+      "1 Huevo",
+      "150 Azúcar",
+      "3 g Polvos de hornear",
+      "300 g Nueces",
+      "397 g Leche condensada",
+      "1 Yema de huevo",
+      "100 g Mantequilla blanda"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-13"
+  },
+  {
+    "id": "cl:leche-asada",
+    "title": "Leche asada",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/leche-asada",
+    "machine": null,
+    "original_ingredients": [
+      "500 ml Leche",
+      "4 Huevos",
+      "130 g Azúcar",
+      "800 ml Agua"
+    ],
+    "ingredients_display": [
+      "500 ml Leche",
+      "4 Huevos",
+      "130 g Azúcar",
+      "800 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-13"
+  },
+  {
+    "id": "cl:leche-condensada-sin-azucar-1",
+    "title": "Leche condensada sin azúcar",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/leche-condensada-sin-azucar-1",
+    "machine": null,
+    "original_ingredients": [
+      "200 ml Agua",
+      "160 g Leche descremada en polvo",
+      "100 g Tagatosa",
+      "15 g Margarina",
+      "15 ml Esencia de vainilla"
+    ],
+    "ingredients_display": [
+      "200 ml Agua",
+      "160 g Leche descremada en polvo",
+      "100 g Tagatosa",
+      "15 g Margarina",
+      "15 ml Esencia de vainilla"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-13"
+  },
+  {
+    "id": "cl:leche-de-coco",
+    "title": "Leche de coco",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/leche-de-coco",
+    "machine": null,
+    "original_ingredients": [
+      "1 L Agua fría",
+      "200 g Coco rallado",
+      "Paño de algodón para colar"
+    ],
+    "ingredients_display": [
+      "1 L Agua fría",
+      "200 g Coco rallado",
+      "Paño de algodón para colar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-13"
+  },
+  {
+    "id": "cl:lemon-curd-o-crema-de-limon",
+    "title": "Lemon curd o crema de limón",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/lemon-curd-o-crema-de-limon",
+    "machine": null,
+    "original_ingredients": [
+      "150 g Azúcar",
+      "Cáscara de 1 limón",
+      "60 g Mantequilla",
+      "80 ml Jugo de limón",
+      "3 Huevos"
+    ],
+    "ingredients_display": [
+      "150 g Azúcar",
+      "Cáscara de 1 limón",
+      "60 g Mantequilla",
+      "80 ml Jugo de limón",
+      "3 Huevos"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-13"
+  },
+  {
+    "id": "cl:lentejas",
+    "title": "Lentejas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/lentejas",
+    "machine": null,
+    "original_ingredients": [
+      "500 g Lentejas remojadas previamente",
+      "600 ml Agua",
+      "200 g Zanahorias peladas y trozadas",
+      "1 cucharadita Pimentón en polvo",
+      "50 ml Aceite",
+      "100 g Cebolla pelada y trozada",
+      "100 g Tocino (opcional)",
+      "1/2 Pimentón verde",
+      "Sal"
+    ],
+    "ingredients_display": [
+      "500 g Lentejas remojadas previamente",
+      "600 ml Agua",
+      "200 g Zanahorias peladas y trozadas",
+      "1 cucharadita Pimentón en polvo",
+      "50 ml Aceite",
+      "100 g Cebolla pelada y trozada",
+      "100 g Tocino (opcional)",
+      "1/2 Pimentón verde",
+      "Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-13"
+  },
+  {
+    "id": "cl:leudar-masa-1",
+    "title": "Leudar masa",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/leudar-masa-1",
+    "machine": null,
+    "original_ingredients": [
+      "1 Masa que necesite ser leudada",
+      "Papel mantequilla",
+      "Aceite"
+    ],
+    "ingredients_display": [
+      "1 Masa que necesite ser leudada",
+      "Papel mantequilla",
+      "Aceite"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-13"
+  },
+  {
+    "id": "cl:limonada",
+    "title": "Limonada",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/limonada",
+    "machine": null,
+    "original_ingredients": [
+      "300 ml Agua",
+      "70 g Azúcar rubia",
+      "4 Limón lavados y/o pelados cortados en cuatro"
+    ],
+    "ingredients_display": [
+      "300 ml Agua",
+      "70 g Azúcar rubia",
+      "4 Limón lavados y/o pelados cortados en cuatro"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-13"
+  },
+  {
+    "id": "cl:lomo-de-cerdo-con-hierbas-y-mostaza-antigua-1",
+    "title": "Lomo De Cerdo Con Hierbas Y Mostaza Antigua",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/lomo-de-cerdo-con-hierbas-y-mostaza-antigua-1",
+    "machine": null,
+    "original_ingredients": [
+      "1 Kg Lomo Centro de cerdo",
+      "1 cucharada Orégano",
+      "1 cucharada Estragón",
+      "1 cucharada Tomillo",
+      "3 cucharadas Mostaza a la antigua",
+      "1 cucharada Sal",
+      "1/2 cucharada Pimienta cayena",
+      "60 g Mantequilla",
+      "1.5 L Agua"
+    ],
+    "ingredients_display": [
+      "1 Kg Lomo Centro de cerdo",
+      "1 cucharada Orégano",
+      "1 cucharada Estragón",
+      "1 cucharada Tomillo",
+      "3 cucharadas Mostaza a la antigua",
+      "1 cucharada Sal",
+      "1/2 cucharada Pimienta cayena",
+      "60 g Mantequilla",
+      "1.5 L Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-13"
+  },
+  {
+    "id": "cl:longaniza-casera-saludable-2",
+    "title": "Longaniza casera saludable",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/longaniza-casera-saludable-2",
+    "machine": null,
+    "original_ingredients": [
+      "700 g Carne de cerdo (paleta o sobrecostilla) en cubos",
+      "300 g Carne de vacuno magra (posta o asiento) en cubos",
+      "20 g Sal",
+      "50 ml Agua muy fría o hielo en trocitos",
+      "30 ml Aceite de oliva Natura",
+      "½ Cebolla",
+      "10 g Pimentón o paprika en polvo",
+      "2 cucharaditas Orégano seco",
+      "1 cucharadita Comino molido",
+      "1 cucharadita Ajo en polvo",
+      "1 cucharadita Cebolla en polvo",
+      "1 cucharadita Cúrcuma",
+      "½ cucharadita Pimienta negra molida",
+      "5 ml Vinagre de vino tinto (opcional)"
+    ],
+    "ingredients_display": [
+      "700 g Carne de cerdo (paleta o sobrecostilla) en cubos",
+      "300 g Carne de vacuno magra (posta o asiento) en cubos",
+      "20 g Sal",
+      "50 ml Agua muy fría o hielo en trocitos",
+      "30 ml Aceite de oliva Natura",
+      "½ Cebolla",
+      "10 g Pimentón o paprika en polvo",
+      "2 cucharaditas Orégano seco",
+      "1 cucharadita Comino molido",
+      "1 cucharadita Ajo en polvo",
+      "1 cucharadita Cebolla en polvo",
+      "1 cucharadita Cúrcuma",
+      "½ cucharadita Pimienta negra molida",
+      "5 ml Vinagre de vino tinto (opcional)"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-13"
+  },
+  {
+    "id": "cl:madeleines-de-limon-y-chia",
+    "title": "Madeleines de limón y chía",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/madeleines-de-limon-y-chia",
+    "machine": null,
+    "original_ingredients": [
+      "140 g Azúcar",
+      "120 g Harina con polvos de hornear",
+      "125 g Mantequilla blanda",
+      "2 Huevos",
+      "1 cucharada Ralladura de limón",
+      "2 cucharadas Chía",
+      "Molde para Madeleines"
+    ],
+    "ingredients_display": [
+      "140 g Azúcar",
+      "120 g Harina con polvos de hornear",
+      "125 g Mantequilla blanda",
+      "2 Huevos",
+      "1 cucharada Ralladura de limón",
+      "2 cucharadas Chía",
+      "Molde para Madeleines"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-13"
+  },
+  {
+    "id": "cl:madeleines-de-naranja-y-coco",
+    "title": "Madeleines de naranja y coco",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/madeleines-de-naranja-y-coco",
+    "machine": null,
+    "original_ingredients": [
+      "140 g Azúcar",
+      "120 g Harina con polvos de hornear",
+      "125 g Mantequilla blanda",
+      "2 Huevos",
+      "Ralladura de 1 naranja",
+      "40 ml Jugo de naranja natural",
+      "15 g Coco rallado",
+      "Molde para Madeleines"
+    ],
+    "ingredients_display": [
+      "140 g Azúcar",
+      "120 g Harina con polvos de hornear",
+      "125 g Mantequilla blanda",
+      "2 Huevos",
+      "Ralladura de 1 naranja",
+      "40 ml Jugo de naranja natural",
+      "15 g Coco rallado",
+      "Molde para Madeleines"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-13"
   }
 ]

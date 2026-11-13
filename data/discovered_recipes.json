@@ -112,6 +112,14 @@
     "first_seen": "2026-10-28"
   },
   {
+    "id": "ar:budin-de-coco-y-maracuya",
+    "title": "Budín de coco y maracuyá \n                         Masas / Queques / Panes, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/budin-de-coco-y-maracuya",
+    "first_seen": "2026-11-13"
+  },
+  {
     "id": "ar:calzones-rotos",
     "title": "Calzones rotos \n                         Masas / Queques / Panes, Comida chilena",
     "country": "AR",
@@ -152,6 +160,14 @@
     "first_seen": "2026-10-29"
   },
   {
+    "id": "ar:cocadas-saludables",
+    "title": "Cocadas saludables \n                         Masas / Queques / Panes, Mermeladas / Dulces, Nutrirecetas, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/cocadas-saludables",
+    "first_seen": "2026-11-13"
+  },
+  {
     "id": "ar:crema-de-alcachofas",
     "title": "Crema de alcachofas \n                         Sopas / Cremas",
     "country": "AR",
@@ -166,6 +182,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/crema-de-alcachofas-y-puerros",
     "first_seen": "2026-11-11"
+  },
+  {
+    "id": "ar:crema-de-apio",
+    "title": "Crema de apio \n                         Sopas / Cremas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/crema-de-apio",
+    "first_seen": "2026-11-13"
   },
   {
     "id": "ar:crema-de-chantilly",
@@ -312,12 +336,28 @@
     "first_seen": "2026-10-29"
   },
   {
+    "id": "ar:flan-de-manjar",
+    "title": "Flan de manjar  \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/flan-de-manjar",
+    "first_seen": "2026-11-13"
+  },
+  {
     "id": "ar:flan-de-manzanas",
     "title": "Flan de manzana \n                         Postres",
     "country": "AR",
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/flan-de-manzanas",
     "first_seen": "2026-10-23"
+  },
+  {
+    "id": "ar:focaccia-de-tomates-oliva-y-oregano",
+    "title": "Focaccia de tomates, oliva y orégano \n                         Masas / Queques / Panes, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/focaccia-de-tomates-oliva-y-oregano",
+    "first_seen": "2026-11-13"
   },
   {
     "id": "ar:fudge-de-chocolate-y-avellanas",
@@ -830,6 +870,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/queque-de-frambuesas",
     "first_seen": "2026-10-26"
+  },
+  {
+    "id": "ar:queque-de-miel",
+    "title": "Queque de miel \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/queque-de-miel",
+    "first_seen": "2026-11-13"
   },
   {
     "id": "ar:queque-de-yogur",
@@ -2400,6 +2448,14 @@
     "first_seen": "2026-10-23"
   },
   {
+    "id": "cl:marraqueta-sin-gluten",
+    "title": "Marraqueta sin gluten",
+    "country": "CL",
+    "machine": null,
+    "source_url": "https://easyways.cl/blogs/recetas/marraqueta-sin-gluten",
+    "first_seen": "2026-11-13"
+  },
+  {
     "id": "cl:marraquetas",
     "title": "Marraquetas",
     "country": "CL",
@@ -2822,6 +2878,14 @@
     "machine": null,
     "source_url": "https://easyways.cl/blogs/recetas/pan-rapido-sin-gluten",
     "first_seen": "2026-10-23"
+  },
+  {
+    "id": "cl:pancitos-de-amapola",
+    "title": "Pancitos de amapola",
+    "country": "CL",
+    "machine": null,
+    "source_url": "https://easyways.cl/blogs/recetas/pancitos-de-amapola",
+    "first_seen": "2026-11-13"
   },
   {
     "id": "cl:pancitos-rapidos-deliciosos-1",
