@@ -5174,5 +5174,295 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-13"
+  },
+  {
+    "id": "cl:mantequilla-de-mani-1",
+    "title": "Mantequilla de maní",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mantequilla-de-mani-1",
+    "machine": null,
+    "original_ingredients": [
+      "180 g Maní tostado"
+    ],
+    "ingredients_display": [
+      "180 g Maní tostado"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-14"
+  },
+  {
+    "id": "cl:margarita-de-sandia-1",
+    "title": "Margarita de Sandía",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/margarita-de-sandia-1",
+    "machine": null,
+    "original_ingredients": [
+      "750 g Sandía congelada y cortada en cubos",
+      "135 ml Tequila blanco",
+      "55 ml Triple sec",
+      "65 ml Jarabe de goma",
+      "105 ml Jugo de limón"
+    ],
+    "ingredients_display": [
+      "750 g Sandía congelada y cortada en cubos",
+      "135 ml Tequila blanco",
+      "55 ml Triple sec",
+      "65 ml Jarabe de goma",
+      "105 ml Jugo de limón"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-14"
+  },
+  {
+    "id": "cl:marraqueta-sin-gluten",
+    "title": "Marraqueta sin gluten",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/marraqueta-sin-gluten",
+    "machine": null,
+    "original_ingredients": [
+      "190 g Harina de arroz",
+      "60 g Maicena (fécula de maíz)",
+      "2 cucharadas Psyllium molido",
+      "5 g Sal marina",
+      "10 g Azúcar o azúcar de coco",
+      "1 ½ cucharadita Levadura seca instantánea",
+      "5 ml Vinagre de manzana",
+      "10 ml Aceite de oliva",
+      "240 ml Agua"
+    ],
+    "ingredients_display": [
+      "190 g Harina de arroz",
+      "60 g Maicena (fécula de maíz)",
+      "2 cucharadas Psyllium molido",
+      "5 g Sal marina",
+      "10 g Azúcar o azúcar de coco",
+      "1 ½ cucharadita Levadura seca instantánea",
+      "5 ml Vinagre de manzana",
+      "10 ml Aceite de oliva",
+      "240 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-11-13",
+    "enriched_on": "2026-11-14"
+  },
+  {
+    "id": "cl:marraquetas",
+    "title": "Marraquetas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/marraquetas",
+    "machine": null,
+    "original_ingredients": [
+      "600 g Harina sin polvos de hornear",
+      "400 ml Agua tibia",
+      "10 g Levadura seca",
+      "8 g Sal",
+      "1 cucharada Aceite de oliva"
+    ],
+    "ingredients_display": [
+      "600 g Harina sin polvos de hornear",
+      "400 ml Agua tibia",
+      "10 g Levadura seca",
+      "8 g Sal",
+      "1 cucharada Aceite de oliva"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-14"
+  },
+  {
+    "id": "cl:masa-de-galletas-para-cheesecake",
+    "title": "Masa de galletas para cheesecake",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/masa-de-galletas-para-cheesecake",
+    "machine": null,
+    "original_ingredients": [
+      "280 g Galletas de vino",
+      "125 g Mantequilla blanda",
+      "50 g Azúcar"
+    ],
+    "ingredients_display": [
+      "280 g Galletas de vino",
+      "125 g Mantequilla blanda",
+      "50 g Azúcar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-14"
+  },
+  {
+    "id": "cl:masa-de-pasa-2-1",
+    "title": "Masa de Pasa 2.0",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/masa-de-pasa-2-1",
+    "machine": null,
+    "original_ingredients": [
+      "400 g Ten presente que por cada 100 gr de harina es 1 huevo y no más de 1 Cucharada de agua",
+      "4 Huevos",
+      "4 cucharadas Agua"
+    ],
+    "ingredients_display": [
+      "400 g Ten presente que por cada 100 gr de harina es 1 huevo y no más de 1 Cucharada de agua",
+      "4 Huevos",
+      "4 cucharadas Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-14"
+  },
+  {
+    "id": "cl:masa-de-pasta-1",
+    "title": "Masa de pasta",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/masa-de-pasta-1",
+    "machine": null,
+    "original_ingredients": [
+      "500 g Harina",
+      "5 Huevos",
+      "Aceite de oliva"
+    ],
+    "ingredients_display": [
+      "500 g Harina",
+      "5 Huevos",
+      "Aceite de oliva"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-14"
+  },
+  {
+    "id": "cl:masa-de-pizza-2-0",
+    "title": "Masa de pizza 2.0",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/masa-de-pizza-2-0",
+    "machine": null,
+    "original_ingredients": [
+      "7 g Levadura seca",
+      "500 g Harina panadera",
+      "1/2 cucharada Azúcar",
+      "1/2 cucharadita Sal fina",
+      "2 cucharadas Aceite de oliva",
+      "325 ml Agua"
+    ],
+    "ingredients_display": [
+      "7 g Levadura seca",
+      "500 g Harina panadera",
+      "1/2 cucharada Azúcar",
+      "1/2 cucharadita Sal fina",
+      "2 cucharadas Aceite de oliva",
+      "325 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-14"
+  },
+  {
+    "id": "cl:masa-de-pizza-crujiente",
+    "title": "Masa de pizza crujiente",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/masa-de-pizza-crujiente",
+    "machine": null,
+    "original_ingredients": [
+      "220 ml Agua gasificada",
+      "5 g Levadura seca",
+      "25 ml Aceite de oliva",
+      "10 g Sal",
+      "10 g Azúcar",
+      "450 g Harina sin polvos de hornear"
+    ],
+    "ingredients_display": [
+      "220 ml Agua gasificada",
+      "5 g Levadura seca",
+      "25 ml Aceite de oliva",
+      "10 g Sal",
+      "10 g Azúcar",
+      "450 g Harina sin polvos de hornear"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-14"
+  },
+  {
+    "id": "cl:masa-de-pizza-de-coliflor",
+    "title": "Masa de pizza de coliflor",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/masa-de-pizza-de-coliflor",
+    "machine": null,
+    "original_ingredients": [
+      "650 g Coliflor",
+      "70 g Queso rallado picado fino",
+      "1 Huevo",
+      "Sal"
+    ],
+    "ingredients_display": [
+      "650 g Coliflor",
+      "70 g Queso rallado picado fino",
+      "1 Huevo",
+      "Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-14"
+  },
+  {
+    "id": "cl:masa-quebrada-1",
+    "title": "Masa quebrada",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/masa-quebrada-1",
+    "machine": null,
+    "original_ingredients": [
+      "300 g Harina sin polvos de hornear",
+      "130 g Mantequilla blanda",
+      "70 ml Agua",
+      "1 pizca Sal",
+      "12 g Azúcar"
+    ],
+    "ingredients_display": [
+      "300 g Harina sin polvos de hornear",
+      "130 g Mantequilla blanda",
+      "70 ml Agua",
+      "1 pizca Sal",
+      "12 g Azúcar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-14"
+  },
+  {
+    "id": "cl:masa-saludable-para-recetas-saladas",
+    "title": "Masa saludable para recetas saladas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/masa-saludable-para-recetas-saladas",
+    "machine": null,
+    "original_ingredients": [
+      "250 g Harina integral",
+      "70 ml Aceite de oliva",
+      "10 g Linaza",
+      "1 pizca Sal",
+      "100 ml Agua"
+    ],
+    "ingredients_display": [
+      "250 g Harina integral",
+      "70 ml Aceite de oliva",
+      "10 g Linaza",
+      "1 pizca Sal",
+      "100 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-14"
   }
 ]

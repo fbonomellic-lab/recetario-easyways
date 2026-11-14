@@ -120,6 +120,14 @@
     "first_seen": "2026-11-13"
   },
   {
+    "id": "ar:cachapas",
+    "title": "Cachapas \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/cachapas",
+    "first_seen": "2026-11-14"
+  },
+  {
     "id": "ar:calzones-rotos",
     "title": "Calzones rotos \n                         Masas / Queques / Panes, Comida chilena",
     "country": "AR",
@@ -328,6 +336,14 @@
     "first_seen": "2026-10-23"
   },
   {
+    "id": "ar:espuma-de-limon",
+    "title": "Espuma de limón \n                         Nutrirecetas, Postres, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/espuma-de-limon",
+    "first_seen": "2026-11-14"
+  },
+  {
     "id": "ar:filete-a-la-sal",
     "title": "Filete a la sal \n                         Platos de Fondo",
     "country": "AR",
@@ -358,6 +374,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/focaccia-de-tomates-oliva-y-oregano",
     "first_seen": "2026-11-13"
+  },
+  {
+    "id": "ar:frapuccino",
+    "title": "Frapuccino \n                         Nutrirecetas, Jugos / Bebidas / Tragos, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/frapuccino",
+    "first_seen": "2026-11-14"
   },
   {
     "id": "ar:fudge-de-chocolate-y-avellanas",
@@ -888,6 +912,14 @@
     "first_seen": "2026-11-05"
   },
   {
+    "id": "ar:quequitos-citricos",
+    "title": "Quequitos cítricos \n                         Masas / Queques / Panes, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/quequitos-citricos",
+    "first_seen": "2026-11-14"
+  },
+  {
     "id": "ar:quequitos-de-zanahoria",
     "title": "Quequitos de zanahoria \n                         Masas / Queques / Panes",
     "country": "AR",
@@ -958,6 +990,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/salsa-de-bechamel-de-quinoa",
     "first_seen": "2026-10-24"
+  },
+  {
+    "id": "ar:salsa-de-marshmallows",
+    "title": "Salsa de marshmallows \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/salsa-de-marshmallows",
+    "first_seen": "2026-11-14"
   },
   {
     "id": "ar:salsa-de-tomates-natural",
