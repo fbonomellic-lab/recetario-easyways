@@ -5464,5 +5464,303 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-14"
+  },
+  {
+    "id": "cl:merengue-suizo",
+    "title": "Merengue suizo",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/merengue-suizo",
+    "machine": null,
+    "original_ingredients": [
+      "4 Claras de huevo frescas",
+      "200 g Azúcar"
+    ],
+    "ingredients_display": [
+      "4 Claras de huevo frescas",
+      "200 g Azúcar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-15"
+  },
+  {
+    "id": "cl:mermelada-de-aji-1",
+    "title": "Mermelada de Ají",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mermelada-de-aji-1",
+    "machine": null,
+    "original_ingredients": [
+      "500 g ají naranjo",
+      "250 g Azúcar",
+      "700 ml Agua"
+    ],
+    "ingredients_display": [
+      "500 g ají naranjo",
+      "250 g Azúcar",
+      "700 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-15"
+  },
+  {
+    "id": "cl:mermelada-de-ciruela-con-alulosa-1",
+    "title": "Mermelada de ciruela con alulosa",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mermelada-de-ciruela-con-alulosa-1",
+    "machine": null,
+    "original_ingredients": [
+      "900 g Ciruelas sin carozo partidos a la mitad",
+      "640 g Tagatosa o Alulosa"
+    ],
+    "ingredients_display": [
+      "900 g Ciruelas sin carozo partidos a la mitad",
+      "640 g Tagatosa o Alulosa"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-15"
+  },
+  {
+    "id": "cl:mermelada-de-frambuesas",
+    "title": "Mermelada de frambuesas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mermelada-de-frambuesas",
+    "machine": null,
+    "original_ingredients": [
+      "500 g Frambuesas frescas",
+      "400 g Azúcar"
+    ],
+    "ingredients_display": [
+      "500 g Frambuesas frescas",
+      "400 g Azúcar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-15"
+  },
+  {
+    "id": "cl:mermelada-de-papaya-1",
+    "title": "Mermelada de papaya",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mermelada-de-papaya-1",
+    "machine": null,
+    "original_ingredients": [
+      "400 g Papaya pelada y sin pepas",
+      "300 g Azúcar",
+      "20 ml Jugo de limón"
+    ],
+    "ingredients_display": [
+      "400 g Papaya pelada y sin pepas",
+      "300 g Azúcar",
+      "20 ml Jugo de limón"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-15"
+  },
+  {
+    "id": "cl:mermelada-de-pera",
+    "title": "Mermelada de pera",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mermelada-de-pera",
+    "machine": null,
+    "original_ingredients": [
+      "1.2 Kg Pera pelada y trozada",
+      "800 g Azúcar",
+      "75 ml Agua"
+    ],
+    "ingredients_display": [
+      "1.2 Kg Pera pelada y trozada",
+      "800 g Azúcar",
+      "75 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-15"
+  },
+  {
+    "id": "cl:mermelada-de-peras-al-jengibre",
+    "title": "Mermelada de peras al jengibre",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mermelada-de-peras-al-jengibre",
+    "machine": null,
+    "original_ingredients": [
+      "800 g Pera peladas y trozadas",
+      "600 g Azúcar",
+      "3 g Jengibre fresco"
+    ],
+    "ingredients_display": [
+      "800 g Pera peladas y trozadas",
+      "600 g Azúcar",
+      "3 g Jengibre fresco"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-15"
+  },
+  {
+    "id": "cl:mermelada-de-tocino-3",
+    "title": "Mermelada de tocino",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mermelada-de-tocino-3",
+    "machine": null,
+    "original_ingredients": [
+      "300 g Tocino Parrillero cortados en tiras",
+      "1 Cebolla cortada en pluma",
+      "3 Dientes de ajo picados",
+      "75 g Azúcar rubia",
+      "20 ml Vinagre de manzana",
+      "60 ml Café cargado",
+      "1.5 cucharada Miel"
+    ],
+    "ingredients_display": [
+      "300 g Tocino Parrillero cortados en tiras",
+      "1 Cebolla cortada en pluma",
+      "3 Dientes de ajo picados",
+      "75 g Azúcar rubia",
+      "20 ml Vinagre de manzana",
+      "60 ml Café cargado",
+      "1.5 cucharada Miel"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-15"
+  },
+  {
+    "id": "cl:miel-de-chancaca-o-melaza-3",
+    "title": "Miel de chancaca o melaza",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/miel-de-chancaca-o-melaza-3",
+    "machine": null,
+    "original_ingredients": [
+      "350 g Chancaca",
+      "150 ml Agua",
+      "350 g Chancaca",
+      "150 ml Agua",
+      "Cáscaras de naranja",
+      "1 ramita Canela",
+      "6 Clavos de olor",
+      "6 Semillas de cardamomo"
+    ],
+    "ingredients_display": [
+      "350 g Chancaca",
+      "150 ml Agua",
+      "350 g Chancaca",
+      "150 ml Agua",
+      "Cáscaras de naranja",
+      "1 ramita Canela",
+      "6 Clavos de olor",
+      "6 Semillas de cardamomo"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-15"
+  },
+  {
+    "id": "cl:miel-de-datiles",
+    "title": "Miel de dátiles",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/miel-de-datiles",
+    "machine": null,
+    "original_ingredients": [
+      "300 ml Agua para remojar",
+      "300 g Dátiles sin carozo"
+    ],
+    "ingredients_display": [
+      "300 ml Agua para remojar",
+      "300 g Dátiles sin carozo"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-15"
+  },
+  {
+    "id": "cl:mini-hamburguesas-de-cocktail",
+    "title": "Mini hamburguesas de cocktail",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mini-hamburguesas-de-cocktail",
+    "machine": null,
+    "original_ingredients": [
+      "700 g Posta negra cortada en cubos de 3 cm",
+      "100 g Tocino cortado en tiras",
+      "1 Cebolla mediana cortada en cuatro",
+      "20 g Perejil",
+      "1 Yema de huevo",
+      "Sal",
+      "Pimienta",
+      "Rúcula picada",
+      "Mayonesa con ajo",
+      "Pimentón rojo asado cortado en tiras",
+      "24 Panes de cocktail"
+    ],
+    "ingredients_display": [
+      "700 g Posta negra cortada en cubos de 3 cm",
+      "100 g Tocino cortado en tiras",
+      "1 Cebolla mediana cortada en cuatro",
+      "20 g Perejil",
+      "1 Yema de huevo",
+      "Sal",
+      "Pimienta",
+      "Rúcula picada",
+      "Mayonesa con ajo",
+      "Pimentón rojo asado cortado en tiras",
+      "24 Panes de cocktail"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-15"
+  },
+  {
+    "id": "cl:mix-de-trufas-de-chocolate-1",
+    "title": "Mix de trufas de chocolate",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mix-de-trufas-de-chocolate-1",
+    "machine": null,
+    "original_ingredients": [
+      "400 g Chocolate blanco",
+      "80 g Crema",
+      "40 g Mantequilla sin sal",
+      "2 cucharadas Pulpa de maracuyá",
+      "50 g Coco laminado tostado",
+      "1/2 cucharaditas Café instantáneo",
+      "2 cucharadas Chips de chocolate",
+      "170 g Chocolate semiamargo o de leche para cobertura",
+      "400 g Chocolate negro",
+      "200 g Crema",
+      "45 g Mantequilla sin sal",
+      "3 cucharadas Amaretto",
+      "50 g Almendras tostadas y picadas"
+    ],
+    "ingredients_display": [
+      "400 g Chocolate blanco",
+      "80 g Crema",
+      "40 g Mantequilla sin sal",
+      "2 cucharadas Pulpa de maracuyá",
+      "50 g Coco laminado tostado",
+      "1/2 cucharaditas Café instantáneo",
+      "2 cucharadas Chips de chocolate",
+      "170 g Chocolate semiamargo o de leche para cobertura",
+      "400 g Chocolate negro",
+      "200 g Crema",
+      "45 g Mantequilla sin sal",
+      "3 cucharadas Amaretto",
+      "50 g Almendras tostadas y picadas"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-15"
   }
 ]
