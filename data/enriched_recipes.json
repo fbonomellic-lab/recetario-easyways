@@ -5762,5 +5762,367 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-15"
+  },
+  {
+    "id": "cl:mojito-de-granada-2",
+    "title": "Mojito de granada",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mojito-de-granada-2",
+    "machine": null,
+    "original_ingredients": [
+      "2 Granada",
+      "20 g Hojas de menta",
+      "180 ml Jugo de limón",
+      "180 ml Jarabe de goma",
+      "360 ml Ron blanco",
+      "6 taza Hielo picado",
+      "1 L Agua gasificada"
+    ],
+    "ingredients_display": [
+      "2 Granada",
+      "20 g Hojas de menta",
+      "180 ml Jugo de limón",
+      "180 ml Jarabe de goma",
+      "360 ml Ron blanco",
+      "6 taza Hielo picado",
+      "1 L Agua gasificada"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-16"
+  },
+  {
+    "id": "cl:mote-a-la-crema",
+    "title": "Mote a la crema",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mote-a-la-crema",
+    "machine": null,
+    "original_ingredients": [
+      "500 g Mote",
+      "250 ml Leche",
+      "250 ml Agua",
+      "30 g Mantequilla",
+      "Crema",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "500 g Mote",
+      "250 ml Leche",
+      "250 ml Agua",
+      "30 g Mantequilla",
+      "Crema",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-16"
+  },
+  {
+    "id": "cl:moussaka",
+    "title": "Moussaka",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/moussaka",
+    "machine": null,
+    "original_ingredients": [
+      "250 g Cebolla trozada",
+      "3 Berenjena cortadas en rodajas",
+      "30 ml Aceite de oliva",
+      "500 g Tomates cortados en cuatro",
+      "250 g Salsa de tomate natural",
+      "Perejil",
+      "Sal",
+      "Pimienta",
+      "Queso mantecoso",
+      "Papas fritas en rodajas delgadas (o envasadas)",
+      "3 Huevos",
+      "Queso rallado para espolvorear",
+      "200 ml Leche"
+    ],
+    "ingredients_display": [
+      "250 g Cebolla trozada",
+      "3 Berenjena cortadas en rodajas",
+      "30 ml Aceite de oliva",
+      "500 g Tomates cortados en cuatro",
+      "250 g Salsa de tomate natural",
+      "Perejil",
+      "Sal",
+      "Pimienta",
+      "Queso mantecoso",
+      "Papas fritas en rodajas delgadas (o envasadas)",
+      "3 Huevos",
+      "Queso rallado para espolvorear",
+      "200 ml Leche"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-16"
+  },
+  {
+    "id": "cl:mousse-de-chocolate",
+    "title": "Mousse de chocolate",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mousse-de-chocolate",
+    "machine": null,
+    "original_ingredients": [
+      "200 g Chocolate amargo trozado",
+      "100 g Azúcar",
+      "100 ml Crema",
+      "4 Huevos a temperatura ambiente",
+      "1 pizca Sal"
+    ],
+    "ingredients_display": [
+      "200 g Chocolate amargo trozado",
+      "100 g Azúcar",
+      "100 ml Crema",
+      "4 Huevos a temperatura ambiente",
+      "1 pizca Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-16"
+  },
+  {
+    "id": "cl:mousse-de-chocolate-vegano",
+    "title": "Mousse de Chocolate vegano",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mousse-de-chocolate-vegano",
+    "machine": null,
+    "original_ingredients": [
+      "60 g Semillas de chía",
+      "250 ml Leche de coco",
+      "75 g Cacao en polvo",
+      "50 ml Miel",
+      "2 cucharaditas Esencia de vainilla",
+      "1 pizca Sal",
+      "20 g Aceite de coco",
+      "Chocolate rallado o semillas de granada para decorar"
+    ],
+    "ingredients_display": [
+      "60 g Semillas de chía",
+      "250 ml Leche de coco",
+      "75 g Cacao en polvo",
+      "50 ml Miel",
+      "2 cucharaditas Esencia de vainilla",
+      "1 pizca Sal",
+      "20 g Aceite de coco",
+      "Chocolate rallado o semillas de granada para decorar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-16"
+  },
+  {
+    "id": "cl:mousse-de-chocolate-vegano-2-2",
+    "title": "Mousse de chocolate vegano 2.0",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mousse-de-chocolate-vegano-2-2",
+    "machine": null,
+    "original_ingredients": [
+      "1 Chorrito de esencia de vainilla",
+      "1 pizca Sal",
+      "25 g Azúcar",
+      "115 g Chocolate de cobertura",
+      "165 ml Aquafaba (líquido de garbanzos en conserva)"
+    ],
+    "ingredients_display": [
+      "1 Chorrito de esencia de vainilla",
+      "1 pizca Sal",
+      "25 g Azúcar",
+      "115 g Chocolate de cobertura",
+      "165 ml Aquafaba (líquido de garbanzos en conserva)"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-16"
+  },
+  {
+    "id": "cl:mousse-de-cilantro",
+    "title": "Mousse de cilantro",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mousse-de-cilantro",
+    "machine": null,
+    "original_ingredients": [
+      "1 Yogur natural",
+      "1 Envase del yogur con mayonesa",
+      "1 atado Cilantro",
+      "3 Cebollines trozados",
+      "1 Ají verde sin nervadura ni pepas",
+      "7.5 g Gelatina sin sabor disuelta en agua tibia"
+    ],
+    "ingredients_display": [
+      "1 Yogur natural",
+      "1 Envase del yogur con mayonesa",
+      "1 atado Cilantro",
+      "3 Cebollines trozados",
+      "1 Ají verde sin nervadura ni pepas",
+      "7.5 g Gelatina sin sabor disuelta en agua tibia"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-16"
+  },
+  {
+    "id": "cl:mousse-de-frutilla",
+    "title": "Mousse de frutilla",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mousse-de-frutilla",
+    "machine": null,
+    "original_ingredients": [
+      "500 g Frutillas frescas",
+      "500 g Crema para batir muy fría",
+      "200 g Azúcar",
+      "7.5 g Gelatina sin sabor disuelta en 50 ml de agua tibia"
+    ],
+    "ingredients_display": [
+      "500 g Frutillas frescas",
+      "500 g Crema para batir muy fría",
+      "200 g Azúcar",
+      "7.5 g Gelatina sin sabor disuelta en 50 ml de agua tibia"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-16"
+  },
+  {
+    "id": "cl:mousse-de-maracuya",
+    "title": "Mousse de maracuyá",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mousse-de-maracuya",
+    "machine": null,
+    "original_ingredients": [
+      "397 g Leche condensada",
+      "250 g Pulpa de maracuyá (separe las pepas y reserve)",
+      "500 ml Crema muy fría",
+      "60 g Azúcar"
+    ],
+    "ingredients_display": [
+      "397 g Leche condensada",
+      "250 g Pulpa de maracuyá (separe las pepas y reserve)",
+      "500 ml Crema muy fría",
+      "60 g Azúcar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-16"
+  },
+  {
+    "id": "cl:mousse-de-salmon-ahumado",
+    "title": "Mousse de salmón ahumado",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/mousse-de-salmon-ahumado",
+    "machine": null,
+    "original_ingredients": [
+      "200 g Salmón ahumado",
+      "300 g Quesillo 0% grasa",
+      "1 Yogur natural",
+      "10 g Ciboulette",
+      "Jugo de limón",
+      "7.5 g Gelatina sin sabor",
+      "Sal",
+      "Pimienta",
+      "30 ml Agua caliente"
+    ],
+    "ingredients_display": [
+      "200 g Salmón ahumado",
+      "300 g Quesillo 0% grasa",
+      "1 Yogur natural",
+      "10 g Ciboulette",
+      "Jugo de limón",
+      "7.5 g Gelatina sin sabor",
+      "Sal",
+      "Pimienta",
+      "30 ml Agua caliente"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-16"
+  },
+  {
+    "id": "cl:muffins-de-coco-y-limon",
+    "title": "Muffins de coco y limón",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/muffins-de-coco-y-limon",
+    "machine": null,
+    "original_ingredients": [
+      "3 Huevos",
+      "20 ml Aceite de coco",
+      "1 Yogur natural",
+      "100 ml Leche",
+      "1 cucharadita Esencia de vainilla",
+      "100 ml Miel de abeja",
+      "110 g Harina sin polvos de hornear",
+      "5 g Polvos de hornear",
+      "1/2 cucharadita Bicarbonato",
+      "5 g Sal",
+      "Ralladura de 1 limón",
+      "30 g Coco rallado"
+    ],
+    "ingredients_display": [
+      "3 Huevos",
+      "20 ml Aceite de coco",
+      "1 Yogur natural",
+      "100 ml Leche",
+      "1 cucharadita Esencia de vainilla",
+      "100 ml Miel de abeja",
+      "110 g Harina sin polvos de hornear",
+      "5 g Polvos de hornear",
+      "1/2 cucharadita Bicarbonato",
+      "5 g Sal",
+      "Ralladura de 1 limón",
+      "30 g Coco rallado"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-16"
+  },
+  {
+    "id": "cl:muffins-de-jamon-queso-y-champinones-2",
+    "title": "Muffins de jamón, queso y champiñones",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/muffins-de-jamon-queso-y-champinones-2",
+    "machine": null,
+    "original_ingredients": [
+      "90 ml Leche",
+      "80 ml Aceite vegetal Natura",
+      "20 g Mantequilla",
+      "3 Huevos",
+      "100 g Queso gouda rallado",
+      "100 g Jamón colonial cortado en tiras",
+      "80 g Champiñones laminados",
+      "220 g Harina sin polvos",
+      "10 g Polvos de hornear",
+      "5 g Sal",
+      "1 pizca Pimienta"
+    ],
+    "ingredients_display": [
+      "90 ml Leche",
+      "80 ml Aceite vegetal Natura",
+      "20 g Mantequilla",
+      "3 Huevos",
+      "100 g Queso gouda rallado",
+      "100 g Jamón colonial cortado en tiras",
+      "80 g Champiñones laminados",
+      "220 g Harina sin polvos",
+      "10 g Polvos de hornear",
+      "5 g Sal",
+      "1 pizca Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-16"
   }
 ]

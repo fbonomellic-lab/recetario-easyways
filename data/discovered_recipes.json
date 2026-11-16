@@ -40,6 +40,14 @@
     "first_seen": "2026-10-24"
   },
   {
+    "id": "ar:arroz",
+    "title": "Arroz \n                         Platos de Fondo, Sólo un Paso",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/arroz",
+    "first_seen": "2026-11-16"
+  },
+  {
     "id": "ar:arroz-de-coliflor",
     "title": "Arroz de coliflor \n                         Nutrirecetas, Platos de Fondo, Nuevas, Nuevas, Nutrirecetas, Platos de Fondo, Vegetarianos",
     "country": "AR",
@@ -174,6 +182,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/charquican-vegano-de-cochayuyo",
     "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:charquican-vegetariano",
+    "title": "Charquicán vegetariano \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/charquican-vegetariano",
+    "first_seen": "2026-11-16"
   },
   {
     "id": "ar:cocadas-saludables",
@@ -656,6 +672,14 @@
     "first_seen": "2026-10-27"
   },
   {
+    "id": "ar:masa-de-galletas-para-cheesecake",
+    "title": "Masa de galletas para cheesecake \n                         Masas / Queques / Panes, Sólo un Paso",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/masa-de-galletas-para-cheesecake",
+    "first_seen": "2026-11-16"
+  },
+  {
     "id": "ar:masa-dulce-para-recetas-saludables",
     "title": "Masa dulce para recetas saludables \n                         Masas / Queques / Panes, Nutrirecetas",
     "country": "AR",
@@ -854,6 +878,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pollo-mediterraneo",
     "first_seen": "2026-11-11"
+  },
+  {
+    "id": "ar:pollo-oriental-al-vapor",
+    "title": "Pollo oriental al vapor \n                         Para Celíacos, Platos de Fondo, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pollo-oriental-al-vapor",
+    "first_seen": "2026-11-16"
   },
   {
     "id": "ar:pollo-parmesano-con-salsa-de-hierbas",
@@ -1096,6 +1128,14 @@
     "first_seen": "2026-11-09"
   },
   {
+    "id": "ar:tarta-de-acelga",
+    "title": "Tarta de acelga \n                         Platos de Fondo, Nuevas, Nuevas, Platos de Fondo, Vegetarianos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/tarta-de-acelga",
+    "first_seen": "2026-11-16"
+  },
+  {
     "id": "ar:tarta-de-maracuya",
     "title": "Tarta de maracuyá \n                         Postres, Nutrirecetas",
     "country": "AR",
@@ -1150,6 +1190,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/torta-de-trufas-de-chocolate",
     "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:triffle-de-pina",
+    "title": "Triffle de piña \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/triffle-de-pina",
+    "first_seen": "2026-11-16"
   },
   {
     "id": "ar:twix-saludable",
