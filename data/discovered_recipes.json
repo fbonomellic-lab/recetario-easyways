@@ -696,6 +696,14 @@
     "first_seen": "2026-11-12"
   },
   {
+    "id": "ar:milkshake-de-oreo",
+    "title": "Milkshake de oreo \n                         Jugos / Bebidas / Tragos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/milkshake-de-oreo",
+    "first_seen": "2026-11-17"
+  },
+  {
     "id": "ar:mojito",
     "title": "Mojito \n                         Jugos / Bebidas / Tragos",
     "country": "AR",
@@ -718,6 +726,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/muffins-de-arandanos",
     "first_seen": "2026-10-26"
+  },
+  {
+    "id": "ar:muffins-de-limon",
+    "title": "Muffins de limón \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/muffins-de-limon",
+    "first_seen": "2026-11-17"
   },
   {
     "id": "ar:nutella-casera",
@@ -782,6 +798,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pan-dulce",
     "first_seen": "2026-11-10"
+  },
+  {
+    "id": "ar:pan-integral",
+    "title": "Pan integral \n                         Masas / Queques / Panes, Navidad",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pan-integral",
+    "first_seen": "2026-11-17"
   },
   {
     "id": "ar:pan-lavash",
@@ -1086,6 +1110,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/salsa-tzatziki",
     "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:semola-con-salsa-de-vino-tinto",
+    "title": "Sémola con salsa de vino tinto \n                         Nutrirecetas, Postres, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/semola-con-salsa-de-vino-tinto",
+    "first_seen": "2026-11-17"
   },
   {
     "id": "ar:sorbete-de-limon",
