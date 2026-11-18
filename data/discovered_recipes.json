@@ -496,6 +496,14 @@
     "first_seen": "2026-10-31"
   },
   {
+    "id": "ar:gyozas-empanaditas-japonesas",
+    "title": "Gyozas, empanaditas japonesas \n                         Entradas / Salsas / Aperitivos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/gyozas-empanaditas-japonesas",
+    "first_seen": "2026-11-18"
+  },
+  {
     "id": "ar:hamburguesas-de-carne",
     "title": "Hamburguesas de carne \n                         Platos de Fondo",
     "country": "AR",
@@ -574,6 +582,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/huevitos-de-pascua-rellenos",
     "first_seen": "2026-10-30"
+  },
+  {
+    "id": "ar:huevitos-de-zanahoria-sin-gluten",
+    "title": "Huevitos de zanahoria sin gluten \n                         Para Celíacos, Platos para Niños, Mermeladas / Dulces, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/huevitos-de-zanahoria-sin-gluten",
+    "first_seen": "2026-11-18"
   },
   {
     "id": "ar:huevitos-macizos-de-chocolate",
@@ -712,6 +728,14 @@
     "first_seen": "2026-10-29"
   },
   {
+    "id": "ar:mojito-de-maracuya",
+    "title": "Mojito de maracuyá \n                         Jugos / Bebidas / Tragos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/mojito-de-maracuya",
+    "first_seen": "2026-11-18"
+  },
+  {
     "id": "ar:mousse-de-chocolate-vegano",
     "title": "Mousse de Chocolate vegano \n                         Postres",
     "country": "AR",
@@ -768,6 +792,14 @@
     "first_seen": "2026-11-08"
   },
   {
+    "id": "ar:pan-de-huevo",
+    "title": "Pan de huevo \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pan-de-huevo",
+    "first_seen": "2026-11-18"
+  },
+  {
     "id": "ar:pan-de-masa-madre",
     "title": "Pan de masa madre \n                         Nutrirecetas, Masas / Queques / Panes, Nuevas",
     "country": "AR",
@@ -814,6 +846,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pan-lavash",
     "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:pancitos-rapidos-deliciosos",
+    "title": "Pancitos rápidos deliciosos \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pancitos-rapidos-deliciosos",
+    "first_seen": "2026-11-18"
   },
   {
     "id": "ar:pannacotta-de-chirimoyas",
@@ -1214,6 +1254,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/torta-caluga",
     "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:torta-de-panqueque-trufa",
+    "title": "Torta de panqueque trufa \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/torta-de-panqueque-trufa",
+    "first_seen": "2026-11-18"
   },
   {
     "id": "ar:torta-de-trufas-de-chocolate",

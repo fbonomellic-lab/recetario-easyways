@@ -6492,5 +6492,373 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-17"
+  },
+  {
+    "id": "cl:pan-de-completo-1",
+    "title": "Pan de completo",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pan-de-completo-1",
+    "machine": null,
+    "original_ingredients": [
+      "600 g Leche",
+      "2 Huevos",
+      "60 ml Aceite",
+      "1 cucharadita Sal",
+      "900 g Harina",
+      "50 g Levadura",
+      "1 cucharada Azúcar",
+      "3 ml Leche"
+    ],
+    "ingredients_display": [
+      "600 g Leche",
+      "2 Huevos",
+      "60 ml Aceite",
+      "1 cucharadita Sal",
+      "900 g Harina",
+      "50 g Levadura",
+      "1 cucharada Azúcar",
+      "3 ml Leche"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-18"
+  },
+  {
+    "id": "cl:pan-de-huevo-1",
+    "title": "Pan de huevo",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pan-de-huevo-1",
+    "machine": null,
+    "original_ingredients": [
+      "250 g Harina",
+      "30 g Polvos de hornear",
+      "120 g Azúcar flor",
+      "1 Huevo",
+      "1 Yema de huevo",
+      "4 cucharaditas Esencia de vainilla",
+      "40 g Mantequilla"
+    ],
+    "ingredients_display": [
+      "250 g Harina",
+      "30 g Polvos de hornear",
+      "120 g Azúcar flor",
+      "1 Huevo",
+      "1 Yema de huevo",
+      "4 cucharaditas Esencia de vainilla",
+      "40 g Mantequilla"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-18"
+  },
+  {
+    "id": "cl:pan-de-masa-madre",
+    "title": "Pan de masa madre",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pan-de-masa-madre",
+    "machine": null,
+    "original_ingredients": [
+      "550 g Harina blanca o harina de fuerza",
+      "180 g Masa madre",
+      "300 ml Agua",
+      "10 g Sal",
+      "15 ml Aceite de oliva",
+      "Semillas de sésamo (opcional)"
+    ],
+    "ingredients_display": [
+      "550 g Harina blanca o harina de fuerza",
+      "180 g Masa madre",
+      "300 ml Agua",
+      "10 g Sal",
+      "15 ml Aceite de oliva",
+      "Semillas de sésamo (opcional)"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-18"
+  },
+  {
+    "id": "cl:pan-de-pascua",
+    "title": "Pan de pascua",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pan-de-pascua",
+    "machine": null,
+    "original_ingredients": [
+      "Ralladura de 1 naranja",
+      "2 Huevos",
+      "125 g Mantequilla blanda",
+      "100 ml Leche",
+      "180 g Azúcar flor",
+      "280 g Harina sin polvos de hornear",
+      "15 g Polvos de hornear",
+      "50 ml Cognac",
+      "150 g Fruta confitada",
+      "100 g Pasas sultaninas",
+      "90 g Nueces cortadas en cuatro",
+      "4 g Canela en polvo",
+      "4 g Clavo de olor",
+      "30 ml Esencia de pan de pascua"
+    ],
+    "ingredients_display": [
+      "Ralladura de 1 naranja",
+      "2 Huevos",
+      "125 g Mantequilla blanda",
+      "100 ml Leche",
+      "180 g Azúcar flor",
+      "280 g Harina sin polvos de hornear",
+      "15 g Polvos de hornear",
+      "50 ml Cognac",
+      "150 g Fruta confitada",
+      "100 g Pasas sultaninas",
+      "90 g Nueces cortadas en cuatro",
+      "4 g Canela en polvo",
+      "4 g Clavo de olor",
+      "30 ml Esencia de pan de pascua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-18"
+  },
+  {
+    "id": "cl:pan-de-pascua-gluten-free",
+    "title": "Pan de pascua gluten free",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pan-de-pascua-gluten-free",
+    "machine": null,
+    "original_ingredients": [
+      "240 g Premezcla 3 harinas sin gluten",
+      "180 g Compota de manzana sin azúcar",
+      "160 g Sucralosa",
+      "150 g Frutos secos (fruta confitada, nueces, pasas, ciruelas descorazadas, higos)",
+      "100 ml Leche descremada tibia",
+      "85 g Harina de almendras",
+      "25 g Coco laminado",
+      "3 Huevos",
+      "5 ml Ron dorado",
+      "5 ml Vinagre de manzana",
+      "5 g Polvos de hornear",
+      "5 g Jengibre",
+      "5 g Clavo de olor rallado",
+      "2 g Nuez moscada rallada",
+      "1 Canela",
+      "Ralladura de naranja",
+      "1 pizca Sal"
+    ],
+    "ingredients_display": [
+      "240 g Premezcla 3 harinas sin gluten",
+      "180 g Compota de manzana sin azúcar",
+      "160 g Sucralosa",
+      "150 g Frutos secos (fruta confitada, nueces, pasas, ciruelas descorazadas, higos)",
+      "100 ml Leche descremada tibia",
+      "85 g Harina de almendras",
+      "25 g Coco laminado",
+      "3 Huevos",
+      "5 ml Ron dorado",
+      "5 ml Vinagre de manzana",
+      "5 g Polvos de hornear",
+      "5 g Jengibre",
+      "5 g Clavo de olor rallado",
+      "2 g Nuez moscada rallada",
+      "1 Canela",
+      "Ralladura de naranja",
+      "1 pizca Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-18"
+  },
+  {
+    "id": "cl:pan-integral-rapido",
+    "title": "Pan integral rápido",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pan-integral-rapido",
+    "machine": null,
+    "original_ingredients": [
+      "600 g Harina integral",
+      "350 ml Agua",
+      "15 ml Aceite de oliva",
+      "Sal"
+    ],
+    "ingredients_display": [
+      "600 g Harina integral",
+      "350 ml Agua",
+      "15 ml Aceite de oliva",
+      "Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-18"
+  },
+  {
+    "id": "cl:pan-lavash-1",
+    "title": "Pan Lavash",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pan-lavash-1",
+    "machine": null,
+    "original_ingredients": [
+      "300 g Harina 00 o de alta proteína",
+      "200 ml Agua",
+      "10 g Levadura seca",
+      "1 cucharadita Sal",
+      "1 cucharadita Azúcar"
+    ],
+    "ingredients_display": [
+      "300 g Harina 00 o de alta proteína",
+      "200 ml Agua",
+      "10 g Levadura seca",
+      "1 cucharadita Sal",
+      "1 cucharadita Azúcar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-18"
+  },
+  {
+    "id": "cl:pan-rapido-sin-gluten",
+    "title": "Pan rápido sin gluten",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pan-rapido-sin-gluten",
+    "machine": null,
+    "original_ingredients": [
+      "50 g Harina de garbanzo",
+      "15 ml Agua",
+      "10 ml Leche descremada",
+      "5 g Semillas de chía",
+      "2 g Polvos de hornear",
+      "1 Huevo",
+      "Sal"
+    ],
+    "ingredients_display": [
+      "50 g Harina de garbanzo",
+      "15 ml Agua",
+      "10 ml Leche descremada",
+      "5 g Semillas de chía",
+      "2 g Polvos de hornear",
+      "1 Huevo",
+      "Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-18"
+  },
+  {
+    "id": "cl:pancitos-de-amapola",
+    "title": "Pancitos de amapola",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pancitos-de-amapola",
+    "machine": null,
+    "original_ingredients": [
+      "360 ml Agua",
+      "10 g Levadura seca instantánea",
+      "15 g Azúcar rubia",
+      "200 g Harina de trigo sin polvos (+ 30 g aprox. para espolvorear)",
+      "430 g Harina de fuerza",
+      "35 g Semillas de amapola",
+      "10 g Sal"
+    ],
+    "ingredients_display": [
+      "360 ml Agua",
+      "10 g Levadura seca instantánea",
+      "15 g Azúcar rubia",
+      "200 g Harina de trigo sin polvos (+ 30 g aprox. para espolvorear)",
+      "430 g Harina de fuerza",
+      "35 g Semillas de amapola",
+      "10 g Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-11-13",
+    "enriched_on": "2026-11-18"
+  },
+  {
+    "id": "cl:pancitos-rapidos-deliciosos-1",
+    "title": "Pancitos rápidos deliciosos",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pancitos-rapidos-deliciosos-1",
+    "machine": null,
+    "original_ingredients": [
+      "300 ml Leche",
+      "2 cucharadas Polvos de hornear",
+      "1 cucharadita Sal",
+      "180 g Mantequilla",
+      "600 g Harina"
+    ],
+    "ingredients_display": [
+      "300 ml Leche",
+      "2 cucharadas Polvos de hornear",
+      "1 cucharadita Sal",
+      "180 g Mantequilla",
+      "600 g Harina"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-18"
+  },
+  {
+    "id": "cl:panna-cotta-de-chirimoyas",
+    "title": "Panna cotta de chirimoyas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/panna-cotta-de-chirimoyas",
+    "machine": null,
+    "original_ingredients": [
+      "400 ml Crema",
+      "333 g Pulpa de chirimoya",
+      "90 g Azúcar",
+      "7.5 g Gelatina sin sabor disuelta en 50 ml de agua tibia",
+      "20 ml Licor de naranja",
+      "20 ml Jugo de naranja natural"
+    ],
+    "ingredients_display": [
+      "400 ml Crema",
+      "333 g Pulpa de chirimoya",
+      "90 g Azúcar",
+      "7.5 g Gelatina sin sabor disuelta en 50 ml de agua tibia",
+      "20 ml Licor de naranja",
+      "20 ml Jugo de naranja natural"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-18"
+  },
+  {
+    "id": "cl:panna-cotta-de-duraznos-y-cerezas-1",
+    "title": "Panna cotta de duraznos y cerezas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/panna-cotta-de-duraznos-y-cerezas-1",
+    "machine": null,
+    "original_ingredients": [
+      "185 ml Leche entera",
+      "560 ml Crema",
+      "100 g Azúcar",
+      "375 ml Puré de durazno",
+      "1 1/2 taza duraznos cortados en cubos",
+      "8 hojas Colapez",
+      "300 g Cerezas sin carozo",
+      "75 g Azúcar flor"
+    ],
+    "ingredients_display": [
+      "185 ml Leche entera",
+      "560 ml Crema",
+      "100 g Azúcar",
+      "375 ml Puré de durazno",
+      "1 1/2 taza duraznos cortados en cubos",
+      "8 hojas Colapez",
+      "300 g Cerezas sin carozo",
+      "75 g Azúcar flor"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-18"
   }
 ]
