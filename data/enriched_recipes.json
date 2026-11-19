@@ -6860,5 +6860,367 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-18"
+  },
+  {
+    "id": "cl:panqueques-de-espinaca-rellenos-con-pollo",
+    "title": "Panqueques de espinaca rellenos con pollo",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/panqueques-de-espinaca-rellenos-con-pollo",
+    "machine": null,
+    "original_ingredients": [
+      "150 g Espinaca sin tallos",
+      "3 Huevos",
+      "200 g Harina",
+      "300 ml Leche entera",
+      "75 g Mantequilla derretida",
+      "1 Cebolla cortada en cuatro",
+      "30 ml Aceite de oliva",
+      "800 g Filetes de pollo cortados en cubos",
+      "400 g Champiñones laminados",
+      "800 ml Salsa bechamel",
+      "80 g Queso parmesano rallado",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "150 g Espinaca sin tallos",
+      "3 Huevos",
+      "200 g Harina",
+      "300 ml Leche entera",
+      "75 g Mantequilla derretida",
+      "1 Cebolla cortada en cuatro",
+      "30 ml Aceite de oliva",
+      "800 g Filetes de pollo cortados en cubos",
+      "400 g Champiñones laminados",
+      "800 ml Salsa bechamel",
+      "80 g Queso parmesano rallado",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-19"
+  },
+  {
+    "id": "cl:panqueques-veganos-de-garbanzo",
+    "title": "Panqueques veganos de garbanzo",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/panqueques-veganos-de-garbanzo",
+    "machine": null,
+    "original_ingredients": [
+      "440 ml Leche vegetal sin azúcar",
+      "200 g Harina de garbanzo",
+      "1 pizca Sal"
+    ],
+    "ingredients_display": [
+      "440 ml Leche vegetal sin azúcar",
+      "200 g Harina de garbanzo",
+      "1 pizca Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-19"
+  },
+  {
+    "id": "cl:papas-a-la-crema-con-salsa-de-coliflor",
+    "title": "Papas a la crema con salsa de coliflor",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/papas-a-la-crema-con-salsa-de-coliflor",
+    "machine": null,
+    "original_ingredients": [
+      "2 Kg Papa",
+      "700 g Coliflor",
+      "400 g Cebolla pelada y trozada",
+      "6 g Ajo",
+      "15 ml Aceite de oliva",
+      "1 L Leche descremada",
+      "Sal",
+      "Pimienta",
+      "Merkén",
+      "700 ml Agua"
+    ],
+    "ingredients_display": [
+      "2 Kg Papa",
+      "700 g Coliflor",
+      "400 g Cebolla pelada y trozada",
+      "6 g Ajo",
+      "15 ml Aceite de oliva",
+      "1 L Leche descremada",
+      "Sal",
+      "Pimienta",
+      "Merkén",
+      "700 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-19"
+  },
+  {
+    "id": "cl:papas-a-la-huancaina-1",
+    "title": "Papas a la huancaína",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/papas-a-la-huancaina-1",
+    "machine": null,
+    "original_ingredients": [
+      "1 Cebolla pelada y trozada",
+      "2 Dientes de ajo",
+      "3 cucharadas Aceite de maravilla",
+      "250 ml Leche evaporada",
+      "200 g Queso fresco cortado en cubos",
+      "5 Galletas de soda",
+      "3 cucharadas Pasta de ají amarilla",
+      "6 Papas peladas y cortadas en rodajas"
+    ],
+    "ingredients_display": [
+      "1 Cebolla pelada y trozada",
+      "2 Dientes de ajo",
+      "3 cucharadas Aceite de maravilla",
+      "250 ml Leche evaporada",
+      "200 g Queso fresco cortado en cubos",
+      "5 Galletas de soda",
+      "3 cucharadas Pasta de ají amarilla",
+      "6 Papas peladas y cortadas en rodajas"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-19"
+  },
+  {
+    "id": "cl:papas-duquesas",
+    "title": "Papas duquesas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/papas-duquesas",
+    "machine": null,
+    "original_ingredients": [
+      "800 g Papas peladas y cortadas en cubos",
+      "140 g Harina sin polvos de hornear",
+      "70 g Harina integral",
+      "2 Yemas de huevo",
+      "20 ml Aceite de oliva",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "800 g Papas peladas y cortadas en cubos",
+      "140 g Harina sin polvos de hornear",
+      "70 g Harina integral",
+      "2 Yemas de huevo",
+      "20 ml Aceite de oliva",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-19"
+  },
+  {
+    "id": "cl:papas-fritas-a-la-crema-1",
+    "title": "PAPAS FRITAS A LA CREMA",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/papas-fritas-a-la-crema-1",
+    "machine": null,
+    "original_ingredients": [
+      "400 g Papas fritas",
+      "150 g Queso parmesano",
+      "80 g Mantequilla",
+      "80 g Harina",
+      "1 L Leche",
+      "1/2 cucharadita Sal",
+      "2 pizca Pimienta molida negra Edra®",
+      "2 pizca Nuez moscada molida",
+      "1 Crema"
+    ],
+    "ingredients_display": [
+      "400 g Papas fritas",
+      "150 g Queso parmesano",
+      "80 g Mantequilla",
+      "80 g Harina",
+      "1 L Leche",
+      "1/2 cucharadita Sal",
+      "2 pizca Pimienta molida negra Edra®",
+      "2 pizca Nuez moscada molida",
+      "1 Crema"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-19"
+  },
+  {
+    "id": "cl:parfait-de-navidad",
+    "title": "Parfait de navidad",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/parfait-de-navidad",
+    "machine": null,
+    "original_ingredients": [
+      "125 g Chocolate amargo trozado",
+      "500 ml Crema muy fría",
+      "Jugo y ralladura de 1 naranja",
+      "40 ml Oporto",
+      "125 g Pasas sultaninas",
+      "125 g Ciruelas sin carozo cortadas en cuatro",
+      "125 g Azúcar rubia",
+      "Especias a elección (canela, nuez moscada, clavo de olor, entre otros) a gusto",
+      "4 Huevos",
+      "20 g Azúcar"
+    ],
+    "ingredients_display": [
+      "125 g Chocolate amargo trozado",
+      "500 ml Crema muy fría",
+      "Jugo y ralladura de 1 naranja",
+      "40 ml Oporto",
+      "125 g Pasas sultaninas",
+      "125 g Ciruelas sin carozo cortadas en cuatro",
+      "125 g Azúcar rubia",
+      "Especias a elección (canela, nuez moscada, clavo de olor, entre otros) a gusto",
+      "4 Huevos",
+      "20 g Azúcar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-19"
+  },
+  {
+    "id": "cl:parfait-de-nuez-1",
+    "title": "Parfait de nuez",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/parfait-de-nuez-1",
+    "machine": null,
+    "original_ingredients": [
+      "1 taza Nueces",
+      "200 g Azúcar",
+      "3 Claras de huevo a temperatura ambiente con una pizca de sal",
+      "3 Yemas de huevo",
+      "120 g Azúcar",
+      "250 ml Crema muy fría"
+    ],
+    "ingredients_display": [
+      "1 taza Nueces",
+      "200 g Azúcar",
+      "3 Claras de huevo a temperatura ambiente con una pizca de sal",
+      "3 Yemas de huevo",
+      "120 g Azúcar",
+      "250 ml Crema muy fría"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-19"
+  },
+  {
+    "id": "cl:pascualina-saludable",
+    "title": "Pascualina saludable",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pascualina-saludable",
+    "machine": null,
+    "original_ingredients": [
+      "1 L Agua",
+      "240 g Espárragos",
+      "200 g Tomates cherry cortados en cuatro",
+      "200 g Champiñones picados",
+      "200 g Jamón de pavo cortado en cubos",
+      "200 ml Yogur natural descremado",
+      "90 g Cebollín trozado",
+      "10 ml Aceite",
+      "Sal",
+      "Pimienta",
+      "4 Huevos"
+    ],
+    "ingredients_display": [
+      "1 L Agua",
+      "240 g Espárragos",
+      "200 g Tomates cherry cortados en cuatro",
+      "200 g Champiñones picados",
+      "200 g Jamón de pavo cortado en cubos",
+      "200 ml Yogur natural descremado",
+      "90 g Cebollín trozado",
+      "10 ml Aceite",
+      "Sal",
+      "Pimienta",
+      "4 Huevos"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-19"
+  },
+  {
+    "id": "cl:pasta-de-roquefort-y-nueces",
+    "title": "Pasta de roquefort y nueces",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pasta-de-roquefort-y-nueces",
+    "machine": null,
+    "original_ingredients": [
+      "200 g Queso Roquefort blando",
+      "1 Queso crema",
+      "60 g Nueces"
+    ],
+    "ingredients_display": [
+      "200 g Queso Roquefort blando",
+      "1 Queso crema",
+      "60 g Nueces"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-19"
+  },
+  {
+    "id": "cl:pasta-de-salmon",
+    "title": "Pasta de salmón",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pasta-de-salmon",
+    "machine": null,
+    "original_ingredients": [
+      "100 g Salmón ahumado",
+      "200 g Queso crema",
+      "Perejil",
+      "Eneldo"
+    ],
+    "ingredients_display": [
+      "100 g Salmón ahumado",
+      "200 g Queso crema",
+      "Perejil",
+      "Eneldo"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-19"
+  },
+  {
+    "id": "cl:pastel-de-choclo-1",
+    "title": "Pastel de choclo",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pastel-de-choclo-1",
+    "machine": null,
+    "original_ingredients": [
+      "5 Choclos pasteleros desgranados",
+      "200 ml Leche",
+      "8 hojas Albahaca",
+      "25 g Mantequilla",
+      "Sal",
+      "Azúcar para gratinar",
+      "4 Huevos duros"
+    ],
+    "ingredients_display": [
+      "5 Choclos pasteleros desgranados",
+      "200 ml Leche",
+      "8 hojas Albahaca",
+      "25 g Mantequilla",
+      "Sal",
+      "Azúcar para gratinar",
+      "4 Huevos duros"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-19"
   }
 ]
