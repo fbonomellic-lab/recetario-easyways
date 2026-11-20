@@ -7222,5 +7222,365 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-19"
+  },
+  {
+    "id": "cl:pate-de-alcachofas",
+    "title": "Paté de alcachofas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pate-de-alcachofas",
+    "machine": null,
+    "original_ingredients": [
+      "6 corazones de Alcachofas cocidos",
+      "75 g Maní salado",
+      "75 g Nueces",
+      "1 Diente de ajo",
+      "1 cucharada Tahini",
+      "20 g Perejil",
+      "50 ml Aceite de oliva",
+      "1 cucharadita Pimienta blanca",
+      "50 ml Agua",
+      "1 cucharadita Sal",
+      "1 cucharadita Sésamo negro para decorar"
+    ],
+    "ingredients_display": [
+      "6 corazones de Alcachofas cocidos",
+      "75 g Maní salado",
+      "75 g Nueces",
+      "1 Diente de ajo",
+      "1 cucharada Tahini",
+      "20 g Perejil",
+      "50 ml Aceite de oliva",
+      "1 cucharadita Pimienta blanca",
+      "50 ml Agua",
+      "1 cucharadita Sal",
+      "1 cucharadita Sésamo negro para decorar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-20"
+  },
+  {
+    "id": "cl:pate-de-higaditos-de-pollo",
+    "title": "Paté de higaditos de pollo",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pate-de-higaditos-de-pollo",
+    "machine": null,
+    "original_ingredients": [
+      "250 g Higaditos de pollo lavados y sin nervios",
+      "100 g Pollo trozado",
+      "250 g Mantequilla blanda",
+      "150 ml Vino blanco",
+      "20 ml Jerez u oporto",
+      "1 hoja Laurel",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "250 g Higaditos de pollo lavados y sin nervios",
+      "100 g Pollo trozado",
+      "250 g Mantequilla blanda",
+      "150 ml Vino blanco",
+      "20 ml Jerez u oporto",
+      "1 hoja Laurel",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-20"
+  },
+  {
+    "id": "cl:pate-de-zanahoria",
+    "title": "Paté de zanahoria",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pate-de-zanahoria",
+    "machine": null,
+    "original_ingredients": [
+      "350 g Zanahoria",
+      "150 g Cebolla trozada",
+      "50 g Nueces",
+      "10 g Ajo",
+      "15 ml Aceite de oliva para el sofrito",
+      "30 ml Aceite de oliva",
+      "Sal",
+      "Pimienta",
+      "500 ml Agua"
+    ],
+    "ingredients_display": [
+      "350 g Zanahoria",
+      "150 g Cebolla trozada",
+      "50 g Nueces",
+      "10 g Ajo",
+      "15 ml Aceite de oliva para el sofrito",
+      "30 ml Aceite de oliva",
+      "Sal",
+      "Pimienta",
+      "500 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-20"
+  },
+  {
+    "id": "cl:pebre-de-champinones-1",
+    "title": "Pebre de champiñones",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pebre-de-champinones-1",
+    "machine": null,
+    "original_ingredients": [
+      "450 g Champiñones",
+      "1 Tomate cortado en cuatro",
+      "1/2 Cebolla trozada",
+      "50 g Perejil",
+      "1 Ají verde",
+      "Jugo de 2 limones",
+      "50 ml Aceite de oliva",
+      "1 cucharada Sal",
+      "1 cucharadita Pimienta",
+      "1 cucharadita Ajo en polvo"
+    ],
+    "ingredients_display": [
+      "450 g Champiñones",
+      "1 Tomate cortado en cuatro",
+      "1/2 Cebolla trozada",
+      "50 g Perejil",
+      "1 Ají verde",
+      "Jugo de 2 limones",
+      "50 ml Aceite de oliva",
+      "1 cucharada Sal",
+      "1 cucharadita Pimienta",
+      "1 cucharadita Ajo en polvo"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-20"
+  },
+  {
+    "id": "cl:pechugas-de-pollo-a-la-crema",
+    "title": "Pechugas de pollo a la crema",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pechugas-de-pollo-a-la-crema",
+    "machine": null,
+    "original_ingredients": [
+      "150 g Cebolla",
+      "50 ml Aceite",
+      "800 g Filetitos de pollo cortados en cubos",
+      "200 ml Crema",
+      "70 ml Vino blanco",
+      "200 g Champiñones cortados en cuatro",
+      "1/2 hojas Laurel"
+    ],
+    "ingredients_display": [
+      "150 g Cebolla",
+      "50 ml Aceite",
+      "800 g Filetitos de pollo cortados en cubos",
+      "200 ml Crema",
+      "70 ml Vino blanco",
+      "200 g Champiñones cortados en cuatro",
+      "1/2 hojas Laurel"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-20"
+  },
+  {
+    "id": "cl:pesto-de-tomates-deshidratados-1",
+    "title": "Pesto de tomates deshidratados",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pesto-de-tomates-deshidratados-1",
+    "machine": null,
+    "original_ingredients": [
+      "70 g Tomates deshidratados",
+      "50 g Queso parmesano",
+      "2 tazas Albahaca fresca",
+      "300 ml Aceite de oliva",
+      "1 Pimentón en conserva",
+      "120 g Nueces"
+    ],
+    "ingredients_display": [
+      "70 g Tomates deshidratados",
+      "50 g Queso parmesano",
+      "2 tazas Albahaca fresca",
+      "300 ml Aceite de oliva",
+      "1 Pimentón en conserva",
+      "120 g Nueces"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-20"
+  },
+  {
+    "id": "cl:pie-de-lemon-curd",
+    "title": "Pie de lemón curd",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pie-de-lemon-curd",
+    "machine": null,
+    "original_ingredients": [
+      "300 g Azúcar",
+      "Cáscara de 2 limones",
+      "120 g Mantequilla a temperatura ambiente",
+      "160 ml Jugo de limón",
+      "6 Huevos",
+      "120 g Azúcar",
+      "250 g Harina sin polvos de hornear",
+      "130 g Mantequilla blanda",
+      "1 Huevo"
+    ],
+    "ingredients_display": [
+      "300 g Azúcar",
+      "Cáscara de 2 limones",
+      "120 g Mantequilla a temperatura ambiente",
+      "160 ml Jugo de limón",
+      "6 Huevos",
+      "120 g Azúcar",
+      "250 g Harina sin polvos de hornear",
+      "130 g Mantequilla blanda",
+      "1 Huevo"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-20"
+  },
+  {
+    "id": "cl:pie-de-limon",
+    "title": "Pie de limón",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pie-de-limon",
+    "machine": null,
+    "original_ingredients": [
+      "397 g Leche condensada",
+      "100 ml Jugo de limón",
+      "2 Yemas de huevo"
+    ],
+    "ingredients_display": [
+      "397 g Leche condensada",
+      "100 ml Jugo de limón",
+      "2 Yemas de huevo"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-20"
+  },
+  {
+    "id": "cl:pimentones-rellenos-de-quinoa-tricolor",
+    "title": "Pimentones rellenos de quinoa tricolor",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pimentones-rellenos-de-quinoa-tricolor",
+    "machine": null,
+    "original_ingredients": [
+      "400 g Pimentón verde, rojo y/o amarillo",
+      "300 g Cebolla cortada en cuatro",
+      "250 g Carne molida",
+      "70 g Quinoa tricolor",
+      "100 g Tomates en conserva",
+      "300 ml Agua",
+      "1 Diente de ajo",
+      "Sal",
+      "Pimienta",
+      "Orégano",
+      "800 ml Agua",
+      "30 ml Aceite de oliva"
+    ],
+    "ingredients_display": [
+      "400 g Pimentón verde, rojo y/o amarillo",
+      "300 g Cebolla cortada en cuatro",
+      "250 g Carne molida",
+      "70 g Quinoa tricolor",
+      "100 g Tomates en conserva",
+      "300 ml Agua",
+      "1 Diente de ajo",
+      "Sal",
+      "Pimienta",
+      "Orégano",
+      "800 ml Agua",
+      "30 ml Aceite de oliva"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-20"
+  },
+  {
+    "id": "cl:pina-al-jugo-1",
+    "title": "Piña al jugo",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pina-al-jugo-1",
+    "machine": null,
+    "original_ingredients": [
+      "500 ml Agua",
+      "1 Piña fresca",
+      "250 g Azúcar"
+    ],
+    "ingredients_display": [
+      "500 ml Agua",
+      "1 Piña fresca",
+      "250 g Azúcar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-20"
+  },
+  {
+    "id": "cl:pina-colada",
+    "title": "Piña colada",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pina-colada",
+    "machine": null,
+    "original_ingredients": [
+      "560 g Piña en conserva cortada en rodajas",
+      "240 g Crema de coco",
+      "20 ml Ron dorado por vaso",
+      "600 g Hielo casero"
+    ],
+    "ingredients_display": [
+      "560 g Piña en conserva cortada en rodajas",
+      "240 g Crema de coco",
+      "20 ml Ron dorado por vaso",
+      "600 g Hielo casero"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-20"
+  },
+  {
+    "id": "cl:pizzetas-de-momia-1",
+    "title": "Pizzetas de momia",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pizzetas-de-momia-1",
+    "machine": null,
+    "original_ingredients": [
+      "400 g Harina integral",
+      "240 ml Agua",
+      "200 ml Salsa de tomate natural",
+      "200 g Queso granulado",
+      "120 ml Aceite de oliva",
+      "80 g Aceitunas negras descarozadas cortadas en rodajas",
+      "10 g Orégano deshidratado",
+      "5 g Sal"
+    ],
+    "ingredients_display": [
+      "400 g Harina integral",
+      "240 ml Agua",
+      "200 ml Salsa de tomate natural",
+      "200 g Queso granulado",
+      "120 ml Aceite de oliva",
+      "80 g Aceitunas negras descarozadas cortadas en rodajas",
+      "10 g Orégano deshidratado",
+      "5 g Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-20"
   }
 ]

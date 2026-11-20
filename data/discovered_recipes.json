@@ -456,6 +456,14 @@
     "first_seen": "2026-10-24"
   },
   {
+    "id": "ar:galletas-de-chocolate-blanco",
+    "title": "Galletas de chocolate blanco \n                         Masas / Queques / Panes, Navidad",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/galletas-de-chocolate-blanco",
+    "first_seen": "2026-11-20"
+  },
+  {
     "id": "ar:galletas-de-pasas-y-naranja",
     "title": "Galletas de pasas y naranja \n                         Masas / Queques / Panes",
     "country": "AR",
@@ -526,6 +534,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/hamburguesas-de-carne",
     "first_seen": "2026-10-25"
+  },
+  {
+    "id": "ar:hamburguesas-de-cochayuyo",
+    "title": "Hamburguesas de cochayuyo \n                         Platos de Fondo, Nuevas, Platos de Fondo, Nuevas, Vegetarianos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/hamburguesas-de-cochayuyo",
+    "first_seen": "2026-11-20"
   },
   {
     "id": "ar:hamburguesas-de-lentejas",
@@ -686,6 +702,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/madeleines-de-limon-y-chia",
     "first_seen": "2026-11-15"
+  },
+  {
+    "id": "ar:madeleines-de-naranja-y-coco",
+    "title": "Madeleines de naranja y coco \n                         Nuevas, Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/madeleines-de-naranja-y-coco",
+    "first_seen": "2026-11-20"
   },
   {
     "id": "ar:manjarate",
@@ -1254,6 +1278,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/tarta-de-nuez-sin-gluten-azucar-ni-lacteos",
     "first_seen": "2026-10-24"
+  },
+  {
+    "id": "ar:tarta-fria-de-salmon",
+    "title": "Tarta fría de salmón \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/tarta-fria-de-salmon",
+    "first_seen": "2026-11-20"
   },
   {
     "id": "ar:tarte-tatin-de-membrillos-al-vino-tinto",
