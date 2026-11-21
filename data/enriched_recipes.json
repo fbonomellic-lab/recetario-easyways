@@ -7582,5 +7582,353 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-20"
+  },
+  {
+    "id": "cl:polenta-cremosa",
+    "title": "Polenta cremosa",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/polenta-cremosa",
+    "machine": null,
+    "original_ingredients": [
+      "Pimienta",
+      "Sal",
+      "1 hoja Laurel",
+      "6 hojas Albahaca picadas",
+      "30 ml Aceite de oliva",
+      "70 g Polenta",
+      "100 g Ricota light",
+      "100 g Cebolla trozada",
+      "150 g Tomates cherry cortados en cuatro",
+      "260 ml Leche descremada",
+      "260 ml Agua"
+    ],
+    "ingredients_display": [
+      "Pimienta",
+      "Sal",
+      "1 hoja Laurel",
+      "6 hojas Albahaca picadas",
+      "30 ml Aceite de oliva",
+      "70 g Polenta",
+      "100 g Ricota light",
+      "100 g Cebolla trozada",
+      "150 g Tomates cherry cortados en cuatro",
+      "260 ml Leche descremada",
+      "260 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-21"
+  },
+  {
+    "id": "cl:pollo-a-la-cantonesa-2",
+    "title": "Pollo a la cantonesa",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pollo-a-la-cantonesa-2",
+    "machine": null,
+    "original_ingredients": [
+      "800 g Filetitos de pollo cortados en tiras",
+      "150 g Cebollines",
+      "50 ml Aceite de maravilla",
+      "400 g Tomates en conserva cortados en cubos",
+      "70 ml Salsa de soya",
+      "1 cucharadita Azúcar",
+      "1 cucharadita Maicena (opcional)"
+    ],
+    "ingredients_display": [
+      "800 g Filetitos de pollo cortados en tiras",
+      "150 g Cebollines",
+      "50 ml Aceite de maravilla",
+      "400 g Tomates en conserva cortados en cubos",
+      "70 ml Salsa de soya",
+      "1 cucharadita Azúcar",
+      "1 cucharadita Maicena (opcional)"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-21"
+  },
+  {
+    "id": "cl:pollo-al-vapor-1",
+    "title": "Pollo al vapor",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pollo-al-vapor-1",
+    "machine": null,
+    "original_ingredients": [
+      "800 g Pechuga de pollo trozada",
+      "60 ml Jugo de limón",
+      "60 g Mostaza",
+      "2 g Orégano",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "800 g Pechuga de pollo trozada",
+      "60 ml Jugo de limón",
+      "60 g Mostaza",
+      "2 g Orégano",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-21"
+  },
+  {
+    "id": "cl:pollo-oriental-al-vapor",
+    "title": "Pollo oriental al vapor",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/pollo-oriental-al-vapor",
+    "machine": null,
+    "original_ingredients": [
+      "800 g Pechuga de pollo cortada en cubos",
+      "100 ml Jugo de mandarinas o naranja",
+      "100 g Zanahoria trozada",
+      "100 g Cebollín trozado",
+      "30 ml Miel",
+      "30 ml Salsa de soya light",
+      "20 g Maicena disuelta en agua",
+      "5 g Jengibre rallado",
+      "5 g Ralladura de mandarina o naranja",
+      "1 Ajo picado fino",
+      "Sal de mar",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "800 g Pechuga de pollo cortada en cubos",
+      "100 ml Jugo de mandarinas o naranja",
+      "100 g Zanahoria trozada",
+      "100 g Cebollín trozado",
+      "30 ml Miel",
+      "30 ml Salsa de soya light",
+      "20 g Maicena disuelta en agua",
+      "5 g Jengibre rallado",
+      "5 g Ralladura de mandarina o naranja",
+      "1 Ajo picado fino",
+      "Sal de mar",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-21"
+  },
+  {
+    "id": "cl:porotos-con-mazamorra-4",
+    "title": "Porotos con mazamorra",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/porotos-con-mazamorra-4",
+    "machine": null,
+    "original_ingredients": [
+      "400 g Choclo",
+      "3/4 taza Hojas de albahaca",
+      "1 Cebolla pelada y trozada",
+      "2 Dientes de ajo pelados",
+      "30 ml Aceite",
+      "1 Tomate pelado y cortado en cubos",
+      "750 g Porotos granados",
+      "1 L Caldo de pollo o verduras",
+      "1 cucharadita Orégano",
+      "1/2 cucharadita Ají de color o paprika"
+    ],
+    "ingredients_display": [
+      "400 g Choclo",
+      "3/4 taza Hojas de albahaca",
+      "1 Cebolla pelada y trozada",
+      "2 Dientes de ajo pelados",
+      "30 ml Aceite",
+      "1 Tomate pelado y cortado en cubos",
+      "750 g Porotos granados",
+      "1 L Caldo de pollo o verduras",
+      "1 cucharadita Orégano",
+      "1/2 cucharadita Ají de color o paprika"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-21"
+  },
+  {
+    "id": "cl:porotos-negros-1",
+    "title": "Porotos negros",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/porotos-negros-1",
+    "machine": null,
+    "original_ingredients": [
+      "380 g Porotos negros",
+      "15 g Sal",
+      "1 cucharadita Bicarbonato de sodio",
+      "1 Cebolla pelada y trozada",
+      "3 Ramas de cilantro",
+      "1 Zanahoria trozada",
+      "3 Dientes de ajo pelados",
+      "30 ml Aceite de oliva",
+      "1.5 Caldo de pollo o verduras",
+      "1 cucharadita Orégano deshidratado"
+    ],
+    "ingredients_display": [
+      "380 g Porotos negros",
+      "15 g Sal",
+      "1 cucharadita Bicarbonato de sodio",
+      "1 Cebolla pelada y trozada",
+      "3 Ramas de cilantro",
+      "1 Zanahoria trozada",
+      "3 Dientes de ajo pelados",
+      "30 ml Aceite de oliva",
+      "1.5 Caldo de pollo o verduras",
+      "1 cucharadita Orégano deshidratado"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-21"
+  },
+  {
+    "id": "cl:porridge-de-avena",
+    "title": "Porridge de avena",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/porridge-de-avena",
+    "machine": null,
+    "original_ingredients": [
+      "400 ml Leche descremada",
+      "80 g Avena tradicional (no instantánea)",
+      "1 ramita Canela"
+    ],
+    "ingredients_display": [
+      "400 ml Leche descremada",
+      "80 g Avena tradicional (no instantánea)",
+      "1 ramita Canela"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-21"
+  },
+  {
+    "id": "cl:postre-de-chocolate-blanco",
+    "title": "Postre de chocolate blanco",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/postre-de-chocolate-blanco",
+    "machine": null,
+    "original_ingredients": [
+      "400 g Chocolate blanco trozado",
+      "227 g Queso crema a temperatura ambiente",
+      "400 ml Crema"
+    ],
+    "ingredients_display": [
+      "400 g Chocolate blanco trozado",
+      "227 g Queso crema a temperatura ambiente",
+      "400 ml Crema"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-21"
+  },
+  {
+    "id": "cl:postre-helado-de-limon-o-helado-de-invierno",
+    "title": "Postre helado de limón o helado de invierno",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/postre-helado-de-limon-o-helado-de-invierno",
+    "machine": null,
+    "original_ingredients": [
+      "375 ml Leche evaporada muy fría",
+      "397 g Leche condensada",
+      "150 ml Jugo de limón"
+    ],
+    "ingredients_display": [
+      "375 ml Leche evaporada muy fría",
+      "397 g Leche condensada",
+      "150 ml Jugo de limón"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-21"
+  },
+  {
+    "id": "cl:postre-tres-leches",
+    "title": "Postre tres leches",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/postre-tres-leches",
+    "machine": null,
+    "original_ingredients": [
+      "4 Huevos",
+      "1 pizca Sal",
+      "120 g Azúcar",
+      "120 g Harina sin polvos de hornear",
+      "397 g Leche condensada",
+      "375 ml Leche evaporada",
+      "2 cucharadas Manjar"
+    ],
+    "ingredients_display": [
+      "4 Huevos",
+      "1 pizca Sal",
+      "120 g Azúcar",
+      "120 g Harina sin polvos de hornear",
+      "397 g Leche condensada",
+      "375 ml Leche evaporada",
+      "2 cucharadas Manjar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-21"
+  },
+  {
+    "id": "cl:postre-tres-leches-de-chocolate",
+    "title": "Postre tres leches de chocolate",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/postre-tres-leches-de-chocolate",
+    "machine": null,
+    "original_ingredients": [
+      "4 Huevos",
+      "120 g Azúcar",
+      "20 ml Esencia de vainilla",
+      "120 g Harina sin polvos de hornear",
+      "2 cucharadas Cacao amargo en polvo",
+      "397 g Leche condensada",
+      "375 ml Leche evaporada",
+      "100 ml Crema",
+      "150 g Chocolate amargo trozado"
+    ],
+    "ingredients_display": [
+      "4 Huevos",
+      "120 g Azúcar",
+      "20 ml Esencia de vainilla",
+      "120 g Harina sin polvos de hornear",
+      "2 cucharadas Cacao amargo en polvo",
+      "397 g Leche condensada",
+      "375 ml Leche evaporada",
+      "100 ml Crema",
+      "150 g Chocolate amargo trozado"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-21"
+  },
+  {
+    "id": "cl:prestigio-1",
+    "title": "Prestigio",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/prestigio-1",
+    "machine": null,
+    "original_ingredients": [
+      "150 g Chocolate de leche trozado",
+      "100 g Coco rallado",
+      "397 g Leche condensada"
+    ],
+    "ingredients_display": [
+      "150 g Chocolate de leche trozado",
+      "100 g Coco rallado",
+      "397 g Leche condensada"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-21"
   }
 ]

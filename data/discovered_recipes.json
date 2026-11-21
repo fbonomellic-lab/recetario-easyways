@@ -80,6 +80,14 @@
     "first_seen": "2026-10-26"
   },
   {
+    "id": "ar:barra-granola-saludable",
+    "title": "Barra granola saludable \n                         Nutrirecetas, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/barra-granola-saludable",
+    "first_seen": "2026-11-21"
+  },
+  {
     "id": "ar:barritas-de-avena-chips-de-chocolate-y-frutos-secos",
     "title": "Barritas de avena, chips de chocolate y frutos secos \n                         Mermeladas / Dulces",
     "country": "AR",
@@ -318,6 +326,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/cupcakes-del-terror",
     "first_seen": "2026-11-04"
+  },
+  {
+    "id": "ar:cupcakes-navidenos-de-jengibre",
+    "title": "Cupcakes navideños de jengibre \n                         Nuevas, Nutrirecetas, Masas / Queques / Panes, Navidad",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/cupcakes-navidenos-de-jengibre",
+    "first_seen": "2026-11-21"
   },
   {
     "id": "ar:curry-de-carne",
@@ -1032,6 +1048,14 @@
     "first_seen": "2026-10-29"
   },
   {
+    "id": "ar:puerros-a-la-crema",
+    "title": "Puerros a la crema \n                         Platos de Fondo, Platos de Fondo, Vegetarianos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/puerros-a-la-crema",
+    "first_seen": "2026-11-21"
+  },
+  {
     "id": "ar:pumpkin-spice-latte",
     "title": "Pumpkin spice latte \n                         Jugos / Bebidas / Tragos",
     "country": "AR",
@@ -1256,6 +1280,14 @@
     "first_seen": "2026-11-09"
   },
   {
+    "id": "ar:strogonoff-de-solomillo-receta-rusa",
+    "title": "Strogonoff de solomillo \"Receta Rusa\" \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/strogonoff-de-solomillo-receta-rusa",
+    "first_seen": "2026-11-21"
+  },
+  {
     "id": "ar:tarta-de-acelga",
     "title": "Tarta de acelga \n                         Platos de Fondo, Nuevas, Nuevas, Platos de Fondo, Vegetarianos",
     "country": "AR",
@@ -1270,6 +1302,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/tarta-de-maracuya",
     "first_seen": "2026-11-02"
+  },
+  {
+    "id": "ar:tarta-de-naranjas-y-clementinas",
+    "title": "Tarta de naranjas y clementinas \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/tarta-de-naranjas-y-clementinas",
+    "first_seen": "2026-11-21"
   },
   {
     "id": "ar:tarta-de-nuez-sin-gluten-azucar-ni-lacteos",
