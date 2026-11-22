@@ -408,6 +408,14 @@
     "first_seen": "2026-11-14"
   },
   {
+    "id": "ar:figuras-de-mazapan-vegano",
+    "title": "Figuras de mazapán vegano \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/figuras-de-mazapan-vegano",
+    "first_seen": "2026-11-22"
+  },
+  {
     "id": "ar:filete-a-la-sal",
     "title": "Filete a la sal \n                         Platos de Fondo",
     "country": "AR",
@@ -478,6 +486,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/galletas-de-chocolate-blanco",
     "first_seen": "2026-11-20"
+  },
+  {
+    "id": "ar:galletas-de-jengibre",
+    "title": "Galletas de jengibre \n                         Masas / Queques / Panes, Navidad",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/galletas-de-jengibre",
+    "first_seen": "2026-11-22"
   },
   {
     "id": "ar:galletas-de-pasas-y-naranja",
@@ -944,6 +960,14 @@
     "first_seen": "2026-11-09"
   },
   {
+    "id": "ar:parfait-de-navidad",
+    "title": "Parfait de navidad \n                         Postres, Navidad",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/parfait-de-navidad",
+    "first_seen": "2026-11-22"
+  },
+  {
     "id": "ar:pate-de-lentejas-al-curry",
     "title": "Paté de lentejas al curry \n                         Entradas / Salsas / Aperitivos, Nutrirecetas",
     "country": "AR",
@@ -1200,6 +1224,14 @@
     "first_seen": "2026-10-29"
   },
   {
+    "id": "ar:salsa-bechamel-facil-y-rapida",
+    "title": "Salsa bechamel fácil y rápida \n                         Entradas / Salsas / Aperitivos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/salsa-bechamel-facil-y-rapida",
+    "first_seen": "2026-11-22"
+  },
+  {
     "id": "ar:salsa-de-bechamel-de-quinoa",
     "title": "Salsa bechamel de quinoa \n                         Entradas / Salsas / Aperitivos, Nutrirecetas",
     "country": "AR",
@@ -1230,6 +1262,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/salsa-tzatziki",
     "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:sandwich-de-helado-de-frutilla-menta-y-jengibre",
+    "title": "Sándwich de helado de frutilla, menta y jengibre \n                         Postres, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/sandwich-de-helado-de-frutilla-menta-y-jengibre",
+    "first_seen": "2026-11-22"
   },
   {
     "id": "ar:semola-con-salsa-de-vino-tinto",
