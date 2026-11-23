@@ -352,6 +352,14 @@
     "first_seen": "2026-10-29"
   },
   {
+    "id": "ar:dip-de-semillas-de-girasol-y-cilantro",
+    "title": "Dip de semillas de girasol y cilantro \n                         Nutrirecetas, Entradas / Salsas / Aperitivos, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/dip-de-semillas-de-girasol-y-cilantro",
+    "first_seen": "2026-11-23"
+  },
+  {
     "id": "ar:dressing-keto-de-queso-azul",
     "title": "Dressing Keto de queso azul \n                         Entradas / Salsas / Aperitivos",
     "country": "AR",
@@ -480,6 +488,14 @@
     "first_seen": "2026-10-24"
   },
   {
+    "id": "ar:galletas-de-chocolate",
+    "title": "Galletas de chocolate \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/galletas-de-chocolate",
+    "first_seen": "2026-11-23"
+  },
+  {
     "id": "ar:galletas-de-chocolate-blanco",
     "title": "Galletas de chocolate blanco \n                         Masas / Queques / Panes, Navidad",
     "country": "AR",
@@ -536,12 +552,28 @@
     "first_seen": "2026-11-08"
   },
   {
+    "id": "ar:glaseado-para-relleno",
+    "title": "Glaseado para relleno \n                         Mermeladas / Dulces",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/glaseado-para-relleno",
+    "first_seen": "2026-11-23"
+  },
+  {
     "id": "ar:gomitas-de-fruta",
     "title": "Gomitas de fruta \n                         Platos para Niños, Nutrirecetas, Nuevas",
     "country": "AR",
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/gomitas-de-fruta",
     "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:granola-casera",
+    "title": "Granola casera \n                         Postres, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/granola-casera",
+    "first_seen": "2026-11-23"
   },
   {
     "id": "ar:grissinis",
@@ -838,6 +870,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/muffins-de-limon",
     "first_seen": "2026-11-17"
+  },
+  {
+    "id": "ar:noquis-de-ricota",
+    "title": "Ñoquis de ricota \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/noquis-de-ricota",
+    "first_seen": "2026-11-23"
   },
   {
     "id": "ar:nutella-casera",
@@ -1190,6 +1230,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/ricota",
     "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ar:risotto-al-cilantro",
+    "title": "Risotto al cilantro \n                         Platos de Fondo, Nuevas, Nuevas, Platos de Fondo, Vegetarianos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/risotto-al-cilantro",
+    "first_seen": "2026-11-23"
   },
   {
     "id": "ar:risotto-de-camarones-yo-mariscos",
