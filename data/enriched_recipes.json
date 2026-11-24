@@ -8704,5 +8704,361 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-23"
+  },
+  {
+    "id": "cl:risotto-integral-al-vino-tinto",
+    "title": "Risotto integral al vino tinto",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/risotto-integral-al-vino-tinto",
+    "machine": null,
+    "original_ingredients": [
+      "800 ml Caldo de pollo",
+      "350 g Arroz integral",
+      "200 g Champiñones",
+      "150 g Cebolla trozada",
+      "100 ml Vino tinto",
+      "100 g Ricota light",
+      "20 ml Aceite de oliva",
+      "1 pizca Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "800 ml Caldo de pollo",
+      "350 g Arroz integral",
+      "200 g Champiñones",
+      "150 g Cebolla trozada",
+      "100 ml Vino tinto",
+      "100 g Ricota light",
+      "20 ml Aceite de oliva",
+      "1 pizca Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-24"
+  },
+  {
+    "id": "cl:rollitos-de-berenjenas-en-salsa-de-tomates-1",
+    "title": "Rollitos de berenjenas en salsa de tomates",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/rollitos-de-berenjenas-en-salsa-de-tomates-1",
+    "machine": null,
+    "original_ingredients": [
+      "2 L Leche entera",
+      "50 ml Vinagre de manzana",
+      "1 Cebolla",
+      "4 Ajo",
+      "1 cucharadita Orégano deshidratado",
+      "30 ml Aceite de oliva",
+      "1 L Salsa de tomate",
+      "4 Berenjenas",
+      "500 g Espinaca cocida",
+      "80 g Queso parmesano rallado"
+    ],
+    "ingredients_display": [
+      "2 L Leche entera",
+      "50 ml Vinagre de manzana",
+      "1 Cebolla",
+      "4 Ajo",
+      "1 cucharadita Orégano deshidratado",
+      "30 ml Aceite de oliva",
+      "1 L Salsa de tomate",
+      "4 Berenjenas",
+      "500 g Espinaca cocida",
+      "80 g Queso parmesano rallado"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-24"
+  },
+  {
+    "id": "cl:rollo-de-queso-crema-y-pesto",
+    "title": "Rollo de queso crema y pesto",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/rollo-de-queso-crema-y-pesto",
+    "machine": null,
+    "original_ingredients": [
+      "50 g Albahaca",
+      "200 ml Aceite de oliva",
+      "50 g Queso parmesano rallado",
+      "30 g Nueces",
+      "1 Queso crema a temperatura ambiente",
+      "Sal"
+    ],
+    "ingredients_display": [
+      "50 g Albahaca",
+      "200 ml Aceite de oliva",
+      "50 g Queso parmesano rallado",
+      "30 g Nueces",
+      "1 Queso crema a temperatura ambiente",
+      "Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-24"
+  },
+  {
+    "id": "cl:roscos-de-naranja",
+    "title": "Roscos de naranja",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/roscos-de-naranja",
+    "machine": null,
+    "original_ingredients": [
+      "90 g Mantequilla blanda",
+      "150 g Azúcar",
+      "Ralladura de 1 naranja",
+      "20 ml Jugo de naranja natural",
+      "1 Huevo",
+      "1 Yema de huevo",
+      "Esencia de vainilla",
+      "200 g Harina sin polvos de hornear",
+      "10 g Polvos de hornear",
+      "1 pizca Sal"
+    ],
+    "ingredients_display": [
+      "90 g Mantequilla blanda",
+      "150 g Azúcar",
+      "Ralladura de 1 naranja",
+      "20 ml Jugo de naranja natural",
+      "1 Huevo",
+      "1 Yema de huevo",
+      "Esencia de vainilla",
+      "200 g Harina sin polvos de hornear",
+      "10 g Polvos de hornear",
+      "1 pizca Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-24"
+  },
+  {
+    "id": "cl:salsa-alfredo-de-coliflor-1",
+    "title": "Salsa alfredo de coliflor",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/salsa-alfredo-de-coliflor-1",
+    "machine": null,
+    "original_ingredients": [
+      "250 g Coliflor cortado en cubos",
+      "100 g Cebolla cortada en cubos",
+      "250 ml Agua",
+      "200 ml Leche descremada",
+      "20 ml Aceite de oliva",
+      "5 ml Salsa de soya",
+      "1 g Ajo",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "250 g Coliflor cortado en cubos",
+      "100 g Cebolla cortada en cubos",
+      "250 ml Agua",
+      "200 ml Leche descremada",
+      "20 ml Aceite de oliva",
+      "5 ml Salsa de soya",
+      "1 g Ajo",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-24"
+  },
+  {
+    "id": "cl:salsa-bearnaise",
+    "title": "Salsa bearnaise",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/salsa-bearnaise",
+    "machine": null,
+    "original_ingredients": [
+      "200 g Mantequilla",
+      "30 ml Vino blanco",
+      "30 ml Vinagre de vino blanco",
+      "3 Yema de huevo",
+      "Estragón a gusto",
+      "1 Chalota",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "200 g Mantequilla",
+      "30 ml Vino blanco",
+      "30 ml Vinagre de vino blanco",
+      "3 Yema de huevo",
+      "Estragón a gusto",
+      "1 Chalota",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-24"
+  },
+  {
+    "id": "cl:salsa-bechamel-de-quinoa",
+    "title": "Salsa bechamel de quinoa",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/salsa-bechamel-de-quinoa",
+    "machine": null,
+    "original_ingredients": [
+      "450 ml Leche",
+      "50 g Quinoa",
+      "5 ml Aceite de oliva",
+      "Nuez moscada",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "450 ml Leche",
+      "50 g Quinoa",
+      "5 ml Aceite de oliva",
+      "Nuez moscada",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-24"
+  },
+  {
+    "id": "cl:salsa-blanca-o-bechamel",
+    "title": "Salsa blanca o bechamel",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/salsa-blanca-o-bechamel",
+    "machine": null,
+    "original_ingredients": [
+      "Nuez moscada a gusto",
+      "45 g Mantequilla",
+      "500 ml Leche",
+      "45 g Harina",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "Nuez moscada a gusto",
+      "45 g Mantequilla",
+      "500 ml Leche",
+      "45 g Harina",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-24"
+  },
+  {
+    "id": "cl:salsa-de-berries",
+    "title": "Salsa de berries",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/salsa-de-berries",
+    "machine": null,
+    "original_ingredients": [
+      "300 g Frutos del bosque frescos o congelados",
+      "100 g Azúcar",
+      "50 ml Agua"
+    ],
+    "ingredients_display": [
+      "300 g Frutos del bosque frescos o congelados",
+      "100 g Azúcar",
+      "50 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-24"
+  },
+  {
+    "id": "cl:salsa-de-champinones",
+    "title": "Salsa de champiñones",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/salsa-de-champinones",
+    "machine": null,
+    "original_ingredients": [
+      "250 g Champiñones laminados",
+      "50 ml Aceite",
+      "20 g Harina sin polvos de hornear",
+      "50 ml Vino blanco",
+      "150 ml Crema",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "250 g Champiñones laminados",
+      "50 ml Aceite",
+      "20 g Harina sin polvos de hornear",
+      "50 ml Vino blanco",
+      "150 ml Crema",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-24"
+  },
+  {
+    "id": "cl:salsa-holandesa",
+    "title": "Salsa Holandesa",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/salsa-holandesa",
+    "machine": null,
+    "original_ingredients": [
+      "150 g Mantequilla",
+      "60 ml Agua",
+      "3 Yema de huevo",
+      "Jugo de 1/2 limón",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "150 g Mantequilla",
+      "60 ml Agua",
+      "3 Yema de huevo",
+      "Jugo de 1/2 limón",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-24"
+  },
+  {
+    "id": "cl:salsa-para-hamburguesas",
+    "title": "Salsa para hamburguesas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/salsa-para-hamburguesas",
+    "machine": null,
+    "original_ingredients": [
+      "200 g Mayonesa",
+      "150 g Kétchup",
+      "50 g Mostaza amarilla",
+      "3 Pepinillos dill",
+      "1/4 Cebolla",
+      "1 cucharadita Ajo en polvo",
+      "1 cucharadita Ají color",
+      "30 ml Jugo de pepinillos / Vinagre de manzana"
+    ],
+    "ingredients_display": [
+      "200 g Mayonesa",
+      "150 g Kétchup",
+      "50 g Mostaza amarilla",
+      "3 Pepinillos dill",
+      "1/4 Cebolla",
+      "1 cucharadita Ajo en polvo",
+      "1 cucharadita Ají color",
+      "30 ml Jugo de pepinillos / Vinagre de manzana"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-24"
   }
 ]

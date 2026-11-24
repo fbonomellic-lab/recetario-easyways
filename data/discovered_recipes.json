@@ -368,6 +368,14 @@
     "first_seen": "2026-10-29"
   },
   {
+    "id": "ar:dulce-de-membrillo",
+    "title": "Dulce de membrillo \n                         Mermeladas / Dulces",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/dulce-de-membrillo",
+    "first_seen": "2026-11-24"
+  },
+  {
     "id": "ar:empanadas-veggie",
     "title": "Empanadas veggie \n                         Masas / Queques / Panes, Nutrirecetas",
     "country": "AR",
@@ -790,6 +798,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/mantequilla",
     "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:mantequilla-de-mani",
+    "title": "Mantequilla de maní \n                         Entradas / Salsas / Aperitivos, Sólo un Paso",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/mantequilla-de-mani",
+    "first_seen": "2026-11-24"
   },
   {
     "id": "ar:masa-de-empanadas-para-ferir",
@@ -1304,6 +1320,14 @@
     "first_seen": "2026-11-09"
   },
   {
+    "id": "ar:salsa-provenzal",
+    "title": "Salsa Provenzal \n                         Entradas / Salsas / Aperitivos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/salsa-provenzal",
+    "first_seen": "2026-11-24"
+  },
+  {
     "id": "ar:salsa-tzatziki",
     "title": "Salsa Tzatziki \n                         Entradas / Salsas / Aperitivos",
     "country": "AR",
@@ -1342,6 +1366,22 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/sorbete-de-melon",
     "first_seen": "2026-10-26"
+  },
+  {
+    "id": "ar:sorbete-de-naranjas",
+    "title": "Sorbete de naranjas \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/sorbete-de-naranjas",
+    "first_seen": "2026-11-24"
+  },
+  {
+    "id": "ar:souffle-de-choclos",
+    "title": "Soufflé de choclos \n                         Platos de Fondo, Nuevas, Nuevas, Platos de Fondo, Vegetarianos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/souffle-de-choclos",
+    "first_seen": "2026-11-24"
   },
   {
     "id": "ar:strogonoff-de-camarones",
