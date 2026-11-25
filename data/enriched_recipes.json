@@ -9060,5 +9060,361 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-24"
+  },
+  {
+    "id": "cl:salsa-provenzal-1",
+    "title": "Salsa Provenzal",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/salsa-provenzal-1",
+    "machine": null,
+    "original_ingredients": [
+      "120 g Perejil",
+      "5 Dientes de ajo",
+      "100 ml Aceite de oliva",
+      "1 cucharada Sal"
+    ],
+    "ingredients_display": [
+      "120 g Perejil",
+      "5 Dientes de ajo",
+      "100 ml Aceite de oliva",
+      "1 cucharada Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-25"
+  },
+  {
+    "id": "cl:salsa-ranchera",
+    "title": "Salsa Ranchera",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/salsa-ranchera",
+    "machine": null,
+    "original_ingredients": [
+      "200 ml Crema",
+      "50 ml Jugo de limón",
+      "200 g Mayonesa",
+      "1 cucharadita Ajo en polvo",
+      "1 atado de Ciboulette",
+      "1 cucharadita Pimienta negra molida",
+      "1 cucharadita Orégano",
+      "1 cucharada Perejil",
+      "1 cucharadita Azúcar",
+      "1 cucharadita Sal"
+    ],
+    "ingredients_display": [
+      "200 ml Crema",
+      "50 ml Jugo de limón",
+      "200 g Mayonesa",
+      "1 cucharadita Ajo en polvo",
+      "1 atado de Ciboulette",
+      "1 cucharadita Pimienta negra molida",
+      "1 cucharadita Orégano",
+      "1 cucharada Perejil",
+      "1 cucharadita Azúcar",
+      "1 cucharadita Sal"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-25"
+  },
+  {
+    "id": "cl:salsa-sweet-chili",
+    "title": "Salsa Sweet Chili",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/salsa-sweet-chili",
+    "machine": null,
+    "original_ingredients": [
+      "100 ml Vinagre de arroz",
+      "150 ml Agua",
+      "250 g Azúcar",
+      "3 Dientes de ajo",
+      "20 g Jengibre",
+      "1 cucharada Sal",
+      "5 Ajíes cacho cabra frescos o ajíes rojos"
+    ],
+    "ingredients_display": [
+      "100 ml Vinagre de arroz",
+      "150 ml Agua",
+      "250 g Azúcar",
+      "3 Dientes de ajo",
+      "20 g Jengibre",
+      "1 cucharada Sal",
+      "5 Ajíes cacho cabra frescos o ajíes rojos"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-25"
+  },
+  {
+    "id": "cl:salsa-teriyaki-1",
+    "title": "Salsa teriyaki",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/salsa-teriyaki-1",
+    "machine": null,
+    "original_ingredients": [
+      "100 g Miel",
+      "100 ml Agua",
+      "100 ml Salsa de soya",
+      "5 g Jengibre",
+      "5 g Maicena"
+    ],
+    "ingredients_display": [
+      "100 g Miel",
+      "100 ml Agua",
+      "100 ml Salsa de soya",
+      "5 g Jengibre",
+      "5 g Maicena"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-25"
+  },
+  {
+    "id": "cl:salsa-verde-1",
+    "title": "Salsa verde",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/salsa-verde-1",
+    "machine": null,
+    "original_ingredients": [
+      "1/2 Cebolla",
+      "1 atado Perejil",
+      "1 cucharada Sal",
+      "1 cucharadita Ajo en polvo",
+      "1 cucharadita Pimienta negra molida",
+      "1 cucharadita Merkén (opcional)",
+      "200 ml Aceite",
+      "100 ml Vinagre blanco"
+    ],
+    "ingredients_display": [
+      "1/2 Cebolla",
+      "1 atado Perejil",
+      "1 cucharada Sal",
+      "1 cucharadita Ajo en polvo",
+      "1 cucharadita Pimienta negra molida",
+      "1 cucharadita Merkén (opcional)",
+      "200 ml Aceite",
+      "100 ml Vinagre blanco"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-25"
+  },
+  {
+    "id": "cl:scones-de-chocolate-blanco-y-arandanos-1",
+    "title": "Scones de chocolate blanco y arándanos",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/scones-de-chocolate-blanco-y-arandanos-1",
+    "machine": null,
+    "original_ingredients": [
+      "300 g Harina sin polvos de hornear",
+      "100 g Azúcar rubia",
+      "1 cucharadita Esencia de vainilla",
+      "100 ml Crema fría",
+      "120 g Arándanos",
+      "100 g Chocolate blanco picado",
+      "Azúcar flor para espolvorear",
+      "1 Huevo",
+      "10 g Polvos de hornear",
+      "80 g Mantequilla fría"
+    ],
+    "ingredients_display": [
+      "300 g Harina sin polvos de hornear",
+      "100 g Azúcar rubia",
+      "1 cucharadita Esencia de vainilla",
+      "100 ml Crema fría",
+      "120 g Arándanos",
+      "100 g Chocolate blanco picado",
+      "Azúcar flor para espolvorear",
+      "1 Huevo",
+      "10 g Polvos de hornear",
+      "80 g Mantequilla fría"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-25"
+  },
+  {
+    "id": "cl:semifreddo-de-vainilla",
+    "title": "Semifreddo de vainilla",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/semifreddo-de-vainilla",
+    "machine": null,
+    "original_ingredients": [
+      "1/2 cucharadita Ralladura de naranja",
+      "70 g Almendras",
+      "80 g Chocolate Trencito",
+      "300 ml Crema muy fría",
+      "1 L Helado de vainilla blando"
+    ],
+    "ingredients_display": [
+      "1/2 cucharadita Ralladura de naranja",
+      "70 g Almendras",
+      "80 g Chocolate Trencito",
+      "300 ml Crema muy fría",
+      "1 L Helado de vainilla blando"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-25"
+  },
+  {
+    "id": "cl:semola-con-salsa-de-vino-tinto",
+    "title": "Sémola con salsa de vino tinto",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/semola-con-salsa-de-vino-tinto",
+    "machine": null,
+    "original_ingredients": [
+      "1 L Leche descremada",
+      "120 g Sémola",
+      "30 g Tagatosa",
+      "2 Cáscaras de limón o naranja",
+      "1 Palito de canela",
+      "200 ml Vino tinto",
+      "50 g Tagatosa",
+      "1 Palito de canela"
+    ],
+    "ingredients_display": [
+      "1 L Leche descremada",
+      "120 g Sémola",
+      "30 g Tagatosa",
+      "2 Cáscaras de limón o naranja",
+      "1 Palito de canela",
+      "200 ml Vino tinto",
+      "50 g Tagatosa",
+      "1 Palito de canela"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-25"
+  },
+  {
+    "id": "cl:solomillo-de-cerdo-con-hierbas-1",
+    "title": "Solomillo de cerdo con hierbas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/solomillo-de-cerdo-con-hierbas-1",
+    "machine": null,
+    "original_ingredients": [
+      "3 Solomillos de cerdo",
+      "Hierbas frescas a elección (romero, tomillo, orégano, laurel, entre otros)",
+      "1.5 a 2 Kg Sal gruesa"
+    ],
+    "ingredients_display": [
+      "3 Solomillos de cerdo",
+      "Hierbas frescas a elección (romero, tomillo, orégano, laurel, entre otros)",
+      "1.5 a 2 Kg Sal gruesa"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-25"
+  },
+  {
+    "id": "cl:sopa-de-leche-1",
+    "title": "Sopa de Leche",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/sopa-de-leche-1",
+    "machine": null,
+    "original_ingredients": [
+      "1.3 L Agua",
+      "200 g Fideos cabellos de ángel",
+      "1 tarro Leche evaporada",
+      "1 Caldo de pollo",
+      "2 Huevos",
+      "40 g Queso parmesano rallado",
+      "1 cucharadita Sal",
+      "Queso rallado para espolvorear",
+      "Perejil picado para espolvorear (opcional)"
+    ],
+    "ingredients_display": [
+      "1.3 L Agua",
+      "200 g Fideos cabellos de ángel",
+      "1 tarro Leche evaporada",
+      "1 Caldo de pollo",
+      "2 Huevos",
+      "40 g Queso parmesano rallado",
+      "1 cucharadita Sal",
+      "Queso rallado para espolvorear",
+      "Perejil picado para espolvorear (opcional)"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-25"
+  },
+  {
+    "id": "cl:sopa-de-tomate-albahaca-y-queso-feta-2",
+    "title": "Sopa de tomate albahaca y queso feta",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/sopa-de-tomate-albahaca-y-queso-feta-2",
+    "machine": null,
+    "original_ingredients": [
+      "6 Tomates maduros cortados en cuatro",
+      "1 Cebolla cortada en cuatro",
+      "2 Dientes de ajo",
+      "60 ml Aceite vegetal o aceite blend de Natura",
+      "300 g Queso feta",
+      "350 ml Agua",
+      "Albahaca a gusto",
+      "Sal a gusto",
+      "Pimienta a gusto"
+    ],
+    "ingredients_display": [
+      "6 Tomates maduros cortados en cuatro",
+      "1 Cebolla cortada en cuatro",
+      "2 Dientes de ajo",
+      "60 ml Aceite vegetal o aceite blend de Natura",
+      "300 g Queso feta",
+      "350 ml Agua",
+      "Albahaca a gusto",
+      "Sal a gusto",
+      "Pimienta a gusto"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-25"
+  },
+  {
+    "id": "cl:sopa-de-zapallo-italiano-espinaca-y-coco",
+    "title": "Sopa de zapallo italiano, espinaca y coco",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/sopa-de-zapallo-italiano-espinaca-y-coco",
+    "machine": null,
+    "original_ingredients": [
+      "150 g Espinaca",
+      "250 g Cebolla",
+      "400 g Zapallo italiano",
+      "200 ml Crema de coco",
+      "500 ml Agua",
+      "Cúrcuma",
+      "Curry",
+      "Sal",
+      "Pimienta",
+      "Crutones para decorar"
+    ],
+    "ingredients_display": [
+      "150 g Espinaca",
+      "250 g Cebolla",
+      "400 g Zapallo italiano",
+      "200 ml Crema de coco",
+      "500 ml Agua",
+      "Cúrcuma",
+      "Curry",
+      "Sal",
+      "Pimienta",
+      "Crutones para decorar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-25"
   }
 ]

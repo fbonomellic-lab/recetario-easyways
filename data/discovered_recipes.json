@@ -160,6 +160,14 @@
     "first_seen": "2026-11-14"
   },
   {
+    "id": "ar:caldo-concentrado-en-caluga",
+    "title": "Caldo concentrado en caluga \n                         Nutrirecetas, Platos de Fondo, Sopas / Cremas, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/caldo-concentrado-en-caluga",
+    "first_seen": "2026-11-25"
+  },
+  {
     "id": "ar:calzones-rotos",
     "title": "Calzones rotos \n                         Masas / Queques / Panes, Comida chilena",
     "country": "AR",
@@ -422,6 +430,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/espuma-de-limon",
     "first_seen": "2026-11-14"
+  },
+  {
+    "id": "ar:estofado-de-cerdo-y-champinones",
+    "title": "Estofado de cerdo y champiñones \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/estofado-de-cerdo-y-champinones",
+    "first_seen": "2026-11-25"
   },
   {
     "id": "ar:figuras-de-mazapan-vegano",
@@ -960,6 +976,14 @@
     "first_seen": "2026-10-29"
   },
   {
+    "id": "ar:pan-de-pascua-gluten-free",
+    "title": "Pan de pascua gluten free \n                         Nutrirecetas, Masas / Queques / Panes, Navidad",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pan-de-pascua-gluten-free",
+    "first_seen": "2026-11-25"
+  },
+  {
     "id": "ar:pan-dulce",
     "title": "Pan dulce \n                         Masas / Queques / Panes",
     "country": "AR",
@@ -1264,6 +1288,14 @@
     "first_seen": "2026-10-30"
   },
   {
+    "id": "ar:risotto-de-mote",
+    "title": "Risotto de mote \n                         Nutrirecetas, Platos de Fondo, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/risotto-de-mote",
+    "first_seen": "2026-11-25"
+  },
+  {
     "id": "ar:risotto-de-quinoa-con-champinones-y-callampas",
     "title": "Risotto de quinoa con champiñones y callampas \n                         Platos de Fondo, Platos de Fondo, Vegetarianos",
     "country": "AR",
@@ -1510,6 +1542,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/torta-de-trufas-de-chocolate",
     "first_seen": "2026-10-29"
+  },
+  {
+    "id": "ar:torta-helada-de-almendras",
+    "title": "Torta helada de almendras \n                         Nuevas, Navidad, Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/torta-helada-de-almendras",
+    "first_seen": "2026-11-25"
   },
   {
     "id": "ar:triffle-de-pina",
