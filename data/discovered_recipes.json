@@ -728,6 +728,14 @@
     "first_seen": "2026-10-28"
   },
   {
+    "id": "ar:huevos-de-pacua-rellenos-con-trufa-de-datiles",
+    "title": "Huevos de pascua rellenos con trufa de dátiles \n                         Nutrirecetas, Mermeladas / Dulces, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/huevos-de-pacua-rellenos-con-trufa-de-datiles",
+    "first_seen": "2026-11-26"
+  },
+  {
     "id": "ar:leche-asada",
     "title": "Leche asada \n                         Postres, Comida chilena",
     "country": "AR",
@@ -1448,6 +1456,14 @@
     "first_seen": "2026-11-21"
   },
   {
+    "id": "ar:tapenade",
+    "title": "Tapenade \n                         Entradas / Salsas / Aperitivos",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/tapenade",
+    "first_seen": "2026-11-26"
+  },
+  {
     "id": "ar:tarta-de-acelga",
     "title": "Tarta de acelga \n                         Platos de Fondo, Nuevas, Nuevas, Platos de Fondo, Vegetarianos",
     "country": "AR",
@@ -1502,6 +1518,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/tarte-tatin-o-tarta-de-manzanas-acarameladas",
     "first_seen": "2026-11-02"
+  },
+  {
+    "id": "ar:tiramisu-sin-azucar",
+    "title": "Tiramisú sin azúcar \n                         Postres, Nutrirecetas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/tiramisu-sin-azucar",
+    "first_seen": "2026-11-26"
   },
   {
     "id": "ar:tomatican",

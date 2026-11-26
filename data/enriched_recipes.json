@@ -9416,5 +9416,367 @@
     "ingredient_filter_ready": false,
     "first_seen": "2026-10-23",
     "enriched_on": "2026-11-25"
+  },
+  {
+    "id": "cl:sopa-de-zapallo-italiano-sin-lactosa-2",
+    "title": "Sopa de zapallo italiano sin lactosa",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/sopa-de-zapallo-italiano-sin-lactosa-2",
+    "machine": null,
+    "original_ingredients": [
+      "3 Zapallos italianos",
+      "2 Dientes de ajo",
+      "80 g Nueces",
+      "50 g Cilantro",
+      "320 ml Agua",
+      "Sal a gusto",
+      "Pimienta a gusto"
+    ],
+    "ingredients_display": [
+      "3 Zapallos italianos",
+      "2 Dientes de ajo",
+      "80 g Nueces",
+      "50 g Cilantro",
+      "320 ml Agua",
+      "Sal a gusto",
+      "Pimienta a gusto"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-26"
+  },
+  {
+    "id": "cl:sopaipillas-de-colores",
+    "title": "Sopaipillas de colores",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/sopaipillas-de-colores",
+    "machine": null,
+    "original_ingredients": [
+      "420 g Harina integral",
+      "380 g Zapallo trozado",
+      "250 g Betarraga cortada en dos",
+      "170 g Harina de arroz",
+      "60 g Espinaca sin tallo",
+      "50 g Maicena",
+      "20 ml Aceite de oliva",
+      "11 g Polvos de hornear",
+      "Sal",
+      "1 L Agua"
+    ],
+    "ingredients_display": [
+      "420 g Harina integral",
+      "380 g Zapallo trozado",
+      "250 g Betarraga cortada en dos",
+      "170 g Harina de arroz",
+      "60 g Espinaca sin tallo",
+      "50 g Maicena",
+      "20 ml Aceite de oliva",
+      "11 g Polvos de hornear",
+      "Sal",
+      "1 L Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-26"
+  },
+  {
+    "id": "cl:sopaipillas-integrales-al-horno",
+    "title": "Sopaipillas integrales al horno",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/sopaipillas-integrales-al-horno",
+    "machine": null,
+    "original_ingredients": [
+      "200 g Zapallo pelado y cortado en cubos",
+      "200 g Harina integral",
+      "Aceite de oliva",
+      "5 g Polvos de hornear",
+      "1 g Sal",
+      "500 ml Agua"
+    ],
+    "ingredients_display": [
+      "200 g Zapallo pelado y cortado en cubos",
+      "200 g Harina integral",
+      "Aceite de oliva",
+      "5 g Polvos de hornear",
+      "1 g Sal",
+      "500 ml Agua"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-26"
+  },
+  {
+    "id": "cl:sorbete-de-frutas",
+    "title": "Sorbete de frutas",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/sorbete-de-frutas",
+    "machine": null,
+    "original_ingredients": [
+      "400 g Fruta congelada (frutos del bosque, frambuesas, frutillas, etc.)",
+      "Jugo de 1 limón",
+      "Jugo de 1/2 naranja",
+      "60 g Azúcar"
+    ],
+    "ingredients_display": [
+      "400 g Fruta congelada (frutos del bosque, frambuesas, frutillas, etc.)",
+      "Jugo de 1 limón",
+      "Jugo de 1/2 naranja",
+      "60 g Azúcar"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-26"
+  },
+  {
+    "id": "cl:souffle-de-choclos-1",
+    "title": "Soufflé de choclos",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/souffle-de-choclos-1",
+    "machine": null,
+    "original_ingredients": [
+      "550 g Choclos pasteleros desgranados",
+      "4 Huevos",
+      "50 g Mantequilla",
+      "100 ml Crema",
+      "Albahaca (opcional)",
+      "Sal",
+      "Pimienta"
+    ],
+    "ingredients_display": [
+      "550 g Choclos pasteleros desgranados",
+      "4 Huevos",
+      "50 g Mantequilla",
+      "100 ml Crema",
+      "Albahaca (opcional)",
+      "Sal",
+      "Pimienta"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-26"
+  },
+  {
+    "id": "cl:suspiro-de-maracuya",
+    "title": "Suspiro de maracuyá",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/suspiro-de-maracuya",
+    "machine": null,
+    "original_ingredients": [
+      "397 g Leche condensada",
+      "375 ml Leche evaporada",
+      "4 Yema de huevo",
+      "1 cucharadita Esencia de vainilla",
+      "250 g Pulpa de maracuyá con pepitas"
+    ],
+    "ingredients_display": [
+      "397 g Leche condensada",
+      "375 ml Leche evaporada",
+      "4 Yema de huevo",
+      "1 cucharadita Esencia de vainilla",
+      "250 g Pulpa de maracuyá con pepitas"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-26"
+  },
+  {
+    "id": "cl:syrup-de-frutilla-1",
+    "title": "Syrup de frutilla",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/syrup-de-frutilla-1",
+    "machine": null,
+    "original_ingredients": [
+      "300 g Azúcar",
+      "200 g Agua",
+      "250 g Frutillas lavadas"
+    ],
+    "ingredients_display": [
+      "300 g Azúcar",
+      "200 g Agua",
+      "250 g Frutillas lavadas"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-26"
+  },
+  {
+    "id": "cl:tallarines-de-zapallo-italiano-con-salsa-de-palta-y-espinaca",
+    "title": "Tallarines de zapallo italiano con salsa de palta y espinaca",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/tallarines-de-zapallo-italiano-con-salsa-de-palta-y-espinaca",
+    "machine": null,
+    "original_ingredients": [
+      "2 Kg Zapallo italiano",
+      "250 g Palta pelada y sin cuesco",
+      "150 g Quesillo",
+      "120 g Cebolla",
+      "100 g Espinaca",
+      "50 g Nueces",
+      "1 Diente de ajo",
+      "Jugo de 1 limón",
+      "Sal",
+      "Pimienta",
+      "500 ml Agua",
+      "Queso parmesano (opcional)",
+      "Tomates cherry (opcional)"
+    ],
+    "ingredients_display": [
+      "2 Kg Zapallo italiano",
+      "250 g Palta pelada y sin cuesco",
+      "150 g Quesillo",
+      "120 g Cebolla",
+      "100 g Espinaca",
+      "50 g Nueces",
+      "1 Diente de ajo",
+      "Jugo de 1 limón",
+      "Sal",
+      "Pimienta",
+      "500 ml Agua",
+      "Queso parmesano (opcional)",
+      "Tomates cherry (opcional)"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-26"
+  },
+  {
+    "id": "cl:tapenade-o-pate-de-aceitunas-negras-3",
+    "title": "Paté de aceitunas negras",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/tapenade-o-pate-de-aceitunas-negras-3",
+    "machine": null,
+    "original_ingredients": [
+      "300 g Aceitunas negras deshuesadas",
+      "30 g Alcaparras escurridas",
+      "1 diente Ajo pequeño",
+      "40 ml Aceite de oliva Natura",
+      "15 ml Jugo de limón",
+      "Ralladura de 1 limón",
+      "Hierbas secas a elección (orégano, tomillo o albahaca)",
+      "3 filetitos Anchoas (opcional)"
+    ],
+    "ingredients_display": [
+      "300 g Aceitunas negras deshuesadas",
+      "30 g Alcaparras escurridas",
+      "1 diente Ajo pequeño",
+      "40 ml Aceite de oliva Natura",
+      "15 ml Jugo de limón",
+      "Ralladura de 1 limón",
+      "Hierbas secas a elección (orégano, tomillo o albahaca)",
+      "3 filetitos Anchoas (opcional)"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-26"
+  },
+  {
+    "id": "cl:tarta-de-manzana",
+    "title": "Tarta de manzana",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/tarta-de-manzana",
+    "machine": null,
+    "original_ingredients": [
+      "500 g Manzana roja peladas, sin pepas y cortadas en láminas",
+      "50 g Azúcar rubia",
+      "100 g Mantequilla blanda",
+      "70 g Nueces",
+      "50 g Pasas sultaninas",
+      "1 cucharadita Canela",
+      "200 ml Jugo de manzana",
+      "7.5 g Gelatina sin sabor",
+      "Nuez moscada (opcional)",
+      "Clavo de olor (opcional)"
+    ],
+    "ingredients_display": [
+      "500 g Manzana roja peladas, sin pepas y cortadas en láminas",
+      "50 g Azúcar rubia",
+      "100 g Mantequilla blanda",
+      "70 g Nueces",
+      "50 g Pasas sultaninas",
+      "1 cucharadita Canela",
+      "200 ml Jugo de manzana",
+      "7.5 g Gelatina sin sabor",
+      "Nuez moscada (opcional)",
+      "Clavo de olor (opcional)"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-26"
+  },
+  {
+    "id": "cl:tarta-de-manzanas-con-manjar",
+    "title": "Tarta de manzanas con manjar",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/tarta-de-manzanas-con-manjar",
+    "machine": null,
+    "original_ingredients": [
+      "225 g Harina sin polvos de hornear",
+      "30 g Azúcar flor",
+      "50 ml Agua fría",
+      "175 g Mantequilla",
+      "3 Manzana verde peladas y cortadas en rodajas",
+      "50 g Mantequilla",
+      "200 g Manjar",
+      "Azúcar para espolvorear",
+      "1 Huevo batido"
+    ],
+    "ingredients_display": [
+      "225 g Harina sin polvos de hornear",
+      "30 g Azúcar flor",
+      "50 ml Agua fría",
+      "175 g Mantequilla",
+      "3 Manzana verde peladas y cortadas en rodajas",
+      "50 g Mantequilla",
+      "200 g Manjar",
+      "Azúcar para espolvorear",
+      "1 Huevo batido"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-26"
+  },
+  {
+    "id": "cl:tarta-de-maracuya",
+    "title": "Tarta de maracuyá",
+    "country": "CL",
+    "source_url": "https://easyways.cl/blogs/recetas/tarta-de-maracuya",
+    "machine": null,
+    "original_ingredients": [
+      "167 g Galletas de maravilla",
+      "375 ml Leche evaporada refrigerada por 8 horas",
+      "250 ml Pulpa de maracuyá",
+      "30 g Mantequilla a temperatura ambiente",
+      "40 gotitas Endulzante",
+      "Ralladura de naranja",
+      "30 ml Jugo de naranja natural",
+      "20 ml Agua hirviendo",
+      "7.5 g Gelatina sin sabor"
+    ],
+    "ingredients_display": [
+      "167 g Galletas de maravilla",
+      "375 ml Leche evaporada refrigerada por 8 horas",
+      "250 ml Pulpa de maracuyá",
+      "30 g Mantequilla a temperatura ambiente",
+      "40 gotitas Endulzante",
+      "Ralladura de naranja",
+      "30 ml Jugo de naranja natural",
+      "20 ml Agua hirviendo",
+      "7.5 g Gelatina sin sabor"
+    ],
+    "extraction_method": "jsonld",
+    "ingredient_filter_ready": false,
+    "first_seen": "2026-10-23",
+    "enriched_on": "2026-11-26"
   }
 ]
