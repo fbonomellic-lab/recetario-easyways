@@ -504,6 +504,14 @@
     "first_seen": "2026-10-23"
   },
   {
+    "id": "ar:galletas-con-chips-de-chocolate",
+    "title": "Galletas con chips de chocolate \n                         Masas / Queques / Panes",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/galletas-con-chips-de-chocolate",
+    "first_seen": "2026-11-27"
+  },
+  {
     "id": "ar:galletas-de-almendras-y-canela",
     "title": "Galletas de almendras y canela \n                         Masas / Queques / Panes",
     "country": "AR",
@@ -1136,6 +1144,14 @@
     "first_seen": "2026-11-08"
   },
   {
+    "id": "ar:pollo-relleno",
+    "title": "Pollo relleno \n                         Platos de Fondo",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/pollo-relleno",
+    "first_seen": "2026-11-27"
+  },
+  {
     "id": "ar:porotos-con-mazamorra",
     "title": "Porotos con mazamorra \n                         Platos de Fondo",
     "country": "AR",
@@ -1246,6 +1262,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/quequitos-citricos",
     "first_seen": "2026-11-14"
+  },
+  {
+    "id": "ar:quequitos-de-pasas",
+    "title": "Quequitos de pasas \n                         Masas / Queques / Panes, Nuevas",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/quequitos-de-pasas",
+    "first_seen": "2026-11-27"
   },
   {
     "id": "ar:quequitos-de-zanahoria",
@@ -1574,6 +1598,14 @@
     "machine": null,
     "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/torta-helada-de-almendras",
     "first_seen": "2026-11-25"
+  },
+  {
+    "id": "ar:torta-panqueque-naranja",
+    "title": "Torta panqueque naranja \n                         Postres",
+    "country": "AR",
+    "machine": null,
+    "source_url": "https://recetas.easyways.com.ar/kitchen-pro/kitchen-pro/torta-panqueque-naranja",
+    "first_seen": "2026-11-27"
   },
   {
     "id": "ar:triffle-de-pina",
